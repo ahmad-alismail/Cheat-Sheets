@@ -1,8 +1,8 @@
 ## Shortcuts
-==Cmd + E== toggle between edit and preview mode
-==Cmd + Enter== to toggle a checkbox
-==Cmd + Shift + F== to search in all files
-==Cmd + ] or [== : to change the indentation
+* ==Cmd + E== toggle between edit and preview mode
+* ==Cmd + Enter== to toggle a checkbox
+* ==Cmd + Shift + F== to search in all files
+* ==Cmd + ] or [== : to change the indentation
 
 Tag: #essential/format
 ## Source
