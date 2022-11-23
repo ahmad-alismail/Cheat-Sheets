@@ -1,987 +1,421 @@
-<!DOCTYPE html>
-<!-- saved from url=(0049)https://help.obsidian.md/How+to/Format+your+notes -->
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><!--<base href="https://publish.obsidian.md">--><base href="."><title>Format your notes - Obsidian Help</title><meta name="description" content="Format your notes - Obsidian Help"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="Content-Security-Policy" content="default-src &#39;self&#39; *.obsidian.md; script-src &#39;self&#39; &#39;unsafe-inline&#39; &#39;unsafe-eval&#39; *.obsidian.md blob: https://*:*; frame-src &#39;self&#39; https://*:* http://127.0.0.1:*; child-src &#39;self&#39; * blob:; style-src &#39;self&#39; &#39;unsafe-inline&#39; https://*:* http://127.0.0.1:*; font-src * https://*:* data: blob:; img-src * data: blob:; media-src * data: blob:; connect-src &#39;self&#39; &#39;unsafe-eval&#39; ws://*:* http://*:*"><script defer="defer" src="./Format your notes - Obsidian Help_files/app.js.download"></script><link href="./Format your notes - Obsidian Help_files/app.css" rel="stylesheet"><link rel="icon" sizes="96x96" href="https://publish-01.obsidian.md/access/f786db9fac45774fa4f0d8112e232d67/favicon-96x96.png"><link rel="icon" sizes="32x32" href="https://publish-01.obsidian.md/access/f786db9fac45774fa4f0d8112e232d67/favicon-32x32.png"><link rel="icon" sizes="16x16" href="https://publish-01.obsidian.md/access/f786db9fac45774fa4f0d8112e232d67/favicon-16x16.png"><style type="text/css"></style><style type="text/css">:root topadblock, :root span[id^="ezoic-pub-ad-placeholder-"], :root mq-programmatic-ad, :root iframe[src^="http://www.adpeepshosted.com/adpeeps.php?"], :root div[id^="zergnet-widget"], :root div[id^="traffective-ad-"], :root div[id^="taboola-stream-"], :root div[id^="sticky_ad_"], :root div[id^="rc-widget-"], :root div[id^="proadszone-"], :root div[id^="lazyad-"], :root div[id^="js-dfp-"], :root div[id^="gtm-ad-"], :root div[id^="google_dfp_"], :root div[id^="ezoic-pub-ad-"], :root div[id^="div-adtech-ad-"], :root div[id^="dfp-slot-"], :root div[id^="dfp-ad-"], :root div[id^="code_ads_"], :root div[id^="banner-ad-"], :root div[id^="advt-"], :root div[id^="advads_"], :root div[id^="advads-"], :root div[id^="adspot-"], :root div[id^="ads300_100-widget-"], :root div[id^="adrotate_widgets-"], :root div[id^="adngin-"], :root div[id^="adfox_"], :root div[id^="ad_script_"], :root div[id^="ad_rect_"], :root div[id^="ad_position_"], :root div[id^="ad-server-"], :root div[id^="ad-inserter-"], :root div[id^="ad-cid-"], :root div[id^="_vdo_ads_player_ai_"], :root div[data-test-id="AdDisplayWrapper"], :root div[data-subscript="Advertising"], :root div[data-spotim-slot], :root div[data-role="sidebarAd"], :root div[data-native_ad], :root div[data-mediatype="advertising"], :root div[data-insertion], :root div[data-id-advertdfpconf], :root div[data-dfp-id], :root div[data-content="Advertisement"], :root div[data-adunit], :root div[data-adunit-path], :root div[data-before-content="advertisement"], :root div[data-adservice-param-tagid="contentad"], :root div[data-adname], :root div[data-ad-wrapper], :root div[data-ad-underplayer], :root div[data-ad-placeholder], :root div[class^="sp-adslot-"], :root div[class^="s-dfp-"], :root div[class^="proadszone-"], :root div[class^="pane-google-admanager-"], :root div[class^="native-ad-"], :root div[class^="lifeOnwerAd"], :root div[class^="largeRectangleAd_"], :root div[class^="kiwiad-popup"], :root div[class^="kiwiad-desktop"], :root div[class^="index_adBeforeContent_"], :root div[class^="index_adAfterContent_"], :root div[class^="index__adWrapper"], :root div[class^="block-openx-"], :root div[class^="backfill-taboola-home-slot-"], :root div[class^="articleAdUnitMPU_"], :root div[class^="advertisement-desktop"], :root div[class^="adunit_"], :root div[class^="adsbutt_wrapper_"], :root div[class^="ads-partner-"], :root div[class^="adpubs-"], :root div[class^="adbanner_"], :root div[class^="ad_position_"], :root div[class^="SponsoredAds"], :root div[class^="ResponsiveAd-"], :root div[class^="PreAd_"], :root div[class^="Display_displayAd"], :root div[class^="Directory__footerAds"], :root div[class^="Component-dfp-"], :root div[class^="BlockAdvert-"], :root div[class^="BannerAd_"], :root div[class^="AdhesionAd_"], :root div[class^="Ad__bigBox"], :root div[class^="Ad__adContainer"], :root div[class^="AdSlot__container"], :root div[class^="ad_border_"], :root div[class^="AdItem-"], :root div[class^="AdEmbeded__AddWrapper"], :root span[data-component-type="s-ads-metrics"], :root div[class^="AdBannerWrapper-"], :root display-ads, :root display-ad-component, :root a[href^="http://lp.ezdownloadpro.info/"], :root a[href^="http://uploaded.net/ref/"], :root aside[id^="advads_ad_widget-"], :root aside[id^="adrotate_widgets-"], :root a[href^="https://ad.doubleclick.net/"], :root app-advertisement, :root amp-ad-custom, :root [data-ad-width], :root [id*="MGWrap"], :root ad-desktop-sidebar, :root aa[href^="https://itubego.com/video-downloader/?affid="], :root a[target="_blank"][onmousedown="this.href^='http://paid.outbrain.com/network/redir?"], :root div[id^="div-ads-"], :root a[href^="http://at.atwola.com/"], :root a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"] + .ob_source, :root a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"] + .ob_source, :root a[href^="https://www.vfreecams.com/in/?track="], :root a[href^="https://www.share-online.biz/affiliate/"], :root a[href^="https://www.purevpn.com/"][href*="&utm_source=aff-"], :root DFP-AD, :root a[href^="//porngames.adult/?SID="], :root a[href^="https://www.oneclickroot.com/?tap_a="] > img, :root a[href^="https://www.oboom.com/ad/"], :root a[href^="https://www.nudeidols.com/cams/"], :root a[href^="https://www.mypornstarcams.com/landing/click/"], :root a[href^="https://www.mrskin.com/account/"], :root div[data-adzone], :root a[href^="https://www.iyalc.com/"], :root a[href^="https://fastestvpn.com/lifetime-special-deal?a_aid="], :root a[href^="https://www.goldenfrog.com/vyprvpn?offer_id="][href*="&aff_id="], :root a[href^="https://www.get-express-vpn.com/offer/"], :root a[href^="https://www.gambling-affiliation.com/cpc/"], :root a[href^="http://webgirlz.online/landing/"], :root a[href^="https://www.g4mz.com/"], :root a[href^="https://www.dollps.com/?track="], :root a[href^="https://www.clicktraceclick.com/"], :root a[href^="https://www.camsoda.com/enter.php?id="], :root a[href^="https://www.brazzersnetwork.com/landing/"], :root a[href^="https://www.bebi.com"], :root .card-captioned.crd > .crd--cnt > .s2nPlayer, :root a[href^="https://www.arthrozene.com/"][href*="?tid="], :root a[href^="https://www.adskeeper.co.uk/"], :root a[href^="https://t.grtyi.com/"], :root a[href^="https://wittered-mainging.com/"], :root a[href^="http://farm.plista.com/pets"], :root a[href^="https://windscribe.com/promo/"], :root [href^="/ucdownload.php"], :root a[href^="https://wantopticalfreelance.com/"], :root amp-embed[type="taboola"], :root a[href^="http://c43a3cd8f99413891.com/"], :root a[href^="https://trust.zone/go/r.php?RID="], :root div[data-ad-targeting], :root a[href^="https://trk.moviesflix4k.xyz/"], :root a[href^="https://trf.bannerator.com/"], :root a[href^="https://bestcond1tions.com/"], :root a[href^="http://go.247traffic.com/"], :root a[href^="https://trappist-1d.com/"], :root a[href^="http://anonymous-net.com/"], :root a[href^="https://transfer.xe.com/signup/track/redirect?"], :root a[href^="https://vo2.qrlsx.com/"], :root a[href^="https://tracking.truthfinder.com/?a="], :root a[href^="https://tracking.gitads.io/"], :root a[href^="https://tracking.avapartner.com/"], :root a[href^="https://track.ultravpn.com/"], :root a[href^="https://track.interactivegf.com/"], :root a[href^="https://vlnk.me/"], :root a[href^="https://www.adultempire.com/"][href*="?partner_id="], :root a[href^="https://track.healthtrader.com/"], :root a[href^="http://greensmoke.com/"], :root a[href^="https://track.effiliation.com/servlet/effi.click?"] > img, :root a[href^="https://track.clickmoi.xyz/"], :root a[href^="https://track.afcpatrk.com/"], :root a[href^="https://control.trafficfabrik.com/"], :root a[href^="https://track.52zxzh.com/"], :root a[href^="http://www.greenmangaming.com/?tap_a="], :root a[href^="https://tm-offers.gamingadult.com/"], :root a[href^="https://t.hrtyj.com/"], :root a[href^="https://t.adating.link/"], :root a[href^="https://squren.com/rotator/?atomid="], :root div[id^="ad-div-"], :root a[href^="https://secure.eveonline.com/ft/?aid="], :root [href^="https://mypillow.com/"] > img, :root a[href^="https://www.sheetmusicplus.com/?aff_id="], :root div[class^="pane-adsense-managed-"], :root a[href^="https://www.bang.com/?aff="], :root a[href^="https://secure.bstlnk.com/"], :root div[class^="index_displayAd_"], :root a[href^="http://adultgames.xxx/"], :root a[href^="http://semi-cod.com/clicks/"], :root a[href^="https://s.zlink2.com/"], :root div[class^="kiwi-ad-wrapper"], :root a[href^="https://rev.adsession.com/"], :root a[href^="https://someperceptionparade.com/"], :root a[href^="https://refpasrasw.world/"], :root div[data-google-query-id], :root a[href^="https://mediaserver.entainpartners.com/renderBanner.do?"], :root a[href^="https://refpaexhil.top/"], :root a[href^="https://reachtrgt.com/"], :root [href^="http://advertisesimple.info/"], :root a[href^="https://www.friendlyduck.com/AF_"], :root a[href^="https://queersodadults.com/"], :root div[id^="yandex_ad"], :root a[href^="https://www.hotgirls4fuck.com/"], :root a[href^="https://www.pornhat.com/"][rel="nofollow"], :root AD-SLOT, :root a[href^="https://pubads.g.doubleclick.net/"], :root a[href^="https://prf.hn/click/"][href*="/camref:"] > img, :root a[href^="http://www.my-dirty-hobby.com/?sub="], :root a[href^="https://porndeals.com/?track="], :root a[href^="https://pcm.bannerator.com/"], :root a[href^="https://offerforge.net/"], :root a[href^="https://track.wg-aff.com"], :root a[href^="https://nutrientassumptionclaims.com/"], :root a[href^="https://ndt5.net/"], :root a[href^="https://natour.naughtyamerica.com/track/"], :root a[href^="https://myusenet.xyz/"], :root a[href^="https://my-movie.club/"], :root a[href^="https://msecure117.com/"], :root [href^="https://detachedbates.com/"], :root a[href^="https://mk-cdn.net/"], :root a[href^="https://mk-ads.com/"], :root a[href^="https://meet-sex-here.com/?u="], :root a[href^="https://medleyads.com/"], :root a[href^="https://mediaserver.gvcaffiliates.com/renderBanner.do?"], :root a[href^="https://lead1.pl/"], :root iframe[src^="https://tpc.googlesyndication.com/"], :root a[href^="https://a.bestcontentoperation.top/"], :root a[href^="https://landing1.brazzersnetwork.com"], :root a[href^="http://adrunnr.com/"], :root a[href^="https://landing.brazzersplus.com/"], :root a[href^="https://land.rk.com/landing/"], :root a[href^="http://ad.au.doubleclick.net/"], :root a[href^="https://k2s.cc/pr/"], :root a[href^="https://juicyads.in/"], :root a[href^="https://join.virtuallust3d.com/"], :root a[href^="http://www.uniblue.com/cm/"], :root a[href^="https://join.sexworld3d.com/track/"], :root a[href^="https://join.dreamsexworld.com/"], :root a[href^="https://trusted-click-host.com/"], :root a[href^="https://members.linkifier.com/public/affiliateLanding?refCode="], :root a[href^="https://jmp.awempire.com/"], :root a[href^="https://intenseaffiliates.com/redirect/"], :root [href^="http://join.shemalepornstar.com/"], :root [id^="ad_sky"], :root a[href^="https://incisivetrk.cvtr.io/click?"], :root a[href^="https://iactrivago.ampxdirect.com/"], :root a[href^="https://iac.ampxdirect.com/"], :root a[href^="https://horny-pussies.com/tds"], :root a[href^="https://graizoah.com/"], :root a[href^="https://goraps.com/"], :root a[href^="http://feedads.g.doubleclick.net/"], :root a[href^="https://redsittalvetoft.pro/"], :root a[href^="https://googleads.g.doubleclick.net/pcs/click"], :root a[href^="//thaudray.com/"], :root a[href^="http://cdn.adstract.com/"], :root a[href^="https://gogoman.me/"], :root a[href^="https://www.securegfm.com/"], :root a[href^="https://go.xxxjmp.com"], :root a[href^="https://go.xtbaffiliates.com/"], :root a[href^="https://torrentsafeguard.com/?aid="], :root [href^="https://v.investologic.co.uk/"], :root a[href^="https://offers.refchamp.com/"], :root a[href^="https://go.trkclick2.com/"], :root a[href^="https://go.strpjmp.com/"], :root a[href^="https://go.markets.com/visit/?bta="], :root a[href^="http://vo2.qrlsx.com/"], :root a[href^="https://pl.premium4kflix.website/"], :root a[href^="https://go.julrdr.com/"], :root a[href^="https://landing.brazzersnetwork.com/"], :root a[href^="https://go.hpyjmp.com/"], :root a[href^="https://go.goasrv.com/"], :root a[href^="https://adnetwrk.com/"], :root a[href^="https://go.gldrdr.com/"], :root a[href^="https://fleshlight.sjv.io/"], :root a[href^="https://go.etoro.com/"] > img, :root a[href^="https://go.currency.com/"], :root a[href^="https://track.afftck.com/"], :root a[href^="https://gohere.pl/"], :root a[href^="http://guideways.info/"], :root a[href^="https://go.cmrdr.com/"], :root a[href^="http://www.easydownloadnow.com/"], :root [href^="http://www.pingperfect.com/aff.php"], :root a[href^="https://go.alxbgo.com/"], :root a[href^="https://go.admjmp.com/"], :root a[href^="https://go.ad2up.com/"], :root a[href^="https://giftsale.co.uk/?utm_"], :root a[href^="http://www.terraclicks.com/"], :root a[href^="https://gghf.mobi/"], :root a[href^="https://get.surfshark.net/aff_c?"][href*="&aff_id="] > img, :root a[href^="http://adserver.adtech.de/"], :root a[href^="https://www.mrskin.com/tour"], :root a[href^="https://frameworkdeserve.com/"], :root a[href^="https://fonts.fontplace9.com/"], :root a[href^="http://clkmon.com/adServe/"], :root a[href^="https://flirtaescopa.com/"], :root bottomadblock, :root a[href^="https://fertilitycommand.com/"], :root a[href^="https://axdsz.pro/"], :root a[href^="https://tour.mrskin.com/"], :root a[href^="https://fakelay.com/"], :root a[href^="https://earandmarketing.com/"], :root [lazy-ad="leftthin_banner"], :root a[href^="https://dynamicadx.com/"], :root div[id^="div-gpt-"], :root a[href^="https://dooloust.net/"], :root a[href^="https://www.what-sexdating.com/"], :root a[href^="https://tc.tradetracker.net/"] > img, :root a[href^="//srv.buysellads.com/"], :root a[href^="https://dianches-inchor.com/"], :root a[href^="http://adf.ly/?id="], :root a[href^="https://uncensored3d.com/"], :root a[href^="https://creacdn.top-convert.com/"], :root a[href^="https://www.chngtrack.com/"], :root iframe[src^="https://pagead2.googlesyndication.com/"], :root a[href^="https://retiremely.com/"], :root a[href^="https://cpmspace.com/"], :root [onclick*="content.ad/"], :root a[href^="https://clixtrac.com/"], :root a[href^="https://clicks.pipaffiliates.com/"], :root .commercial-unit-mobile-top > .v7hl4d, :root a[href^="https://click.plista.com/pets"], :root a[href^="https://claring-loccelkin.com/"], :root a[href^="https://chaturbate.xyz/"], :root [data-ad-cls], :root a[href^="https://chaturbate.jjgirls.com/?track="], :root a[href^="https://chaturbate.com/in/?track="], :root a[href^="https://chaturbate.com/in/?tour="], :root a[href^="https://chaturbate.com/affiliates/"], :root #kt_player > a[target="_blank"], :root a[href^="https://camfapr.com/landing/click/"], :root a[href^="https://cagothie.net/"], :root a[href^="https://burpee.xyz/"], :root a[href^="https://mcdlks.com/"], :root a[href^="https://bs.serving-sys.com"], :root a[href^="http://www.123-reg.co.uk/affiliate2.cgi"], :root a[href^="https://bongacams10.com/track?"], :root a[href^="https://blackorange.go2cloud.org/"], :root a[href^="https://affiliates.bet-at-home.com/processing/"], :root a[href^="https://ads.ad4game.com/"], :root a[href^="https://betway.com/"][href*="&a="], :root a[href^="https://awptjmp.com/"], :root a[href^="http://www.fleshlight.com/"], :root a[href^="https://aweptjmp.com/"], :root a[href^="http://www.1clickdownloader.com/"], :root a[href^="https://www.googleadservices.com/pagead/aclk?"], :root a[href^="https://awentw.com/"], :root [href^="/ucdownloader.php"], :root a[href^="https://awejmp.com/"], :root a[href^="https://ausoafab.net/"], :root a[href^="https://as.sexad.net/"], :root a[href^="https://playuhd.host/"], :root a[href^="https://as.conjectwatson.com/"], :root a[href^="http://bestorican.com/"], :root a[href^="https://galaxyroms.net/?scr="], :root a[href^="https://albionsoftwares.com/"], :root a[href^="http://cdn3.adexprts.com/"], :root a[href^="https://spygasm.com/track?"], :root a[href^="https://agacelebir.com/"], :root a[href^="https://geniusdexchange.com/"], :root a[href^="//postlnk.com/"], :root a[href^="https://affiliate.rusvpn.com/click.php?"], :root [data-role="tile-ads-module"], :root a[href^="https://affiliate.geekbuying.com/gkbaffiliate.php?"], :root [href^="https://www.reimageplus.com/"], :root a[href^="https://bongacams2.com/track?"], :root a[href^="http://www.twinplan.com/AF_"], :root a[href^="https://affcpatrk.com/"], :root a[href^="https://www.sugarinstant.com/?partner_id="], :root a[href^="http://adultfriendfinder.com/p/register.cgi?pid="], :root a[href^="http://www.advcashpro.com/aff/"], :root a[href^="https://www.popads.net/users/"], :root a[href^="https://adultfriendfinder.com/go/page/landing"], :root a[href^="https://adswick.com/"], :root ADS-RIGHT, :root a[href^="https://tracking.trackcasino.co/"], :root a[href^="https://adserver.adreactor.com/"], :root a[href^="https://land.brazzersnetwork.com/landing/"], :root a[href^="https://ads.leovegas.com/redirect.aspx?"], :root a[href^="https://t.hrtye.com/"], :root a[href^="https://ads.cdn.live/"], :root a[href^="https://ads.betfair.com/redirect.aspx?"], :root a[href^="https://refpaano.host/"], :root a[href^="https://meet-to-fuck.com/tds"], :root a[href^="https://adhealers.com/"], :root a[href^="https://adclick.g.doubleclick.net/"], :root a[href^="https://www.sheetmusicplus.com/"][href*="?aff_id="], :root a[href^="http://servicegetbook.net/"], :root a[href^="https://bngpt.com/"], :root a[href^="http://clickandjoinyourgirl.com/"], :root a[href^="https://ad13.adfarm1.adition.com/"], :root a[href^="https://misspkl.com/"], :root a[href^="https://ad.zanox.com/ppc/"] > img, :root a[href^="https://static.fleshlight.com/images/banners/"], :root a[href^="http://zevera.com/afi.html"], :root a[href^="http://go.oclaserver.com/"], :root a[href^="https://ad.atdmt.com/"], :root a[href^="https://cams.imagetwist.com/in/?track="], :root .trc_rbox .syndicatedItem, :root a[href^="https://a.bestcontentweb.top/"], :root a[href^="https://aaucwbe.com/"], :root a[href^="https://a.montangop.top/"], :root a[href^="http://campaign.bharatmatrimony.com/track/"], :root a[href^="https://a-ads.com/campaigns/"], :root .commercial-unit-mobile-top .jackpot-main-content-container > .UpgKEd + .nZZLFc > .vci, :root a[href^="https://syndication.exoclick.com/"], :root a[href^="https://financeads.net/tc.php?"], :root a[href^="https://a-ads.com/?partner="], :root a[href^="http://hyperlinksecure.com/go/"], :root a[href^="https://track.themadtrcker.com/"], :root a[href^="https://bullads.net/get/"], :root a[href^="http://down1oads.com/"], :root a[href^="http://yads.zedo.com/"], :root [href^="http://go.cm-trk2.com/"], :root a[href^="https://tracking.comfortclick.eu/"], :root a[href^="https://maymooth-stopic.com/"], :root a[href^="http://xtgem.com/click?"], :root a[href^="https://ads.trafficpoizon.com/"], :root div[class^="local-feed-banner-ads"], :root a[href^="http://wxdownloadmanager.com/dl/"], :root a[href^="http://www.xmediaserve.com/"], :root a[href^="http://www.webtrackerplus.com/"], :root a[href^="http://www.usearchmedia.com/signup?"], :root a[href^="http://www.torntv-downloader.com/"], :root a[href^="https://www.privateinternetaccess.com/"] > img, :root a[href^="http://www.tirerack.com/affiliates/"], :root a[href^="http://www.text-link-ads.com/"], :root a[href^="https://weedzy.co.uk/"][href*="&utm_"], :root a[href^="http://www.streamtunerhd.com/signup?"], :root a[href^="http://www.streamate.com/exports/"], :root a[href^="https://ads-for-free.com/click.php?"], :root a[href^="https://syndication.optimizesrv.com/"], :root a[href^="http://www.socialsex.com/"], :root a[href^="https://join.virtualtaboo.com/track/"], :root a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"], :root [href^="https://awbbjmp.com/"], :root a[href^="http://www.sfippa.com/"], :root a[href^="http://secure.signup-page.com/"], :root a[href^="http://www.quick-torrent.com/download.html?aff"], :root a[href^="http://www.plus500.com/?id="], :root a[href^="http://ffxitrack.com/"], :root a[href^="https://www.im88trk.com/"], :root [href*=".zlinkm.com/"], :root a[href^="http://www.pinkvisualgames.com/?revid="], :root a[href^="https://trklvs.com/"], :root a[href^="http://www.paddypower.com/?AFF_ID="], :root a[href^="http://www.onwebcam.com/random?t_link="], :root a[href^="http://www.onclickmega.com/jump/next.php?"], :root a[href^="https://go.247traffic.com/"], :root a[href^="http://www.freefilesdownloader.com/"], :root a[href^="http://www.mysuperpharm.com/"], :root a[href^="http://www.myfreepaysite.com/sfw.php?aid"], :root a[href^="http://www.mrskin.com/tour"], :root a[href^="http://bcntrack.com/"], :root a[href^="http://www.securegfm.com/"], :root a[href^="http://www.liversely.net/"], :root a[href^="https://partners.fxoro.com/click.php?"], :root a[href^="https://azpresearch.club/"], :root a[href^="http://www.linkbucks.com/referral/"], :root a[href^="http://www.idownloadplay.com/"], :root a[href^="http://www.hitcpm.com/"], :root a[href^="http://fusionads.net"], :root a[href^="http://www.hibids10.com/"], :root div[class^="awpcp-random-ads"], :root a[href^="http://www.graboid.com/affiliates/"], :root a[href^="http://www.getyourguide.com/?partner_id="], :root a[href^="http://www.gamebookers.com/cgi-bin/intro.cgi?"], :root a[href^="http://www.friendlyquacks.com/"], :root a[href^="https://www.financeads.net/tc.php?"], :root a[href^="http://www.friendlyduck.com/AF_"], :root a[href^="http://www.firstload.com/affiliate/"], :root a[href^="http://www.friendlyadvertisements.com/"], :root a[href^="http://ul.to/ref/"], :root a[href^="https://content.oneindia.com/www/delivery/"], :root a[href^="http://www.fpcTraffic2.com/blind/in.cgi?"], :root a[href^="http://www.fonts.com/BannerScript/"], :root [href^="https://www.restoro.com/"], :root a[href^="https://americafirstpolls.com/"], :root a[href^="http://clickserv.sitescout.com/"], :root a[href^="http://www.firstload.de/affiliate/"], :root a[href^="http://www.dealcent.com/register.php?affid="], :root a[data-url^="http://paid.outbrain.com/network/redir?"], :root iframe[id^="google_ads_frame"], :root a[href^="http://www.bet365.com/"][href*="affiliate="], :root a[href^="http://www.bluehost.com/track/"] > img, :root a[href^="http://www.coiwqe.site/"], :root a[href^="https://click.a-ads.com/"], :root a[href^="http://www.clkads.com/adServe/"], :root a[href^="http://www.babylon.com/welcome/index?affID"], :root .grid > .container > #aside-promotion, :root a[href^="http://www.badoink.com/go.php?"], :root a[href^="http://www.afgr3.com/"], :root a[href^="https://fast-redirecting.com/"], :root a[href^="https://bluedelivery.pro/"], :root [href^="http://join.michelle-austin.com/"], :root a[href^="http://www.sexgangsters.com/?pid="], :root a[href^="http://www.amazon.co.uk/exec/obidos/external-search?"], :root a[href^="http://c.jumia.io/"], :root a[href^="http://www.affiliates1128.com/processing/"], :root a[href^="http://go.ad2up.com/"], :root a[href^="https://badoinkvr.com/"], :root a[href^="http://www.adxpansion.com"], :root a[href^="http://ad-emea.doubleclick.net/"], :root a[href^="https://clickadilla.com/"], :root .ob_container .item-container-obpd, :root a[href^="http://websitedhoome.com/"], :root a[href^="http://www.adskeeper.co.uk/"], :root a[href^="http://www.down1oads.com/"], :root a[href^="http://www.FriendlyDuck.com/"], :root a[href^="http://webtrackerplus.com/"], :root a[href^="http://web.adblade.com/"], :root [href^="https://stvkr.com/"], :root a[href^="http://engine.newsmaxfeednetwork.com/"], :root a[href^="https://www.nutaku.net/signup/landing/"], :root a[href^="http://s9kkremkr0.com/"], :root a[href^="https://traffdaq.com/"], :root a[href^="http://ucam.xxx/?utm_"], :root a[href^="http://traffic.tc-clicks.com/"], :root a[href^="https://dediseedbox.com/clients/aff.php?"], :root [href^="/ucmini.php"], :root a[href^="http://www.wantstraffic.com/"], :root a[href^="http://databass.info/"], :root a[href^="http://track.afcpatrk.com/"], :root div[class^="Ad__container"], :root a[href^="http://adprovider.adlure.net/"], :root a[href^="http://t.wowtrk.com/"], :root a[href^="http://tezfiles.com/pr/"], :root [id*="ScriptRoot"], :root a[href^="http://fileboom.me/pr/"], :root a[href^="//coarsewary.com/"], :root a[href*=".trust.zone"], :root a[href^="http://www.firstclass-download.com/"], :root a[href^="http://tracking.deltamediallc.com/"], :root a[href^="http://tc.tradetracker.net/"] > img, :root div[class^="adUnit_"], :root a[href^="https://deliver.tf2www.com/"], :root .ob_dual_right > .ob_ads_header ~ .odb_div, :root a[href^="http://spygasm.com/track?"], :root a[href^="http://sharesuper.info/"], :root a[href^="https://awecrptjmp.com/"], :root [data-ez-name], :root a[href^="http://server.cpmstar.com/click.aspx?poolid="], :root a[href^="http://www.fbooksluts.com/"], :root a[href^="http://c.actiondesk.com/"], :root a[href^="http://intent.bingads.com/"], :root a[href^="http://www.cdjapan.co.jp/aff/click.cgi/"], :root .trc_related_container div[data-item-syndicated="true"], :root a[href^="https://www.firstload.com/affiliate/"], :root a[href^="http://see.kmisln.com/"], :root a[href^="http://secure.hostgator.com/~affiliat/"], :root a[href^="http://rs-stripe.wsj.com/stripe/redirect"], :root a[href^="http://refpaano.host/"], :root a[data-oburl^="http://paid.outbrain.com/network/redir?"], :root a[href^="https://engine.phn.doublepimp.com/"], :root a[href^="http://refpa.top/"], :root a[href^="https://easygamepromo.com/ef/custom_affiliate/"], :root a[href^="http://record.betsafe.com/"], :root a[href^="https://iqbroker.com/"][href*="?aff="], :root a[href*=".medgoodfood.com/"], :root a[href^="http://buysellads.com/"], :root a[href^="http://reallygoodlink.freehookupaffair.com/"], :root a[href^="https://keep2share.cc/pr/"], :root a[href^="http://pityhostngco2.xyz/"], :root a[href^="http://adlev.neodatagroup.com/"], :root a[href^="http://reallygoodlink.extremefreegames.com/"], :root a[href^="https://bnsjb1ab1e.com/"], :root a[href^="http://pwrads.net/"], :root a[href^="https://www.xvinlink.com/?a_fid="], :root a[href^="http://promos.bwin.com/"], :root a[href^="http://z1.zedo.com/"], :root a[href^="http://pokershibes.com/index.php?ref="], :root [id^="google_ads_iframe"], :root a[href^="http://partners.etoro.com/"], :root [data-mobile-ad-id], :root LEADERBOARD-AD, :root a[href^="http://papi.mynativeplatform.com:80/pub2/"], :root a[href^="http://searchtabnew.com/"], :root div[id^="ad-gpt-"], :root a[href^="http://pan.adraccoon.com?"], :root a[href^="http://online.ladbrokes.com/promoRedirect?"], :root a[href^="https://dltags.com/"], :root a[href^="http://onclickads.net/"], :root a[href^="http://mmo123.co/"], :root a[href^="https://fileboom.me/pr/"], :root a[href^="http://marketgid.com"], :root a[href^="https://aff-ads.stickywilds.com/"], :root a[href^="http://www.bitlord.me/share/"], :root a[href^="https://www.kingsoffetish.com/tour?partner_id="], :root a[href^="//pubads.g.doubleclick.net/"], :root a[href^="http://lp.ncdownloader.com/"], :root [href*=".engine.adglare.net/"], :root a[href^="http://allaptair.club/"], :root a[href^="https://moneynow.one/"], :root a[href^="http://look.djfiln.com/"], :root a[href^="https://track.trkinator.com/"], :root div[id^="ad-position-"], :root a[data-redirect^="this.href='http://paid.outbrain.com/network/redir?"], :root a[href^="http://liversely.com/"], :root a[href^="http://keep2share.cc/pr/"], :root a[href^="https://webroutetrk.com/"], :root a[href^="http://k2s.cc/code/"], :root a[href^="http://www.liutilities.com/"], :root a[href^="http://www.dl-provider.com/search/"], :root [href^="http://join.shemalesfromhell.com/"], :root .pubexchange_module .pe-external, :root a[data-widget-outbrain-redirect^="http://paid.outbrain.com/network/redir?"], :root a[href^="http://join3.bannedsextapes.com/track/"], :root a[href^="https://gamescarousel.com/"], :root a[href^="http://istri.it/?"], :root a[href^="http://mob1ledev1ces.com/"], :root a[href^="//voyeurhit.com/cs/"], :root a[href^="http://hd-plugins.com/download/"], :root [data-desktop-ad-id], :root a[href^="https://look.utndln.com/"], :root a[href^="http://googleads.g.doubleclick.net/pcs/click"], :root a[href^="https://ovb.im/"], :root a[href^="https://watchmygirlfriend.tv/"], :root .nrelate .nr_partner, :root a[href^="http://go.xtbaffiliates.com/"], :root a[href^="http://secure.cbdpure.com/aff/"], :root a[href^="http://www.downloadthesefiles.com/"], :root a[href^="https://oackoubs.com/"], :root a[href^="http://install.securewebsiteaccess.com/"], :root a[href^="http://www.revenuehits.com/"], :root a[href^="http://www.downloadweb.org/"], :root a[href^="http://go.seomojo.com/tracking202/"], :root a[href^="http://go.mobisla.com/"], :root a[href^="http://go.fpmarkets.com/"], :root a[href^="http://findersocket.com/"], :root a[href^="https://porngames.adult/?SID="], :root a[href^="https://prf.hn/click/"][href*="/creativeref:"] > img, :root a[href^="http://www.adultempire.com/unlimited/promo?"][href*="&partner_id="], :root a[href^="https://ads.planetwin365affiliate.com/redirect.aspx?"], :root a[href*=".incontro-veloce.com/"], :root a[href^="http://g1.v.fwmrm.net/ad/"], :root a[href^="http://us.marketgid.com"], :root a[href^="http://imads.integral-marketing.com/"], :root a[href^="http://freesoftwarelive.com/"], :root a[href^="http://adtrackone.eu/"], :root span[title="Ads by Google"], :root a[href^="http://finaljuyu.com/"], :root a[href^="http://ethfw0370q.com/"], :root [id^="bunyad_ads_"], :root a[href^="http://elitefuckbook.com/"], :root a[href^="http://eclkmpsa.com/"], :root a[href^="http://wopertific.info/"], :root a[href^="http://earandmarketing.com/"], :root div[class^="hp-ad-rect-"], :root a[href^="http://dwn.pushtraffic.net/"], :root a[href^="http://aflrm.com/"], :root a[href^="http://deloplen.com/"], :root #content > #center > .dose > .dosesingle, :root a[href^="//edgar2al2larngpoer.com/"], :root a[href^="http://d2.zedo.com/"], :root amp-fx-flying-carpet, :root a[href^="http://czotra-32.com/"], :root a[href^="https://a.adtng.com/"], :root a[href^="http://static.fleshlight.com/images/banners/"], :root a[href^="http://codec.codecm.com/"], :root a[href^="https://www.travelzoo.com/oascampaignclick/"], :root a[href^="https://see.kmisln.com/"], :root a[href^="http://refer.webhostingbuzz.com/"], :root a[href^="https://paid.outbrain.com/network/redir?"], :root a[href^="http://www.downloadplayer1.com/"], :root a[href^="http://clicks.binarypromos.com/"], :root [id^="ad_slider"], :root a[href^="http://chaturbate.com/affiliates/"], :root a[href^="https://track.bruceads.com/"], :root a[href^="https://t.aslnk.link/"], :root a[href^="https://m.do.co/c/"] > img, :root a[href^="http://track.trkvluum.com/"], :root a[href^="http://amzn.to/"] > img[src^="data"], :root [href^="https://secure.bmtmicro.com/servlets/"], :root a[href^="http://bs.serving-sys.com/"], :root a[href^="http://cpaway.afftrack.com/"], :root a[href^="http://cdn.adsrvmedia.net/"], :root [href^="https://infinitytrk.com/"], :root [lazy-ad="top_banner"], :root a[href^="http://360ads.go2cloud.org/"], :root [onclick^="location.href='http://www.reimageplus.com"], :root a[href^="http://dftrck.com/"], :root a[href^="http://casino-x.com/?partner"], :root a[href^="https://meet-sexhere.com/"], :root a[href^="http://record.sportsbetaffiliates.com.au/"], :root a[href^="http://campeeks.com/"][href*="&utm_"], :root a[href^="http://download-performance.com/"], :root a[href^="http://www.on2url.com/app/adtrack.asp"], :root [href^="https://affect3dnetwork.com/track/"], :root a[href^="http://campaign.bharatmatrimony.com/cbstrack/"], :root a[href^="https://go.goaserv.com/"], :root a[href^="http://serve.williamhill.com/promoRedirect?"], :root a[href^="https://uncensored.game/"], :root a[href^="http://wgpartner.com/"], :root a[href^="http://bodelen.com/"], :root a[href^="http://www.seekbang.com/cs/"], :root a[href^="http://syndication.exoclick.com/"], :root a[href^="http://bluehost.com/track/"], :root [href^="https://www.dcpodj3k5.com/"], :root a[href^="https://serve.awmdelivery.com/"], :root a[href^="http://enter.anabolic.com/track/"], :root a[href^="https://prf.hn/click/"][href*="/adref:"] > img, :root a[href^="http://banners.victor.com/processing/"], :root div[aria-label="Ads"], :root a[href^="https://go.ebrokerserve.com/"], :root a[href^="http://axdsz.pro/"], :root a[href^="http://api.content.ad/"], :root #atvcap + #tvcap > .mnr-c > .commercial-unit-mobile-top, :root a[href^="http://affiliates.lifeselector.com/"], :root a[href^="https://leg.xyz/?track="], :root a[href^="http://affiliate.glbtracker.com/"], :root [href^="https://t.ajrkm.link/"], :root a[href^="http://affiliate.coral.co.uk/processing/"], :root a[href^="http://aff.ironsocket.com/"], :root a[href^="http://tour.mrskin.com/"], :root a[href^="http://linksnappy.com/?ref="], :root a[href^="http://adtrack123.pl/"], :root a[href^="http://adsrv.keycaptcha.com"], :root a[href^="http://adserver.adreactor.com/"], :root div[class^="StickyHeroAdWrapper-"], :root a[href^="http://cwcams.com/landing/click/"], :root a[href^="http://ads.betfair.com/redirect.aspx?"], :root a[href^="http://ad.doubleclick.net/"], :root [href^="http://homemoviestube.com/"], :root a[href^="https://adsrv4k.com/"], :root a[href^="http://trk.mdrtrck.com/"], :root [href^="http://globsads.com/"], :root [href^="https://shrugartisticelder.com"], :root a[href^="https://scurewall.co/"], :root [name^="google_ads_iframe"], :root [href^="http://join.rodneymoore.com/"], :root [id*="MarketGid"], :root a[href^="http://espn.zlbu.net/"], :root a[href^="http://admrotate.iplayer.org/"], :root a[href^="http://adclick.g.doubleclick.net/"], :root a[href^="http://www.flashx.tv/downloadthis"], :root .vid-present > .van_vid_carousel__padding, :root #header + #content > #left > #rlblock_left, :root a[href^="http://affiliates.pinnaclesports.com/processing/"], :root a[href^="http://ad.yieldmanager.com/"], :root [data-dynamic-ads], :root a[href^="http://srvpub.com/"], :root a[href^="https://go.nordvpn.net/aff"] > img, :root a[href^="http://secure.vivid.com/track/"], :root a[href^="http://see-work.info/"], :root a[href^="https://www.passeura.com/"], :root a[href^="http://www.pinkvisualpad.com/?revid="], :root a[href^="https://go.hpyrdr.com/"], :root a[href^="https://billing.purevpn.com/aff.php"] > img, :root a[href^="//lambingsyddir.com/"], :root aside[id^="tn_ads_widget-"], :root a[href^="https://track.totalav.com/"], :root [href^="https://wct.link/"], :root a[href^="https://secure.adnxs.com/clktrb?"], :root div[data-mpu1], :root a[href^="http://adserver.adtechus.com/"], :root a[href^="http://www.download-provider.org/"], :root a[href^="http://play4k.co/"], :root a[data-redirect^="https://paid.outbrain.com/network/redir?"], :root a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"], :root a[href^="http://www.roboform.com/php/land.php"], :root a[href="//rufflycouncil.com/"], :root a[href*=".zlink9.com/"], :root a[href^="http://hotcandyland.com/partner/"], :root a[href^="http://www.mobileandinternetadvertising.com/"], :root [href^="https://join.playboyplus.com/track/"], :root a[data-url^="http://paid.outbrain.com/network/redir?"] + .author, :root a[href^="http://affiliates.score-affiliates.com/"], :root a[data-oburl^="https://paid.outbrain.com/network/redir?"], :root a[href^="https://ptapjmp.com/"], :root a[href^="https://ttf.trmobc.com/"], :root a[href^="http://n.admagnet.net/"], :root a[data-obtrack^="http://paid.outbrain.com/network/redir?"], :root a[href^="https://go.onclasrv.com/"], :root a[href^="http://wct.link/"], :root a[href^="https://zononi.com/"], :root a[href^="http://adserving.unibet.com/"], :root [href^="https://bulletprofitsmartlink.com/"], :root [href^="https://join3.bannedsextapes.com"], :root a[href^="//benoopto.com/"], :root [lazy-ad="leftbottom_banner"], :root [id^="div-gpt-ad"], :root a[href^="https://intrev.co/"], :root a[href^="http://https://www.get-express-vpn.com/offer/"], :root [lazy-ad="lefttop_banner"], :root a[href^="http://c.ketads.com/"], :root a[href^="https://secure.starsaffiliateclub.com/C.ashx?"], :root [href^="https://totlnkcl.com/"], :root .trc_rbox_div .syndicatedItemUB, :root [href^="https://zone.gotrackier.com/"], :root [href^="https://www.mypillow.com/"] > img, :root [href^="https://freecourseweb.com/"] > .sitefriend, :root [href^="https://www.hostg.xyz/aff_c"] > img, :root a[href^="https://topoffers.com/"][href*="/?pid="], :root a[href^="https://syndication.dynsrvtbg.com/"], :root a[href^="http://vinfdv6b4j.com/"], :root div[data-test-id="AdBannerWrapper"], :root div[class^="AdCard_"], :root a[href^="http://www.urmediazone.com/signup"], :root a[href^="http://click.plista.com/pets"], :root a[href^="https://www.awin1.com/cread.php?awinaffid="], :root a[href^="https://servedbyadbutler.com/"], :root a[href^="https://www.bet365.com/"][href*="affiliate="], :root a[href^="https://mob1ledev1ces.com/"], :root a[href^="https://promo-bc.com/"], :root a[data-redirect^="http://paid.outbrain.com/network/redir?"], :root a[href^="https://explore.findanswersnow.net/"], :root [id^="adframe_wrap_"], :root div[jsdata*="CarouselPLA-"][data-id^="CarouselPLA-"], :root a[href^="https://go.trackitalltheway.com/"], :root [data-template-type="nativead"], :root [href^="https://track.fiverr.com/visit/"] > img, :root [data-ad-manager-id], :root a[href^="http://ad-apac.doubleclick.net/"], :root a[href^="https://traffic.bannerator.com/"], :root [href^="https://shiftnetwork.infusionsoft.com/go/"] > img, :root a[href^="https://mmwebhandler.aff-online.com/"], :root [href^="https://r.kraken.com/"], :root a[href^="http://xads.zedo.com/"], :root [class^="div-gpt-ad"], :root a[href^="http://www.ragazzeinvendita.com/?rcid="], :root a[href^="http://www.adultdvdempire.com/?partner_id="][href*="&utm_"], :root .plistaList > .itemLinkPET, :root a[href^="http://www.adbrite.com/mb/commerce/purchase_form.php?"], :root a[href^="http://landingpagegenius.com/"], :root .section-subheader > .section-hotel-prices-header, :root [href^="http://join.ts-dominopresley.com/"], :root [href^="https://go.affiliatexe.com/"], :root a[href^="https://t.mobtya.com/"], :root a[href^="https://www.adxtro.com/"], :root [class*="__adv-block"], :root .trc_rbox_border_elm .syndicatedItem, :root a[href^="http://www.myfreepaysite.com/sfw_int.php?aid"], :root [href^="https://glersakr.com/"], :root a[href^="https://freeadult.games/"], :root a[href^="http://liversely.net/"], :root a[href^="http://mgid.com/"], :root a[href^="http://k2s.cc/pr/"], :root [href^="/admdownload.php"], :root a[href^="https://www.spyoff.com/"], :root div[data-native-ad], :root a[href^="https://click.hoolig.app/"], :root AD-TRIPLE-BOX, :root [href^="http://join.hardcoreshemalevideo.com/"], :root a[href^="http://ads2.williamhill.com/redirect.aspx?"], :root a[href^="//www.mgid.com/"], :root [href^="https://go.astutelinks.com/"], :root [href^="http://join.shemale.xxx/"], :root a[href^="http://www.TwinPlan.com/AF_"], :root [href^="https://click2cvs.com/"], :root a[href^="http://ads.expekt.com/affiliates/"], :root #taw > .med + div > #tvcap > .mnr-c:not(.qs-ic) > .commercial-unit-mobile-top, :root .plista_widget_belowArticleRelaunch_item[data-type="pet"], :root a[href^="https://deliver.ptgncdn.com/"], :root [href^="https://www.targetingpartner.com/"], :root a[href^="http://latestdownloads.net/download.php?"], :root iframe[src^="http://ad.yieldmanager.com/"], :root a[href^="http://pubads.g.doubleclick.net/"], :root a[href^="https://porntubemate.com/"], :root a[href^="http://www.gfrevenge.com/landing/"], :root a[href^="http://hpn.houzz.com/"], :root a[href^="http://bc.vc/?r="], :root a[href^="http://www.afgr2.com/"], :root #slashboxes > .deals-rail, :root FBS-AD, :root [href^="https://go.4rabettraff.com/"], :root a[href^="https://ak.hetaruwg.com/"], :root a[href^="http://click.payserve.com/"], :root a[href^="http://s5prou7ulr.com/"], :root a[href^="http://azmobilestore.co/"], :root a[href^="https://sexsimulator.game/tab/?SID="], :root .rc-cta[data-target], :root a[href^="http://www.menaon.com/installs/"], :root a[href^="//syndication.dynsrvtbg.com/"], :root [href^="//mage98rquewz.com/"], :root [href^="https://mylead.global/stl/"] > img, :root div[id^="crt-"][style], :root a[href^="http://igromir.info/"], :root a[href^="http://affiliates.thrixxx.com/"], :root app-large-ad, :root a[href^="https://farm.plista.com/pets"], :root [id^="ad-wrap-"], :root a[href^="https://go.tmrjmp.com"], :root [data-css-class="dfp-inarticle"], :root a[href^="https://www.rabbits.webcam/?id="], :root a[href^="https://delivery.porn.com/"], :root [class^="Ad-adContainer"], :root [href^="https://rapidgator.net/article/premium/ref/"], :root [href^="https://join.girlsoutwest.com/"], :root a[href^="https://torguard.net/aff.php"] > img, :root [class^="AdvertisingSlot_"], :root [href^="http://trafficare.net/"], :root a[href^="http://ads.sprintrade.com/"], :root a[href^="https://trackjs.com/?utm_source"], :root AFS-AD, :root .trc_rbox_div .syndicatedItem, :root a[href^="//www.pd-news.com/"], :root a-ad, :root [href^="http://join.trannies-fuck.com/"], :root a[href^="http://1phads.com/"], :root a[href^="http://get.slickvpn.com/"], :root [data-ad-module], :root hl-adsense, :root div[data-contentexchange-widget], :root [id^="bunyad-widget-ads-"], :root a[href^="https://secure.cbdpure.com/aff/"], :root guj-ad, :root AMP-AD, :root a[href^="https://x.trafficandoffers.com/"], :root .scroll-fixable.rail-right > .deals-rail, :root div[id^="vuukle-ad-"], :root a[href^="http://betahit.click/"], :root .plistaList > .plista_widget_underArticle_item[data-type="pet"], :root a[href^="http://goldmoney.com/?gmrefcode="], :root a[href^="http://fsoft4down.com/"], :root div[id^="ad_bigbox_"], :root #content > #right > .dose > .dosesingle, :root a[href^="http://paid.outbrain.com/network/redir?"], :root .commercial-unit-mobile-top .jackpot-main-content-container > .UpgKEd + .nZZLFc > div > .vci, :root [href^="https://affiliate.fastcomet.com/"] > img, :root .commercial-unit-mobile-top > div[data-pla="1"], :root [href^="https://traffserve.com/"], :root div[id^="amzn-assoc-ad"], :root a[href^="https://www.oboom.com/ref/"], :root a[href^="http://media.paddypower.com/redirect.aspx?"], :root a[href^="https://cpartner.bdswiss.com/"], :root #topstuff > #tads, :root a[href^="http://bcp.crwdcntrl.net/"], :root a[href^="http://stateresolver.link/"], :root a[href^="http://galleries.securewebsiteaccess.com/"], :root a[href^="https://ismlks.com/"], :root [data-freestar-ad], :root [class*="__adspot-title-container"], :root a[href^="https://a.bestcontentfood.top/"], :root #ads > .dose > .dosesingle { display: none !important; }</style><link rel="icon" sizes="96x96" href="https://publish-01.obsidian.md/access/f786db9fac45774fa4f0d8112e232d67/favicon-96x96.png"><link rel="icon" href="https://publish-01.obsidian.md/access/f786db9fac45774fa4f0d8112e232d67/favicon.ico"><link rel="icon" sizes="32x32" href="https://publish-01.obsidian.md/access/f786db9fac45774fa4f0d8112e232d67/favicon-32x32.png"><link rel="icon" sizes="16x16" href="https://publish-01.obsidian.md/access/f786db9fac45774fa4f0d8112e232d67/favicon-16x16.png"><style type="text/css">.CtxtMenu_InfoClose {  top:.2em; right:.2em;}
-.CtxtMenu_InfoContent {  overflow:auto; text-align:left; font-size:80%;  padding:.4em .6em; border:1px inset; margin:1em 0px;  max-height:20em; max-width:30em; background-color:#EEEEEE;  white-space:normal;}
-.CtxtMenu_Info.CtxtMenu_MousePost {outline:none;}
-.CtxtMenu_Info {  position:fixed; left:50%; width:auto; text-align:center;  border:3px outset; padding:1em 2em; background-color:#DDDDDD;  color:black;  cursor:default; font-family:message-box; font-size:120%;  font-style:normal; text-indent:0; text-transform:none;  line-height:normal; letter-spacing:normal; word-spacing:normal;  word-wrap:normal; white-space:nowrap; float:none; z-index:201;  border-radius: 15px;                     /* Opera 10.5 and IE9 */  -webkit-border-radius:15px;               /* Safari and Chrome */  -moz-border-radius:15px;                  /* Firefox */  -khtml-border-radius:15px;                /* Konqueror */  box-shadow:0px 10px 20px #808080;         /* Opera 10.5 and IE9 */  -webkit-box-shadow:0px 10px 20px #808080; /* Safari 3 & Chrome */  -moz-box-shadow:0px 10px 20px #808080;    /* Forefox 3.5 */  -khtml-box-shadow:0px 10px 20px #808080;  /* Konqueror */  filter:progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color="gray", Positive="true"); /* IE */}
-</style><style type="text/css">.CtxtMenu_MenuClose {  position:absolute;  cursor:pointer;  display:inline-block;  border:2px solid #AAA;  border-radius:18px;  -webkit-border-radius: 18px;             /* Safari and Chrome */  -moz-border-radius: 18px;                /* Firefox */  -khtml-border-radius: 18px;              /* Konqueror */  font-family: "Courier New", Courier;  font-size:24px;  color:#F0F0F0}
-.CtxtMenu_MenuClose span {  display:block; background-color:#AAA; border:1.5px solid;  border-radius:18px;  -webkit-border-radius: 18px;             /* Safari and Chrome */  -moz-border-radius: 18px;                /* Firefox */  -khtml-border-radius: 18px;              /* Konqueror */  line-height:0;  padding:8px 0 6px     /* may need to be browser-specific */}
-.CtxtMenu_MenuClose:hover {  color:white!important;  border:2px solid #CCC!important}
-.CtxtMenu_MenuClose:hover span {  background-color:#CCC!important}
-.CtxtMenu_MenuClose:hover:focus {  outline:none}
-</style><style type="text/css">.CtxtMenu_Menu {  position:absolute;  background-color:white;  color:black;  width:auto; padding:5px 0px;  border:1px solid #CCCCCC; margin:0; cursor:default;  font: menu; text-align:left; text-indent:0; text-transform:none;  line-height:normal; letter-spacing:normal; word-spacing:normal;  word-wrap:normal; white-space:nowrap; float:none; z-index:201;  border-radius: 5px;                     /* Opera 10.5 and IE9 */  -webkit-border-radius: 5px;             /* Safari and Chrome */  -moz-border-radius: 5px;                /* Firefox */  -khtml-border-radius: 5px;              /* Konqueror */  box-shadow:0px 10px 20px #808080;         /* Opera 10.5 and IE9 */  -webkit-box-shadow:0px 10px 20px #808080; /* Safari 3 & Chrome */  -moz-box-shadow:0px 10px 20px #808080;    /* Forefox 3.5 */  -khtml-box-shadow:0px 10px 20px #808080;  /* Konqueror */}
-.CtxtMenu_MenuItem {  padding: 1px 2em;  background:transparent;}
-.CtxtMenu_MenuArrow {  position:absolute; right:.5em; padding-top:.25em; color:#666666;  font-family: null; font-size: .75em}
-.CtxtMenu_MenuActive .CtxtMenu_MenuArrow {color:white}
-.CtxtMenu_MenuArrow.CtxtMenu_RTL {left:.5em; right:auto}
-.CtxtMenu_MenuCheck {  position:absolute; left:.7em;  font-family: null}
-.CtxtMenu_MenuCheck.CtxtMenu_RTL { right:.7em; left:auto }
-.CtxtMenu_MenuRadioCheck {  position:absolute; left: .7em;}
-.CtxtMenu_MenuRadioCheck.CtxtMenu_RTL {  right: .7em; left:auto}
-.CtxtMenu_MenuInputBox {  padding-left: 1em; right:.5em; color:#666666;  font-family: null;}
-.CtxtMenu_MenuInputBox.CtxtMenu_RTL {  left: .1em;}
-.CtxtMenu_MenuComboBox {  left:.1em; padding-bottom:.5em;}
-.CtxtMenu_MenuSlider {  left: .1em;}
-.CtxtMenu_SliderValue {  position:absolute; right:.1em; padding-top:.25em; color:#333333;  font-size: .75em}
-.CtxtMenu_SliderBar {  outline: none; background: #d3d3d3}
-.CtxtMenu_MenuLabel {  padding: 1px 2em 3px 1.33em;  font-style:italic}
-.CtxtMenu_MenuRule {  border-top: 1px solid #DDDDDD;  margin: 4px 3px;}
-.CtxtMenu_MenuDisabled {  color:GrayText}
-.CtxtMenu_MenuActive {  background-color: #606872;  color: white;}
-.CtxtMenu_MenuDisabled:focus {  background-color: #E8E8E8}
-.CtxtMenu_MenuLabel:focus {  background-color: #E8E8E8}
-.CtxtMenu_ContextMenu:focus {  outline:none}
-.CtxtMenu_ContextMenu .CtxtMenu_MenuItem:focus {  outline:none}
-.CtxtMenu_SelectionMenu {  position:relative; float:left;  border-bottom: none; -webkit-box-shadow:none; -webkit-border-radius:0px; }
-.CtxtMenu_SelectionItem {  padding-right: 1em;}
-.CtxtMenu_Selection {  right: 40%; width:50%; }
-.CtxtMenu_SelectionBox {  padding: 0em; max-height:20em; max-width: none;  background-color:#FFFFFF;}
-.CtxtMenu_SelectionDivider {  clear: both; border-top: 2px solid #000000;}
-.CtxtMenu_Menu .CtxtMenu_MenuClose {  top:-10px; left:-10px}
-</style><style id="MJX-CHTML-styles">
-mjx-container[jax="CHTML"] {
-  line-height: 0;
-}
-
-mjx-container [space="1"] {
-  margin-left: .111em;
-}
-
-mjx-container [space="2"] {
-  margin-left: .167em;
-}
-
-mjx-container [space="3"] {
-  margin-left: .222em;
-}
-
-mjx-container [space="4"] {
-  margin-left: .278em;
-}
-
-mjx-container [space="5"] {
-  margin-left: .333em;
-}
-
-mjx-container [rspace="1"] {
-  margin-right: .111em;
-}
-
-mjx-container [rspace="2"] {
-  margin-right: .167em;
-}
-
-mjx-container [rspace="3"] {
-  margin-right: .222em;
-}
-
-mjx-container [rspace="4"] {
-  margin-right: .278em;
-}
-
-mjx-container [rspace="5"] {
-  margin-right: .333em;
-}
-
-mjx-container [size="s"] {
-  font-size: 70.7%;
-}
-
-mjx-container [size="ss"] {
-  font-size: 50%;
-}
-
-mjx-container [size="Tn"] {
-  font-size: 60%;
-}
-
-mjx-container [size="sm"] {
-  font-size: 85%;
-}
-
-mjx-container [size="lg"] {
-  font-size: 120%;
-}
-
-mjx-container [size="Lg"] {
-  font-size: 144%;
-}
-
-mjx-container [size="LG"] {
-  font-size: 173%;
-}
-
-mjx-container [size="hg"] {
-  font-size: 207%;
-}
-
-mjx-container [size="HG"] {
-  font-size: 249%;
-}
-
-mjx-container [width="full"] {
-  width: 100%;
-}
-
-mjx-box {
-  display: inline-block;
-}
-
-mjx-block {
-  display: block;
-}
-
-mjx-itable {
-  display: inline-table;
-}
-
-mjx-row {
-  display: table-row;
-}
-
-mjx-row > * {
-  display: table-cell;
-}
-
-mjx-mtext {
-  display: inline-block;
-}
-
-mjx-mstyle {
-  display: inline-block;
-}
-
-mjx-merror {
-  display: inline-block;
-  color: red;
-  background-color: yellow;
-}
-
-mjx-mphantom {
-  visibility: hidden;
-}
-
-_::-webkit-full-page-media, _:future, :root mjx-container {
-  will-change: opacity;
-}
-
-mjx-assistive-mml {
-  position: absolute !important;
-  top: 0px;
-  left: 0px;
-  clip: rect(1px, 1px, 1px, 1px);
-  padding: 1px 0px 0px 0px !important;
-  border: 0px !important;
-  display: block !important;
-  width: auto !important;
-  overflow: hidden !important;
-  -webkit-touch-callout: none;
-  -webkit-user-select: none;
-  -khtml-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
-}
-
-mjx-assistive-mml[display="block"] {
-  width: 100% !important;
-}
-
-mjx-math {
-  display: inline-block;
-  text-align: left;
-  line-height: 0;
-  text-indent: 0;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 100%;
-  font-size-adjust: none;
-  letter-spacing: normal;
-  word-wrap: normal;
-  word-spacing: normal;
-  white-space: nowrap;
-  direction: ltr;
-  padding: 1px 0;
-}
-
-mjx-container[jax="CHTML"][display="true"] {
-  display: block;
-  text-align: center;
-  margin: 1em 0;
-}
-
-mjx-container[jax="CHTML"][display="true"][width="full"] {
-  display: flex;
-}
-
-mjx-container[jax="CHTML"][display="true"] mjx-math {
-  padding: 0;
-}
-
-mjx-container[jax="CHTML"][justify="left"] {
-  text-align: left;
-}
-
-mjx-container[jax="CHTML"][justify="right"] {
-  text-align: right;
-}
-
-mjx-mrow {
-  display: inline-block;
-  text-align: left;
-}
-
-mjx-mo {
-  display: inline-block;
-  text-align: left;
-}
-
-mjx-stretchy-h {
-  display: inline-table;
-  width: 100%;
-}
-
-mjx-stretchy-h > * {
-  display: table-cell;
-  width: 0;
-}
-
-mjx-stretchy-h > * > mjx-c {
-  display: inline-block;
-  transform: scalex(1.0000001);
-}
-
-mjx-stretchy-h > * > mjx-c::before {
-  display: inline-block;
-  width: initial;
-}
-
-mjx-stretchy-h > mjx-ext {
-  /* IE */ overflow: hidden;
-  /* others */ overflow: clip visible;
-  width: 100%;
-}
-
-mjx-stretchy-h > mjx-ext > mjx-c::before {
-  transform: scalex(500);
-}
-
-mjx-stretchy-h > mjx-ext > mjx-c {
-  width: 0;
-}
-
-mjx-stretchy-h > mjx-beg > mjx-c {
-  margin-right: -.1em;
-}
-
-mjx-stretchy-h > mjx-end > mjx-c {
-  margin-left: -.1em;
-}
-
-mjx-stretchy-v {
-  display: inline-block;
-}
-
-mjx-stretchy-v > * {
-  display: block;
-}
-
-mjx-stretchy-v > mjx-beg {
-  height: 0;
-}
-
-mjx-stretchy-v > mjx-end > mjx-c {
-  display: block;
-}
-
-mjx-stretchy-v > * > mjx-c {
-  transform: scaley(1.0000001);
-  transform-origin: left center;
-  overflow: hidden;
-}
-
-mjx-stretchy-v > mjx-ext {
-  display: block;
-  height: 100%;
-  box-sizing: border-box;
-  border: 0px solid transparent;
-  /* IE */ overflow: hidden;
-  /* others */ overflow: visible clip;
-}
-
-mjx-stretchy-v > mjx-ext > mjx-c::before {
-  width: initial;
-  box-sizing: border-box;
-}
-
-mjx-stretchy-v > mjx-ext > mjx-c {
-  transform: scaleY(500) translateY(.075em);
-  overflow: visible;
-}
-
-mjx-mark {
-  display: inline-block;
-  height: 0px;
-}
-
-mjx-c {
-  display: inline-block;
-}
-
-mjx-utext {
-  display: inline-block;
-  padding: .75em 0 .2em 0;
-}
-
-mjx-mtable {
-  display: inline-block;
-  text-align: center;
-  vertical-align: .25em;
-  position: relative;
-  box-sizing: border-box;
-  border-spacing: 0;
-  border-collapse: collapse;
-}
-
-mjx-mstyle[size="s"] mjx-mtable {
-  vertical-align: .354em;
-}
-
-mjx-labels {
-  position: absolute;
-  left: 0;
-  top: 0;
-}
-
-mjx-table {
-  display: inline-block;
-  vertical-align: -.5ex;
-  box-sizing: border-box;
-}
-
-mjx-table > mjx-itable {
-  vertical-align: middle;
-  text-align: left;
-  box-sizing: border-box;
-}
-
-mjx-labels > mjx-itable {
-  position: absolute;
-  top: 0;
-}
-
-mjx-mtable[justify="left"] {
-  text-align: left;
-}
-
-mjx-mtable[justify="right"] {
-  text-align: right;
-}
-
-mjx-mtable[justify="left"][side="left"] {
-  padding-right: 0 ! important;
-}
-
-mjx-mtable[justify="left"][side="right"] {
-  padding-left: 0 ! important;
-}
-
-mjx-mtable[justify="right"][side="left"] {
-  padding-right: 0 ! important;
-}
-
-mjx-mtable[justify="right"][side="right"] {
-  padding-left: 0 ! important;
-}
-
-mjx-mtable[align] {
-  vertical-align: baseline;
-}
-
-mjx-mtable[align="top"] > mjx-table {
-  vertical-align: top;
-}
-
-mjx-mtable[align="bottom"] > mjx-table {
-  vertical-align: bottom;
-}
-
-mjx-mtable[side="right"] mjx-labels {
-  min-width: 100%;
-}
-
-mjx-mtr {
-  display: table-row;
-  text-align: left;
-}
-
-mjx-mtr[rowalign="top"] > mjx-mtd {
-  vertical-align: top;
-}
-
-mjx-mtr[rowalign="center"] > mjx-mtd {
-  vertical-align: middle;
-}
-
-mjx-mtr[rowalign="bottom"] > mjx-mtd {
-  vertical-align: bottom;
-}
-
-mjx-mtr[rowalign="baseline"] > mjx-mtd {
-  vertical-align: baseline;
-}
-
-mjx-mtr[rowalign="axis"] > mjx-mtd {
-  vertical-align: .25em;
-}
-
-mjx-mtd {
-  display: table-cell;
-  text-align: center;
-  padding: .215em .4em;
-}
-
-mjx-mtd:first-child {
-  padding-left: 0;
-}
-
-mjx-mtd:last-child {
-  padding-right: 0;
-}
-
-mjx-mtable > * > mjx-itable > *:first-child > mjx-mtd {
-  padding-top: 0;
-}
-
-mjx-mtable > * > mjx-itable > *:last-child > mjx-mtd {
-  padding-bottom: 0;
-}
-
-mjx-tstrut {
-  display: inline-block;
-  height: 1em;
-  vertical-align: -.25em;
-}
-
-mjx-labels[align="left"] > mjx-mtr > mjx-mtd {
-  text-align: left;
-}
-
-mjx-labels[align="right"] > mjx-mtr > mjx-mtd {
-  text-align: right;
-}
-
-mjx-mtd[extra] {
-  padding: 0;
-}
-
-mjx-mtd[rowalign="top"] {
-  vertical-align: top;
-}
-
-mjx-mtd[rowalign="center"] {
-  vertical-align: middle;
-}
-
-mjx-mtd[rowalign="bottom"] {
-  vertical-align: bottom;
-}
-
-mjx-mtd[rowalign="baseline"] {
-  vertical-align: baseline;
-}
-
-mjx-mtd[rowalign="axis"] {
-  vertical-align: .25em;
-}
-
-mjx-mi {
-  display: inline-block;
-  text-align: left;
-}
-
-mjx-msup {
-  display: inline-block;
-  text-align: left;
-}
-
-mjx-TeXAtom {
-  display: inline-block;
-  text-align: left;
-}
-
-mjx-mn {
-  display: inline-block;
-  text-align: left;
-}
-
-mjx-c::before {
-  display: block;
-  width: 0;
-}
-
-.MJX-TEX {
-  font-family: MJXZERO, MJXTEX;
-}
-
-.TEX-B {
-  font-family: MJXZERO, MJXTEX-B;
-}
-
-.TEX-I {
-  font-family: MJXZERO, MJXTEX-I;
-}
-
-.TEX-MI {
-  font-family: MJXZERO, MJXTEX-MI;
-}
-
-.TEX-BI {
-  font-family: MJXZERO, MJXTEX-BI;
-}
-
-.TEX-S1 {
-  font-family: MJXZERO, MJXTEX-S1;
-}
-
-.TEX-S2 {
-  font-family: MJXZERO, MJXTEX-S2;
-}
-
-.TEX-S3 {
-  font-family: MJXZERO, MJXTEX-S3;
-}
-
-.TEX-S4 {
-  font-family: MJXZERO, MJXTEX-S4;
-}
-
-.TEX-A {
-  font-family: MJXZERO, MJXTEX-A;
-}
-
-.TEX-C {
-  font-family: MJXZERO, MJXTEX-C;
-}
-
-.TEX-CB {
-  font-family: MJXZERO, MJXTEX-CB;
-}
-
-.TEX-FR {
-  font-family: MJXZERO, MJXTEX-FR;
-}
-
-.TEX-FRB {
-  font-family: MJXZERO, MJXTEX-FRB;
-}
-
-.TEX-SS {
-  font-family: MJXZERO, MJXTEX-SS;
-}
-
-.TEX-SSB {
-  font-family: MJXZERO, MJXTEX-SSB;
-}
-
-.TEX-SSI {
-  font-family: MJXZERO, MJXTEX-SSI;
-}
-
-.TEX-SC {
-  font-family: MJXZERO, MJXTEX-SC;
-}
-
-.TEX-T {
-  font-family: MJXZERO, MJXTEX-T;
-}
-
-.TEX-V {
-  font-family: MJXZERO, MJXTEX-V;
-}
-
-.TEX-VB {
-  font-family: MJXZERO, MJXTEX-VB;
-}
-
-mjx-stretchy-v mjx-c, mjx-stretchy-h mjx-c {
-  font-family: MJXZERO, MJXTEX-S1, MJXTEX-S4, MJXTEX, MJXTEX-A ! important;
-}
-
-@font-face /* 0 */ {
-  font-family: MJXZERO;
-  src: url("https://publish.obsidian.md/lib/mathjax/output/chtml/fonts/woff-v2/MathJax_Zero.woff") format("woff");
-}
-
-@font-face /* 1 */ {
-  font-family: MJXTEX;
-  src: url("https://publish.obsidian.md/lib/mathjax/output/chtml/fonts/woff-v2/MathJax_Main-Regular.woff") format("woff");
-}
-
-@font-face /* 2 */ {
-  font-family: MJXTEX-B;
-  src: url("https://publish.obsidian.md/lib/mathjax/output/chtml/fonts/woff-v2/MathJax_Main-Bold.woff") format("woff");
-}
-
-@font-face /* 3 */ {
-  font-family: MJXTEX-I;
-  src: url("https://publish.obsidian.md/lib/mathjax/output/chtml/fonts/woff-v2/MathJax_Math-Italic.woff") format("woff");
-}
-
-@font-face /* 4 */ {
-  font-family: MJXTEX-MI;
-  src: url("https://publish.obsidian.md/lib/mathjax/output/chtml/fonts/woff-v2/MathJax_Main-Italic.woff") format("woff");
-}
-
-@font-face /* 5 */ {
-  font-family: MJXTEX-BI;
-  src: url("https://publish.obsidian.md/lib/mathjax/output/chtml/fonts/woff-v2/MathJax_Math-BoldItalic.woff") format("woff");
-}
-
-@font-face /* 6 */ {
-  font-family: MJXTEX-S1;
-  src: url("https://publish.obsidian.md/lib/mathjax/output/chtml/fonts/woff-v2/MathJax_Size1-Regular.woff") format("woff");
-}
-
-@font-face /* 7 */ {
-  font-family: MJXTEX-S2;
-  src: url("https://publish.obsidian.md/lib/mathjax/output/chtml/fonts/woff-v2/MathJax_Size2-Regular.woff") format("woff");
-}
-
-@font-face /* 8 */ {
-  font-family: MJXTEX-S3;
-  src: url("https://publish.obsidian.md/lib/mathjax/output/chtml/fonts/woff-v2/MathJax_Size3-Regular.woff") format("woff");
-}
-
-@font-face /* 9 */ {
-  font-family: MJXTEX-S4;
-  src: url("https://publish.obsidian.md/lib/mathjax/output/chtml/fonts/woff-v2/MathJax_Size4-Regular.woff") format("woff");
-}
-
-@font-face /* 10 */ {
-  font-family: MJXTEX-A;
-  src: url("https://publish.obsidian.md/lib/mathjax/output/chtml/fonts/woff-v2/MathJax_AMS-Regular.woff") format("woff");
-}
-
-@font-face /* 11 */ {
-  font-family: MJXTEX-C;
-  src: url("https://publish.obsidian.md/lib/mathjax/output/chtml/fonts/woff-v2/MathJax_Calligraphic-Regular.woff") format("woff");
-}
-
-@font-face /* 12 */ {
-  font-family: MJXTEX-CB;
-  src: url("https://publish.obsidian.md/lib/mathjax/output/chtml/fonts/woff-v2/MathJax_Calligraphic-Bold.woff") format("woff");
-}
-
-@font-face /* 13 */ {
-  font-family: MJXTEX-FR;
-  src: url("https://publish.obsidian.md/lib/mathjax/output/chtml/fonts/woff-v2/MathJax_Fraktur-Regular.woff") format("woff");
-}
-
-@font-face /* 14 */ {
-  font-family: MJXTEX-FRB;
-  src: url("https://publish.obsidian.md/lib/mathjax/output/chtml/fonts/woff-v2/MathJax_Fraktur-Bold.woff") format("woff");
-}
-
-@font-face /* 15 */ {
-  font-family: MJXTEX-SS;
-  src: url("https://publish.obsidian.md/lib/mathjax/output/chtml/fonts/woff-v2/MathJax_SansSerif-Regular.woff") format("woff");
-}
-
-@font-face /* 16 */ {
-  font-family: MJXTEX-SSB;
-  src: url("https://publish.obsidian.md/lib/mathjax/output/chtml/fonts/woff-v2/MathJax_SansSerif-Bold.woff") format("woff");
-}
-
-@font-face /* 17 */ {
-  font-family: MJXTEX-SSI;
-  src: url("https://publish.obsidian.md/lib/mathjax/output/chtml/fonts/woff-v2/MathJax_SansSerif-Italic.woff") format("woff");
-}
-
-@font-face /* 18 */ {
-  font-family: MJXTEX-SC;
-  src: url("https://publish.obsidian.md/lib/mathjax/output/chtml/fonts/woff-v2/MathJax_Script-Regular.woff") format("woff");
-}
-
-@font-face /* 19 */ {
-  font-family: MJXTEX-T;
-  src: url("https://publish.obsidian.md/lib/mathjax/output/chtml/fonts/woff-v2/MathJax_Typewriter-Regular.woff") format("woff");
-}
-
-@font-face /* 20 */ {
-  font-family: MJXTEX-V;
-  src: url("https://publish.obsidian.md/lib/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Regular.woff") format("woff");
-}
-
-@font-face /* 21 */ {
-  font-family: MJXTEX-VB;
-  src: url("https://publish.obsidian.md/lib/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Bold.woff") format("woff");
-}
-
-mjx-stretchy-v.mjx-c7C mjx-ext mjx-c::before {
-  content: "\2223";
-  width: 0.333em;
-}
-
-mjx-c.mjx-c1D44E.TEX-I::before {
-  padding: 0.441em 0.529em 0.01em 0;
-  content: "a";
-}
-
-mjx-c.mjx-c1D44F.TEX-I::before {
-  padding: 0.694em 0.429em 0.011em 0;
-  content: "b";
-}
-
-mjx-c.mjx-c1D450.TEX-I::before {
-  padding: 0.442em 0.433em 0.011em 0;
-  content: "c";
-}
-
-mjx-c.mjx-c1D451.TEX-I::before {
-  padding: 0.694em 0.52em 0.01em 0;
-  content: "d";
-}
-
-mjx-c.mjx-c3D::before {
-  padding: 0.583em 0.778em 0.082em 0;
-  content: "=";
-}
-
-mjx-c.mjx-c2212::before {
-  padding: 0.583em 0.778em 0.082em 0;
-  content: "\2212";
-}
-
-mjx-c.mjx-c1D452.TEX-I::before {
-  padding: 0.442em 0.466em 0.011em 0;
-  content: "e";
-}
-
-mjx-c.mjx-c32::before {
-  padding: 0.666em 0.5em 0 0;
-  content: "2";
-}
-
-mjx-c.mjx-c1D456.TEX-I::before {
-  padding: 0.661em 0.345em 0.011em 0;
-  content: "i";
-}
-
-mjx-c.mjx-c1D70B.TEX-I::before {
-  padding: 0.431em 0.57em 0.011em 0;
-  content: "\3C0";
-}
-
-mjx-c.mjx-c31::before {
-  padding: 0.666em 0.5em 0 0;
-  content: "1";
-}
-</style></head><body class="theme-light"><script>window.siteInfo={"uid":"f786db9fac45774fa4f0d8112e232d67","host":"publish-01.obsidian.md","status":"active","slug":null,"redirect":1,"customurl":"help.obsidian.md"};</script><script src="./Format your notes - Obsidian Help_files/purify.min.js.download"></script><div class="published-container print is-readable-line-width has-navigation has-graph has-outline"><div class="loader-cube" style="display: none;"><div class="sk-cube sk-cube1"></div><div class="sk-cube sk-cube2"></div><div class="sk-cube sk-cube3"></div><div class="sk-cube sk-cube4"></div><div class="sk-cube sk-cube5"></div><div class="sk-cube sk-cube6"></div><div class="sk-cube sk-cube7"></div><div class="sk-cube sk-cube8"></div><div class="sk-cube sk-cube9"></div></div><div class="site-body"><div class="site-body-left-column"><img class="site-body-left-column-site-logo" style="display: none;"><div class="site-body-left-column-site-name">Obsidian Help</div><div class="site-body-left-column-site-theme-toggle" style=""><span class="option mod-dark"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-moon"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg></span><div class="checkbox-container"></div><span class="option mod-light"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-sun"><circle cx="12" cy="12" r="4"></circle><path d="M12 2v2"></path><path d="M12 20v2"></path><path d="m5 5 1.5 1.5"></path><path d="M17.5 17.5 19 19"></path><path d="M2 12h2"></path><path d="M20 12h2"></path><path d="m5 19 1.5-1.5"></path><path d="M17.5 6.5 19 5"></path></svg></span></div><div class="search-view-outer"><div class="search-view-container"><span class="published-search-icon"><svg viewBox="0 0 100 100" class="magnifying-glass" width="16" height="16"><path fill="currentColor" stroke="currentColor" d="M42,6C23.2,6,8,21.2,8,40s15.2,34,34,34c7.4,0,14.3-2.4,19.9-6.4l26.3,26.3l5.6-5.6l-26-26.1c5.1-6,8.2-13.7,8.2-22.1 C76,21.2,60.8,6,42,6z M42,10c16.6,0,30,13.4,30,30S58.6,70,42,70S12,56.6,12,40S25.4,10,42,10z"></path></svg></span><input class="search-bar" type="text" placeholder="Search page or heading..."></div></div><div class="nav-view-outer"><div class="nav-view"><div class="tree-item"><div class="tree-item-self mod-root is-clickable" data-path=""><div class="tree-item-inner"></div></div><div class="tree-item-children"><div class="tree-item is-collapsed"><div class="tree-item-self is-clickable" data-path="Advanced topics"><div class="tree-item-icon collapse-icon"><svg viewBox="0 0 100 100" class="right-triangle" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div><div class="tree-item-inner">Advanced topics</div></div></div><div class="tree-item is-collapsed"><div class="tree-item-self is-clickable" data-path="Attachments"><div class="tree-item-icon collapse-icon"><svg viewBox="0 0 100 100" class="right-triangle" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div><div class="tree-item-inner">Attachments</div></div></div><div class="tree-item is-collapsed"><div class="tree-item-self is-clickable" data-path="Concepts"><div class="tree-item-icon collapse-icon"><svg viewBox="0 0 100 100" class="right-triangle" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div><div class="tree-item-inner">Concepts</div></div></div><div class="tree-item is-collapsed"><div class="tree-item-self is-clickable" data-path="Contributing to Obsidian"><div class="tree-item-icon collapse-icon"><svg viewBox="0 0 100 100" class="right-triangle" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div><div class="tree-item-inner">Contributing to Obsidian</div></div></div><div class="tree-item is-collapsed"><div class="tree-item-self is-clickable" data-path="Customization"><div class="tree-item-icon collapse-icon"><svg viewBox="0 0 100 100" class="right-triangle" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div><div class="tree-item-inner">Customization</div></div></div><div class="tree-item is-collapsed"><div class="tree-item-self is-clickable" data-path="Getting started"><div class="tree-item-icon collapse-icon"><svg viewBox="0 0 100 100" class="right-triangle" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div><div class="tree-item-inner">Getting started</div></div></div><div class="tree-item"><div class="tree-item-self is-clickable" data-path="How to"><div class="tree-item-icon collapse-icon"><svg viewBox="0 0 100 100" class="right-triangle" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div><div class="tree-item-inner">How to</div></div><div class="tree-item-children" style=""><div class="tree-item"><div class="tree-item-self is-clickable" data-path="How to/Add aliases to note.md"><div class="tree-item-inner">Add aliases to note</div></div><div class="tree-item-children"></div></div><div class="tree-item"><div class="tree-item-self is-clickable" data-path="How to/Add custom styles.md"><div class="tree-item-inner">Add custom styles</div></div><div class="tree-item-children"></div></div><div class="tree-item"><div class="tree-item-self is-clickable" data-path="How to/Basic note taking.md"><div class="tree-item-inner">Basic note taking</div></div><div class="tree-item-children"></div></div><div class="tree-item"><div class="tree-item-self is-clickable" data-path="How to/Capture information.md"><div class="tree-item-inner">Capture information</div></div><div class="tree-item-children"></div></div><div class="tree-item"><div class="tree-item-self is-clickable" data-path="How to/Change settings.md"><div class="tree-item-inner">Change settings</div></div><div class="tree-item-children"></div></div><div class="tree-item"><div class="tree-item-self is-clickable" data-path="How to/Create notes.md"><div class="tree-item-inner">Create notes</div></div><div class="tree-item-children"></div></div><div class="tree-item"><div class="tree-item-self is-clickable" data-path="How to/Embed files.md"><div class="tree-item-inner">Embed files</div></div><div class="tree-item-children"></div></div><div class="tree-item"><div class="tree-item-self is-clickable" data-path="How to/Folding.md"><div class="tree-item-inner">Folding</div></div><div class="tree-item-children"></div></div><div class="tree-item"><div class="tree-item-self is-clickable mod-active" data-path="How to/Format your notes.md"><div class="tree-item-inner">Format your notes</div></div><div class="tree-item-children"></div></div><div class="tree-item"><div class="tree-item-self is-clickable" data-path="How to/Import data.md"><div class="tree-item-inner">Import data</div></div><div class="tree-item-children"></div></div><div class="tree-item"><div class="tree-item-self is-clickable" data-path="How to/Internal link.md"><div class="tree-item-inner">Internal link</div></div><div class="tree-item-children"></div></div><div class="tree-item"><div class="tree-item-self is-clickable" data-path="How to/Link to blocks.md"><div class="tree-item-inner">Link to blocks</div></div><div class="tree-item-children"></div></div><div class="tree-item"><div class="tree-item-self is-clickable" data-path="How to/Manage attachments.md"><div class="tree-item-inner">Manage attachments</div></div><div class="tree-item-children"></div></div><div class="tree-item"><div class="tree-item-self is-clickable" data-path="How to/Read and edit modes.md"><div class="tree-item-inner">Read and edit modes</div></div><div class="tree-item-children"></div></div><div class="tree-item"><div class="tree-item-self is-clickable" data-path="How to/Rename notes.md"><div class="tree-item-inner">Rename notes</div></div><div class="tree-item-children"></div></div><div class="tree-item"><div class="tree-item-self is-clickable" data-path="How to/Update Obsidian.md"><div class="tree-item-inner">Update Obsidian</div></div><div class="tree-item-children"></div></div><div class="tree-item"><div class="tree-item-self is-clickable" data-path="How to/Use callouts.md"><div class="tree-item-inner">Use callouts</div></div><div class="tree-item-children"></div></div><div class="tree-item"><div class="tree-item-self is-clickable" data-path="How to/Use hotkeys.md"><div class="tree-item-inner">Use hotkeys</div></div><div class="tree-item-children"></div></div><div class="tree-item"><div class="tree-item-self is-clickable" data-path="How to/Working with backlinks.md"><div class="tree-item-inner">Working with backlinks</div></div><div class="tree-item-children"></div></div><div class="tree-item"><div class="tree-item-self is-clickable" data-path="How to/Working with multiple cursors.md"><div class="tree-item-inner">Working with multiple cursors</div></div><div class="tree-item-children"></div></div><div class="tree-item"><div class="tree-item-self is-clickable" data-path="How to/Working with multiple notes.md"><div class="tree-item-inner">Working with multiple notes</div></div><div class="tree-item-children"></div></div><div class="tree-item"><div class="tree-item-self is-clickable" data-path="How to/Working with multiple vaults.md"><div class="tree-item-inner">Working with multiple vaults</div></div><div class="tree-item-children"></div></div><div class="tree-item"><div class="tree-item-self is-clickable" data-path="How to/Working with tags.md"><div class="tree-item-inner">Working with tags</div></div><div class="tree-item-children"></div></div></div></div><div class="tree-item is-collapsed"><div class="tree-item-self is-clickable" data-path="Licenses &amp; Payment"><div class="tree-item-icon collapse-icon"><svg viewBox="0 0 100 100" class="right-triangle" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div><div class="tree-item-inner">Licenses &amp; Payment</div></div></div><div class="tree-item is-collapsed"><div class="tree-item-self is-clickable" data-path="Obsidian"><div class="tree-item-icon collapse-icon"><svg viewBox="0 0 100 100" class="right-triangle" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div><div class="tree-item-inner">Obsidian</div></div></div><div class="tree-item is-collapsed"><div class="tree-item-self is-clickable" data-path="Obsidian Publish"><div class="tree-item-icon collapse-icon"><svg viewBox="0 0 100 100" class="right-triangle" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div><div class="tree-item-inner">Obsidian Publish</div></div></div><div class="tree-item is-collapsed"><div class="tree-item-self is-clickable" data-path="Obsidian Sync"><div class="tree-item-icon collapse-icon"><svg viewBox="0 0 100 100" class="right-triangle" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div><div class="tree-item-inner">Obsidian Sync</div></div></div><div class="tree-item is-collapsed"><div class="tree-item-self is-clickable" data-path="Plugins"><div class="tree-item-icon collapse-icon"><svg viewBox="0 0 100 100" class="right-triangle" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div><div class="tree-item-inner">Plugins</div></div></div><div class="tree-item is-collapsed"><div class="tree-item-self is-clickable" data-path="User interface"><div class="tree-item-icon collapse-icon"><svg viewBox="0 0 100 100" class="right-triangle" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div><div class="tree-item-inner">User interface</div></div></div><div class="tree-item"><div class="tree-item-self is-clickable" data-path="Live preview update.md"><div class="tree-item-inner">Live preview update</div></div><div class="tree-item-children"></div></div><div class="tree-item"><div class="tree-item-self is-clickable" data-path="Start here.md"><div class="tree-item-inner">Start here</div></div><div class="tree-item-children"></div></div></div></div></div></div></div><div class="site-body-center-column"><div class="site-header"><div class="clickable-icon"><svg viewBox="0 0 100 100" class="three-horizontal-bars" width="20" height="20"><path fill="currentColor" stroke="currentColor" d="M6,18c-0.7,0-1.4,0.4-1.8,1c-0.4,0.6-0.4,1.4,0,2c0.4,0.6,1,1,1.8,1h88c0.7,0,1.4-0.4,1.8-1s0.4-1.4,0-2 c-0.4-0.6-1-1-1.8-1H6z M6,48c-0.7,0-1.4,0.4-1.8,1c-0.4,0.6-0.4,1.4,0,2c0.4,0.6,1,1,1.8,1h88c0.7,0,1.4-0.4,1.8-1 c0.4-0.6,0.4-1.4,0-2s-1-1-1.8-1H6z M6,78c-0.7,0-1.4,0.4-1.8,1c-0.4,0.6-0.4,1.4,0,2c0.4,0.6,1,1,1.8,1h88c0.7,0,1.4-0.4,1.8-1 s0.4-1.4,0-2s-1-1-1.8-1H6z"></path></svg></div><img class="site-header-logo" style="display: none;"><div class="site-header-text">Obsidian Help</div></div><div class="render-container"><div class="render-container-inner"><div class="publish-renderer"><div class="markdown-preview-view markdown-rendered node-insert-event"><div class="markdown-preview-sizer markdown-preview-section" style="padding-bottom: 0px;"><div class="markdown-preview-pusher" style="width: 1px; height: 0.1px; margin-bottom: 0px;"></div><div><div class="page-header">Format your notes</div></div><div><p>Obsidian is a Markdown-based note-taking and knowledge base app. </p></div><div><p>We currently support the formats below:</p></div><div><hr></div><div><h3 data-heading="Internal linking" class="publish-article-heading"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg viewBox="0 0 100 100" class="right-triangle" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div>Internal linking <span class="clickable-icon" aria-label="Copy link"><svg viewBox="0 0 100 100" class="link" width="20" height="20"><path fill="currentColor" stroke="currentColor" d="M74,8c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-2.9,2.9-4.7,6.6-5.1,10.6C46,34.6,46,35.3,46,36c0,2.7,0.6,5.4,1.8,7.8l3.1-3.1 C50.3,39.2,50,37.6,50,36c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1s7.3,1.5,9.9,4.1c2.6,2.6,4.1,6.2,4.1,9.9 s-1.5,7.3-4.1,9.9l-10,10C71.3,48.5,67.7,50,64,50c-1.6,0-3.2-0.3-4.7-0.8l-3.1,3.1c2.4,1.1,5,1.8,7.8,1.8c4.8,0,9.3-1.9,12.7-5.3 l10-10C90.1,35.3,92,30.8,92,26s-1.9-9.3-5.3-12.7C83.3,9.9,78.8,8,74,8L74,8z M62,36c-0.5,0-1,0.2-1.4,0.6l-24,24 c-0.5,0.5-0.7,1.2-0.6,1.9c0.2,0.7,0.7,1.2,1.4,1.4c0.7,0.2,1.4,0,1.9-0.6l24-24c0.6-0.6,0.8-1.5,0.4-2.2C63.5,36.4,62.8,36,62,36 z M36,46c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-3.1,3.1-5,7.2-5.2,11.6c0,0.4,0,0.8,0,1.2c0,4.8,1.9,9.3,5.3,12.7 C16.7,90.1,21.2,92,26,92s9.3-1.9,12.7-5.3l10-10C52.1,73.3,54,68.8,54,64c0-2.7-0.6-5.4-1.8-7.8l-3.1,3.1 c0.5,1.5,0.8,3.1,0.8,4.7c0,3.7-1.5,7.3-4.1,9.9l-10,10C33.3,86.5,29.7,88,26,88s-7.3-1.5-9.9-4.1S12,77.7,12,74 c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1c1.6,0,3.2,0.3,4.7,0.8l3.1-3.1C41.4,46.6,38.7,46,36,46L36,46z"></path></svg></span></h3></div><div><pre class="language-md" tabindex="0"><code class="language-md is-loaded">Link to a page: [[Internal link]].
-</code></pre></div><div><p>Link to a page: <a data-href="Internal link" href="https://help.obsidian.md/How+to/Internal+link" class="internal-link" target="_blank" rel="noopener">Internal link</a>.</p></div><div><hr></div><div><h3 data-heading="Embeds" class="publish-article-heading"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg viewBox="0 0 100 100" class="right-triangle" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div>Embeds <span class="clickable-icon" aria-label="Copy link"><svg viewBox="0 0 100 100" class="link" width="20" height="20"><path fill="currentColor" stroke="currentColor" d="M74,8c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-2.9,2.9-4.7,6.6-5.1,10.6C46,34.6,46,35.3,46,36c0,2.7,0.6,5.4,1.8,7.8l3.1-3.1 C50.3,39.2,50,37.6,50,36c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1s7.3,1.5,9.9,4.1c2.6,2.6,4.1,6.2,4.1,9.9 s-1.5,7.3-4.1,9.9l-10,10C71.3,48.5,67.7,50,64,50c-1.6,0-3.2-0.3-4.7-0.8l-3.1,3.1c2.4,1.1,5,1.8,7.8,1.8c4.8,0,9.3-1.9,12.7-5.3 l10-10C90.1,35.3,92,30.8,92,26s-1.9-9.3-5.3-12.7C83.3,9.9,78.8,8,74,8L74,8z M62,36c-0.5,0-1,0.2-1.4,0.6l-24,24 c-0.5,0.5-0.7,1.2-0.6,1.9c0.2,0.7,0.7,1.2,1.4,1.4c0.7,0.2,1.4,0,1.9-0.6l24-24c0.6-0.6,0.8-1.5,0.4-2.2C63.5,36.4,62.8,36,62,36 z M36,46c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-3.1,3.1-5,7.2-5.2,11.6c0,0.4,0,0.8,0,1.2c0,4.8,1.9,9.3,5.3,12.7 C16.7,90.1,21.2,92,26,92s9.3-1.9,12.7-5.3l10-10C52.1,73.3,54,68.8,54,64c0-2.7-0.6-5.4-1.8-7.8l-3.1,3.1 c0.5,1.5,0.8,3.1,0.8,4.7c0,3.7-1.5,7.3-4.1,9.9l-10,10C33.3,86.5,29.7,88,26,88s-7.3-1.5-9.9-4.1S12,77.7,12,74 c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1c1.6,0,3.2,0.3,4.7,0.8l3.1-3.1C41.4,46.6,38.7,46,36,46L36,46z"></path></svg></span></h3></div><div><p>Embed another file (read more about <a data-href="Embed files" href="https://help.obsidian.md/How+to/Embed+files" class="internal-link" target="_blank" rel="noopener">Embed files</a>). Here's an embedded section:</p></div><div><pre class="language-md" tabindex="0"><code class="language-md is-loaded">![[Obsidian#What is Obsidian]]
-</code></pre></div><div><p><span alt="Obsidian &gt; What is Obsidian" src="Obsidian#What is Obsidian" class="internal-embed is-loaded"><div class="markdown-embed"><div class="markdown-embed-content"><div class="markdown-preview-view markdown-rendered node-insert-event"><div class="markdown-preview-sizer markdown-preview-section" style="padding-bottom: 0px;"><div class="markdown-preview-pusher" style="width: 1px; height: 0.1px; margin-bottom: 0px;"></div><div></div><div><h2 data-heading="What is Obsidian" class="publish-article-heading"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg viewBox="0 0 100 100" class="right-triangle" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div>What is Obsidian <span class="clickable-icon" aria-label="Copy link"><svg viewBox="0 0 100 100" class="link" width="20" height="20"><path fill="currentColor" stroke="currentColor" d="M74,8c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-2.9,2.9-4.7,6.6-5.1,10.6C46,34.6,46,35.3,46,36c0,2.7,0.6,5.4,1.8,7.8l3.1-3.1 C50.3,39.2,50,37.6,50,36c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1s7.3,1.5,9.9,4.1c2.6,2.6,4.1,6.2,4.1,9.9 s-1.5,7.3-4.1,9.9l-10,10C71.3,48.5,67.7,50,64,50c-1.6,0-3.2-0.3-4.7-0.8l-3.1,3.1c2.4,1.1,5,1.8,7.8,1.8c4.8,0,9.3-1.9,12.7-5.3 l10-10C90.1,35.3,92,30.8,92,26s-1.9-9.3-5.3-12.7C83.3,9.9,78.8,8,74,8L74,8z M62,36c-0.5,0-1,0.2-1.4,0.6l-24,24 c-0.5,0.5-0.7,1.2-0.6,1.9c0.2,0.7,0.7,1.2,1.4,1.4c0.7,0.2,1.4,0,1.9-0.6l24-24c0.6-0.6,0.8-1.5,0.4-2.2C63.5,36.4,62.8,36,62,36 z M36,46c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-3.1,3.1-5,7.2-5.2,11.6c0,0.4,0,0.8,0,1.2c0,4.8,1.9,9.3,5.3,12.7 C16.7,90.1,21.2,92,26,92s9.3-1.9,12.7-5.3l10-10C52.1,73.3,54,68.8,54,64c0-2.7-0.6-5.4-1.8-7.8l-3.1,3.1 c0.5,1.5,0.8,3.1,0.8,4.7c0,3.7-1.5,7.3-4.1,9.9l-10,10C33.3,86.5,29.7,88,26,88s-7.3-1.5-9.9-4.1S12,77.7,12,74 c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1c1.6,0,3.2,0.3,4.7,0.8l3.1-3.1C41.4,46.6,38.7,46,36,46L36,46z"></path></svg></span></h2></div><div><p>Obsidian is a both a Markdown editor and a knowledge base app.</p></div><div><p>Used in the most basic way, you can edit and preview Markdown files. But its true power lies in managing densely networked knowledge base.</p></div><div><p>How do we start creating a network, you ask? Let's first start making some <a aria-label-position="top" aria-label="Internal link" data-href="Internal link" href="https://help.obsidian.md/How+to/Internal+link" class="internal-link" target="_blank" rel="noopener">internal links</a>!</p></div><div></div></div></div></div><div class="markdown-embed-link" aria-label="Open link"><svg viewBox="0 0 100 100" class="link" width="20" height="20"><path fill="currentColor" stroke="currentColor" d="M74,8c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-2.9,2.9-4.7,6.6-5.1,10.6C46,34.6,46,35.3,46,36c0,2.7,0.6,5.4,1.8,7.8l3.1-3.1 C50.3,39.2,50,37.6,50,36c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1s7.3,1.5,9.9,4.1c2.6,2.6,4.1,6.2,4.1,9.9 s-1.5,7.3-4.1,9.9l-10,10C71.3,48.5,67.7,50,64,50c-1.6,0-3.2-0.3-4.7-0.8l-3.1,3.1c2.4,1.1,5,1.8,7.8,1.8c4.8,0,9.3-1.9,12.7-5.3 l10-10C90.1,35.3,92,30.8,92,26s-1.9-9.3-5.3-12.7C83.3,9.9,78.8,8,74,8L74,8z M62,36c-0.5,0-1,0.2-1.4,0.6l-24,24 c-0.5,0.5-0.7,1.2-0.6,1.9c0.2,0.7,0.7,1.2,1.4,1.4c0.7,0.2,1.4,0,1.9-0.6l24-24c0.6-0.6,0.8-1.5,0.4-2.2C63.5,36.4,62.8,36,62,36 z M36,46c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-3.1,3.1-5,7.2-5.2,11.6c0,0.4,0,0.8,0,1.2c0,4.8,1.9,9.3,5.3,12.7 C16.7,90.1,21.2,92,26,92s9.3-1.9,12.7-5.3l10-10C52.1,73.3,54,68.8,54,64c0-2.7-0.6-5.4-1.8-7.8l-3.1,3.1 c0.5,1.5,0.8,3.1,0.8,4.7c0,3.7-1.5,7.3-4.1,9.9l-10,10C33.3,86.5,29.7,88,26,88s-7.3-1.5-9.9-4.1S12,77.7,12,74 c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1c1.6,0,3.2,0.3,4.7,0.8l3.1-3.1C41.4,46.6,38.7,46,36,46L36,46z"></path></svg></div></div></span></p></div><div><hr></div><div><h3 data-heading="Headers" class="publish-article-heading"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg viewBox="0 0 100 100" class="right-triangle" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div>Headers <span class="clickable-icon" aria-label="Copy link"><svg viewBox="0 0 100 100" class="link" width="20" height="20"><path fill="currentColor" stroke="currentColor" d="M74,8c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-2.9,2.9-4.7,6.6-5.1,10.6C46,34.6,46,35.3,46,36c0,2.7,0.6,5.4,1.8,7.8l3.1-3.1 C50.3,39.2,50,37.6,50,36c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1s7.3,1.5,9.9,4.1c2.6,2.6,4.1,6.2,4.1,9.9 s-1.5,7.3-4.1,9.9l-10,10C71.3,48.5,67.7,50,64,50c-1.6,0-3.2-0.3-4.7-0.8l-3.1,3.1c2.4,1.1,5,1.8,7.8,1.8c4.8,0,9.3-1.9,12.7-5.3 l10-10C90.1,35.3,92,30.8,92,26s-1.9-9.3-5.3-12.7C83.3,9.9,78.8,8,74,8L74,8z M62,36c-0.5,0-1,0.2-1.4,0.6l-24,24 c-0.5,0.5-0.7,1.2-0.6,1.9c0.2,0.7,0.7,1.2,1.4,1.4c0.7,0.2,1.4,0,1.9-0.6l24-24c0.6-0.6,0.8-1.5,0.4-2.2C63.5,36.4,62.8,36,62,36 z M36,46c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-3.1,3.1-5,7.2-5.2,11.6c0,0.4,0,0.8,0,1.2c0,4.8,1.9,9.3,5.3,12.7 C16.7,90.1,21.2,92,26,92s9.3-1.9,12.7-5.3l10-10C52.1,73.3,54,68.8,54,64c0-2.7-0.6-5.4-1.8-7.8l-3.1,3.1 c0.5,1.5,0.8,3.1,0.8,4.7c0,3.7-1.5,7.3-4.1,9.9l-10,10C33.3,86.5,29.7,88,26,88s-7.3-1.5-9.9-4.1S12,77.7,12,74 c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1c1.6,0,3.2,0.3,4.7,0.8l3.1-3.1C41.4,46.6,38.7,46,36,46L36,46z"></path></svg></span></h3></div><div><pre class="language-md" tabindex="0"><code class="language-md is-loaded"><span class="token title important"><span class="token punctuation">#</span> This is a heading 1</span>
-<span class="token title important"><span class="token punctuation">##</span> This is a heading 2</span>
-<span class="token title important"><span class="token punctuation">###</span> This is a heading 3 </span>
-<span class="token title important"><span class="token punctuation">####</span> This is a heading 4</span>
-<span class="token title important"><span class="token punctuation">#####</span> This is a heading 5</span>
-<span class="token title important"><span class="token punctuation">######</span> This is a heading 6</span>
-</code></pre></div><div><h1 data-heading="This is a heading 1" class="publish-article-heading"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg viewBox="0 0 100 100" class="right-triangle" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div>This is a heading 1 <span class="clickable-icon" aria-label="Copy link"><svg viewBox="0 0 100 100" class="link" width="20" height="20"><path fill="currentColor" stroke="currentColor" d="M74,8c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-2.9,2.9-4.7,6.6-5.1,10.6C46,34.6,46,35.3,46,36c0,2.7,0.6,5.4,1.8,7.8l3.1-3.1 C50.3,39.2,50,37.6,50,36c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1s7.3,1.5,9.9,4.1c2.6,2.6,4.1,6.2,4.1,9.9 s-1.5,7.3-4.1,9.9l-10,10C71.3,48.5,67.7,50,64,50c-1.6,0-3.2-0.3-4.7-0.8l-3.1,3.1c2.4,1.1,5,1.8,7.8,1.8c4.8,0,9.3-1.9,12.7-5.3 l10-10C90.1,35.3,92,30.8,92,26s-1.9-9.3-5.3-12.7C83.3,9.9,78.8,8,74,8L74,8z M62,36c-0.5,0-1,0.2-1.4,0.6l-24,24 c-0.5,0.5-0.7,1.2-0.6,1.9c0.2,0.7,0.7,1.2,1.4,1.4c0.7,0.2,1.4,0,1.9-0.6l24-24c0.6-0.6,0.8-1.5,0.4-2.2C63.5,36.4,62.8,36,62,36 z M36,46c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-3.1,3.1-5,7.2-5.2,11.6c0,0.4,0,0.8,0,1.2c0,4.8,1.9,9.3,5.3,12.7 C16.7,90.1,21.2,92,26,92s9.3-1.9,12.7-5.3l10-10C52.1,73.3,54,68.8,54,64c0-2.7-0.6-5.4-1.8-7.8l-3.1,3.1 c0.5,1.5,0.8,3.1,0.8,4.7c0,3.7-1.5,7.3-4.1,9.9l-10,10C33.3,86.5,29.7,88,26,88s-7.3-1.5-9.9-4.1S12,77.7,12,74 c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1c1.6,0,3.2,0.3,4.7,0.8l3.1-3.1C41.4,46.6,38.7,46,36,46L36,46z"></path></svg></span></h1></div><div><h2 data-heading="This is a heading 2" class="publish-article-heading"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg viewBox="0 0 100 100" class="right-triangle" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div>This is a heading 2 <span class="clickable-icon" aria-label="Copy link"><svg viewBox="0 0 100 100" class="link" width="20" height="20"><path fill="currentColor" stroke="currentColor" d="M74,8c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-2.9,2.9-4.7,6.6-5.1,10.6C46,34.6,46,35.3,46,36c0,2.7,0.6,5.4,1.8,7.8l3.1-3.1 C50.3,39.2,50,37.6,50,36c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1s7.3,1.5,9.9,4.1c2.6,2.6,4.1,6.2,4.1,9.9 s-1.5,7.3-4.1,9.9l-10,10C71.3,48.5,67.7,50,64,50c-1.6,0-3.2-0.3-4.7-0.8l-3.1,3.1c2.4,1.1,5,1.8,7.8,1.8c4.8,0,9.3-1.9,12.7-5.3 l10-10C90.1,35.3,92,30.8,92,26s-1.9-9.3-5.3-12.7C83.3,9.9,78.8,8,74,8L74,8z M62,36c-0.5,0-1,0.2-1.4,0.6l-24,24 c-0.5,0.5-0.7,1.2-0.6,1.9c0.2,0.7,0.7,1.2,1.4,1.4c0.7,0.2,1.4,0,1.9-0.6l24-24c0.6-0.6,0.8-1.5,0.4-2.2C63.5,36.4,62.8,36,62,36 z M36,46c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-3.1,3.1-5,7.2-5.2,11.6c0,0.4,0,0.8,0,1.2c0,4.8,1.9,9.3,5.3,12.7 C16.7,90.1,21.2,92,26,92s9.3-1.9,12.7-5.3l10-10C52.1,73.3,54,68.8,54,64c0-2.7-0.6-5.4-1.8-7.8l-3.1,3.1 c0.5,1.5,0.8,3.1,0.8,4.7c0,3.7-1.5,7.3-4.1,9.9l-10,10C33.3,86.5,29.7,88,26,88s-7.3-1.5-9.9-4.1S12,77.7,12,74 c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1c1.6,0,3.2,0.3,4.7,0.8l3.1-3.1C41.4,46.6,38.7,46,36,46L36,46z"></path></svg></span></h2></div><div><h3 data-heading="This is a heading 3" class="publish-article-heading"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg viewBox="0 0 100 100" class="right-triangle" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div>This is a heading 3 <span class="clickable-icon" aria-label="Copy link"><svg viewBox="0 0 100 100" class="link" width="20" height="20"><path fill="currentColor" stroke="currentColor" d="M74,8c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-2.9,2.9-4.7,6.6-5.1,10.6C46,34.6,46,35.3,46,36c0,2.7,0.6,5.4,1.8,7.8l3.1-3.1 C50.3,39.2,50,37.6,50,36c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1s7.3,1.5,9.9,4.1c2.6,2.6,4.1,6.2,4.1,9.9 s-1.5,7.3-4.1,9.9l-10,10C71.3,48.5,67.7,50,64,50c-1.6,0-3.2-0.3-4.7-0.8l-3.1,3.1c2.4,1.1,5,1.8,7.8,1.8c4.8,0,9.3-1.9,12.7-5.3 l10-10C90.1,35.3,92,30.8,92,26s-1.9-9.3-5.3-12.7C83.3,9.9,78.8,8,74,8L74,8z M62,36c-0.5,0-1,0.2-1.4,0.6l-24,24 c-0.5,0.5-0.7,1.2-0.6,1.9c0.2,0.7,0.7,1.2,1.4,1.4c0.7,0.2,1.4,0,1.9-0.6l24-24c0.6-0.6,0.8-1.5,0.4-2.2C63.5,36.4,62.8,36,62,36 z M36,46c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-3.1,3.1-5,7.2-5.2,11.6c0,0.4,0,0.8,0,1.2c0,4.8,1.9,9.3,5.3,12.7 C16.7,90.1,21.2,92,26,92s9.3-1.9,12.7-5.3l10-10C52.1,73.3,54,68.8,54,64c0-2.7-0.6-5.4-1.8-7.8l-3.1,3.1 c0.5,1.5,0.8,3.1,0.8,4.7c0,3.7-1.5,7.3-4.1,9.9l-10,10C33.3,86.5,29.7,88,26,88s-7.3-1.5-9.9-4.1S12,77.7,12,74 c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1c1.6,0,3.2,0.3,4.7,0.8l3.1-3.1C41.4,46.6,38.7,46,36,46L36,46z"></path></svg></span></h3></div><div><h4 data-heading="This is a heading 4" class="publish-article-heading"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg viewBox="0 0 100 100" class="right-triangle" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div>This is a heading 4 <span class="clickable-icon" aria-label="Copy link"><svg viewBox="0 0 100 100" class="link" width="20" height="20"><path fill="currentColor" stroke="currentColor" d="M74,8c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-2.9,2.9-4.7,6.6-5.1,10.6C46,34.6,46,35.3,46,36c0,2.7,0.6,5.4,1.8,7.8l3.1-3.1 C50.3,39.2,50,37.6,50,36c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1s7.3,1.5,9.9,4.1c2.6,2.6,4.1,6.2,4.1,9.9 s-1.5,7.3-4.1,9.9l-10,10C71.3,48.5,67.7,50,64,50c-1.6,0-3.2-0.3-4.7-0.8l-3.1,3.1c2.4,1.1,5,1.8,7.8,1.8c4.8,0,9.3-1.9,12.7-5.3 l10-10C90.1,35.3,92,30.8,92,26s-1.9-9.3-5.3-12.7C83.3,9.9,78.8,8,74,8L74,8z M62,36c-0.5,0-1,0.2-1.4,0.6l-24,24 c-0.5,0.5-0.7,1.2-0.6,1.9c0.2,0.7,0.7,1.2,1.4,1.4c0.7,0.2,1.4,0,1.9-0.6l24-24c0.6-0.6,0.8-1.5,0.4-2.2C63.5,36.4,62.8,36,62,36 z M36,46c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-3.1,3.1-5,7.2-5.2,11.6c0,0.4,0,0.8,0,1.2c0,4.8,1.9,9.3,5.3,12.7 C16.7,90.1,21.2,92,26,92s9.3-1.9,12.7-5.3l10-10C52.1,73.3,54,68.8,54,64c0-2.7-0.6-5.4-1.8-7.8l-3.1,3.1 c0.5,1.5,0.8,3.1,0.8,4.7c0,3.7-1.5,7.3-4.1,9.9l-10,10C33.3,86.5,29.7,88,26,88s-7.3-1.5-9.9-4.1S12,77.7,12,74 c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1c1.6,0,3.2,0.3,4.7,0.8l3.1-3.1C41.4,46.6,38.7,46,36,46L36,46z"></path></svg></span></h4></div><div><h5 data-heading="This is a heading 5" class="publish-article-heading"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg viewBox="0 0 100 100" class="right-triangle" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div>This is a heading 5 <span class="clickable-icon" aria-label="Copy link"><svg viewBox="0 0 100 100" class="link" width="20" height="20"><path fill="currentColor" stroke="currentColor" d="M74,8c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-2.9,2.9-4.7,6.6-5.1,10.6C46,34.6,46,35.3,46,36c0,2.7,0.6,5.4,1.8,7.8l3.1-3.1 C50.3,39.2,50,37.6,50,36c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1s7.3,1.5,9.9,4.1c2.6,2.6,4.1,6.2,4.1,9.9 s-1.5,7.3-4.1,9.9l-10,10C71.3,48.5,67.7,50,64,50c-1.6,0-3.2-0.3-4.7-0.8l-3.1,3.1c2.4,1.1,5,1.8,7.8,1.8c4.8,0,9.3-1.9,12.7-5.3 l10-10C90.1,35.3,92,30.8,92,26s-1.9-9.3-5.3-12.7C83.3,9.9,78.8,8,74,8L74,8z M62,36c-0.5,0-1,0.2-1.4,0.6l-24,24 c-0.5,0.5-0.7,1.2-0.6,1.9c0.2,0.7,0.7,1.2,1.4,1.4c0.7,0.2,1.4,0,1.9-0.6l24-24c0.6-0.6,0.8-1.5,0.4-2.2C63.5,36.4,62.8,36,62,36 z M36,46c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-3.1,3.1-5,7.2-5.2,11.6c0,0.4,0,0.8,0,1.2c0,4.8,1.9,9.3,5.3,12.7 C16.7,90.1,21.2,92,26,92s9.3-1.9,12.7-5.3l10-10C52.1,73.3,54,68.8,54,64c0-2.7-0.6-5.4-1.8-7.8l-3.1,3.1 c0.5,1.5,0.8,3.1,0.8,4.7c0,3.7-1.5,7.3-4.1,9.9l-10,10C33.3,86.5,29.7,88,26,88s-7.3-1.5-9.9-4.1S12,77.7,12,74 c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1c1.6,0,3.2,0.3,4.7,0.8l3.1-3.1C41.4,46.6,38.7,46,36,46L36,46z"></path></svg></span></h5></div><div><h6 data-heading="This is a heading 6" class="publish-article-heading"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg viewBox="0 0 100 100" class="right-triangle" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div>This is a heading 6 <span class="clickable-icon" aria-label="Copy link"><svg viewBox="0 0 100 100" class="link" width="20" height="20"><path fill="currentColor" stroke="currentColor" d="M74,8c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-2.9,2.9-4.7,6.6-5.1,10.6C46,34.6,46,35.3,46,36c0,2.7,0.6,5.4,1.8,7.8l3.1-3.1 C50.3,39.2,50,37.6,50,36c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1s7.3,1.5,9.9,4.1c2.6,2.6,4.1,6.2,4.1,9.9 s-1.5,7.3-4.1,9.9l-10,10C71.3,48.5,67.7,50,64,50c-1.6,0-3.2-0.3-4.7-0.8l-3.1,3.1c2.4,1.1,5,1.8,7.8,1.8c4.8,0,9.3-1.9,12.7-5.3 l10-10C90.1,35.3,92,30.8,92,26s-1.9-9.3-5.3-12.7C83.3,9.9,78.8,8,74,8L74,8z M62,36c-0.5,0-1,0.2-1.4,0.6l-24,24 c-0.5,0.5-0.7,1.2-0.6,1.9c0.2,0.7,0.7,1.2,1.4,1.4c0.7,0.2,1.4,0,1.9-0.6l24-24c0.6-0.6,0.8-1.5,0.4-2.2C63.5,36.4,62.8,36,62,36 z M36,46c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-3.1,3.1-5,7.2-5.2,11.6c0,0.4,0,0.8,0,1.2c0,4.8,1.9,9.3,5.3,12.7 C16.7,90.1,21.2,92,26,92s9.3-1.9,12.7-5.3l10-10C52.1,73.3,54,68.8,54,64c0-2.7-0.6-5.4-1.8-7.8l-3.1,3.1 c0.5,1.5,0.8,3.1,0.8,4.7c0,3.7-1.5,7.3-4.1,9.9l-10,10C33.3,86.5,29.7,88,26,88s-7.3-1.5-9.9-4.1S12,77.7,12,74 c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1c1.6,0,3.2,0.3,4.7,0.8l3.1-3.1C41.4,46.6,38.7,46,36,46L36,46z"></path></svg></span></h6></div><div><hr></div><div><h3 data-heading="Emphasis" class="publish-article-heading"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg viewBox="0 0 100 100" class="right-triangle" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div>Emphasis <span class="clickable-icon" aria-label="Copy link"><svg viewBox="0 0 100 100" class="link" width="20" height="20"><path fill="currentColor" stroke="currentColor" d="M74,8c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-2.9,2.9-4.7,6.6-5.1,10.6C46,34.6,46,35.3,46,36c0,2.7,0.6,5.4,1.8,7.8l3.1-3.1 C50.3,39.2,50,37.6,50,36c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1s7.3,1.5,9.9,4.1c2.6,2.6,4.1,6.2,4.1,9.9 s-1.5,7.3-4.1,9.9l-10,10C71.3,48.5,67.7,50,64,50c-1.6,0-3.2-0.3-4.7-0.8l-3.1,3.1c2.4,1.1,5,1.8,7.8,1.8c4.8,0,9.3-1.9,12.7-5.3 l10-10C90.1,35.3,92,30.8,92,26s-1.9-9.3-5.3-12.7C83.3,9.9,78.8,8,74,8L74,8z M62,36c-0.5,0-1,0.2-1.4,0.6l-24,24 c-0.5,0.5-0.7,1.2-0.6,1.9c0.2,0.7,0.7,1.2,1.4,1.4c0.7,0.2,1.4,0,1.9-0.6l24-24c0.6-0.6,0.8-1.5,0.4-2.2C63.5,36.4,62.8,36,62,36 z M36,46c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-3.1,3.1-5,7.2-5.2,11.6c0,0.4,0,0.8,0,1.2c0,4.8,1.9,9.3,5.3,12.7 C16.7,90.1,21.2,92,26,92s9.3-1.9,12.7-5.3l10-10C52.1,73.3,54,68.8,54,64c0-2.7-0.6-5.4-1.8-7.8l-3.1,3.1 c0.5,1.5,0.8,3.1,0.8,4.7c0,3.7-1.5,7.3-4.1,9.9l-10,10C33.3,86.5,29.7,88,26,88s-7.3-1.5-9.9-4.1S12,77.7,12,74 c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1c1.6,0,3.2,0.3,4.7,0.8l3.1-3.1C41.4,46.6,38.7,46,36,46L36,46z"></path></svg></span></h3></div><div><pre class="language-md" tabindex="0"><code class="language-md is-loaded"><span class="token italic"><span class="token punctuation">*</span><span class="token content">This text will be italic</span><span class="token punctuation">*</span></span>
-<span class="token italic"><span class="token punctuation">_</span><span class="token content">This will also be italic</span><span class="token punctuation">_</span></span>
-</code></pre></div><div><p><em>This text will be italic</em><br>
-<em>This will also be italic</em></p></div><div><pre class="language-md" tabindex="0"><code class="language-md is-loaded"><span class="token bold"><span class="token punctuation">**</span><span class="token content">This text will be bold</span><span class="token punctuation">**</span></span>
-<span class="token bold"><span class="token punctuation">__</span><span class="token content">This will also be bold</span><span class="token punctuation">__</span></span>
-</code></pre></div><div><p><strong>This text will be bold</strong><br>
-<strong>This will also be bold</strong></p></div><div><pre class="language-md" tabindex="0"><code class="language-md is-loaded"><span class="token italic"><span class="token punctuation">_</span><span class="token content">You <span class="token bold"><span class="token punctuation">**</span><span class="token content">can</span><span class="token punctuation">**</span></span> combine them</span><span class="token punctuation">_</span></span>
-</code></pre></div><div><p><em>You <strong>can</strong> combine them</em></p></div><div><hr></div><div><h3 data-heading="Lists" class="publish-article-heading"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg viewBox="0 0 100 100" class="right-triangle" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div>Lists <span class="clickable-icon" aria-label="Copy link"><svg viewBox="0 0 100 100" class="link" width="20" height="20"><path fill="currentColor" stroke="currentColor" d="M74,8c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-2.9,2.9-4.7,6.6-5.1,10.6C46,34.6,46,35.3,46,36c0,2.7,0.6,5.4,1.8,7.8l3.1-3.1 C50.3,39.2,50,37.6,50,36c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1s7.3,1.5,9.9,4.1c2.6,2.6,4.1,6.2,4.1,9.9 s-1.5,7.3-4.1,9.9l-10,10C71.3,48.5,67.7,50,64,50c-1.6,0-3.2-0.3-4.7-0.8l-3.1,3.1c2.4,1.1,5,1.8,7.8,1.8c4.8,0,9.3-1.9,12.7-5.3 l10-10C90.1,35.3,92,30.8,92,26s-1.9-9.3-5.3-12.7C83.3,9.9,78.8,8,74,8L74,8z M62,36c-0.5,0-1,0.2-1.4,0.6l-24,24 c-0.5,0.5-0.7,1.2-0.6,1.9c0.2,0.7,0.7,1.2,1.4,1.4c0.7,0.2,1.4,0,1.9-0.6l24-24c0.6-0.6,0.8-1.5,0.4-2.2C63.5,36.4,62.8,36,62,36 z M36,46c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-3.1,3.1-5,7.2-5.2,11.6c0,0.4,0,0.8,0,1.2c0,4.8,1.9,9.3,5.3,12.7 C16.7,90.1,21.2,92,26,92s9.3-1.9,12.7-5.3l10-10C52.1,73.3,54,68.8,54,64c0-2.7-0.6-5.4-1.8-7.8l-3.1,3.1 c0.5,1.5,0.8,3.1,0.8,4.7c0,3.7-1.5,7.3-4.1,9.9l-10,10C33.3,86.5,29.7,88,26,88s-7.3-1.5-9.9-4.1S12,77.7,12,74 c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1c1.6,0,3.2,0.3,4.7,0.8l3.1-3.1C41.4,46.6,38.7,46,36,46L36,46z"></path></svg></span></h3></div><div><pre class="language-md" tabindex="0"><code class="language-md is-loaded"><span class="token list punctuation">-</span> Item 1
-<span class="token list punctuation">-</span> Item 2
-  <span class="token list punctuation">-</span> Item 2a
-  <span class="token list punctuation">-</span> Item 2b
-
-<span class="token list punctuation">1.</span> Item 1
-<span class="token list punctuation">1.</span> Item 2
-<span class="token list punctuation">1.</span> Item 3
-   <span class="token list punctuation">1.</span> Item 3a
-   <span class="token list punctuation">1.</span> Item 3b
-</code></pre></div><div><ul>
-<li data-line="0">Item 1</li>
-<li data-line="1"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg viewBox="0 0 100 100" class="right-triangle" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div>Item 2
-<ul>
-<li data-line="2">Item 2a</li>
-<li data-line="3">Item 2b</li>
-</ul>
-</li>
-</ul></div><div><ol>
-<li data-line="0">Item 1</li>
-<li data-line="1">Item 2</li>
-<li data-line="2"><div class="list-collapse-indicator collapse-indicator collapse-icon"><svg viewBox="0 0 100 100" class="right-triangle" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div>Item 3
-<ol>
-<li data-line="3">Item 3a</li>
-<li data-line="4">Item 3b</li>
-</ol>
-</li>
-</ol></div><div><hr></div><div><h3 data-heading="Images" class="publish-article-heading"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg viewBox="0 0 100 100" class="right-triangle" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div>Images <span class="clickable-icon" aria-label="Copy link"><svg viewBox="0 0 100 100" class="link" width="20" height="20"><path fill="currentColor" stroke="currentColor" d="M74,8c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-2.9,2.9-4.7,6.6-5.1,10.6C46,34.6,46,35.3,46,36c0,2.7,0.6,5.4,1.8,7.8l3.1-3.1 C50.3,39.2,50,37.6,50,36c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1s7.3,1.5,9.9,4.1c2.6,2.6,4.1,6.2,4.1,9.9 s-1.5,7.3-4.1,9.9l-10,10C71.3,48.5,67.7,50,64,50c-1.6,0-3.2-0.3-4.7-0.8l-3.1,3.1c2.4,1.1,5,1.8,7.8,1.8c4.8,0,9.3-1.9,12.7-5.3 l10-10C90.1,35.3,92,30.8,92,26s-1.9-9.3-5.3-12.7C83.3,9.9,78.8,8,74,8L74,8z M62,36c-0.5,0-1,0.2-1.4,0.6l-24,24 c-0.5,0.5-0.7,1.2-0.6,1.9c0.2,0.7,0.7,1.2,1.4,1.4c0.7,0.2,1.4,0,1.9-0.6l24-24c0.6-0.6,0.8-1.5,0.4-2.2C63.5,36.4,62.8,36,62,36 z M36,46c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-3.1,3.1-5,7.2-5.2,11.6c0,0.4,0,0.8,0,1.2c0,4.8,1.9,9.3,5.3,12.7 C16.7,90.1,21.2,92,26,92s9.3-1.9,12.7-5.3l10-10C52.1,73.3,54,68.8,54,64c0-2.7-0.6-5.4-1.8-7.8l-3.1,3.1 c0.5,1.5,0.8,3.1,0.8,4.7c0,3.7-1.5,7.3-4.1,9.9l-10,10C33.3,86.5,29.7,88,26,88s-7.3-1.5-9.9-4.1S12,77.7,12,74 c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1c1.6,0,3.2,0.3,4.7,0.8l3.1-3.1C41.4,46.6,38.7,46,36,46L36,46z"></path></svg></span></h3></div><div><pre class="language-md" tabindex="0"><code class="language-md is-loaded"><span class="token url"><span class="token operator">!</span>[<span class="token content">Engelbart</span>](<span class="token url">https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg</span>)</span>
-</code></pre></div><div><p><img alt="Engelbart" src="./Format your notes - Obsidian Help_files/Engelbart.jpg" referrerpolicy="no-referrer"></p></div><div><h4 data-heading="Resizing images" class="publish-article-heading"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg viewBox="0 0 100 100" class="right-triangle" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div>Resizing images <span class="clickable-icon" aria-label="Copy link"><svg viewBox="0 0 100 100" class="link" width="20" height="20"><path fill="currentColor" stroke="currentColor" d="M74,8c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-2.9,2.9-4.7,6.6-5.1,10.6C46,34.6,46,35.3,46,36c0,2.7,0.6,5.4,1.8,7.8l3.1-3.1 C50.3,39.2,50,37.6,50,36c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1s7.3,1.5,9.9,4.1c2.6,2.6,4.1,6.2,4.1,9.9 s-1.5,7.3-4.1,9.9l-10,10C71.3,48.5,67.7,50,64,50c-1.6,0-3.2-0.3-4.7-0.8l-3.1,3.1c2.4,1.1,5,1.8,7.8,1.8c4.8,0,9.3-1.9,12.7-5.3 l10-10C90.1,35.3,92,30.8,92,26s-1.9-9.3-5.3-12.7C83.3,9.9,78.8,8,74,8L74,8z M62,36c-0.5,0-1,0.2-1.4,0.6l-24,24 c-0.5,0.5-0.7,1.2-0.6,1.9c0.2,0.7,0.7,1.2,1.4,1.4c0.7,0.2,1.4,0,1.9-0.6l24-24c0.6-0.6,0.8-1.5,0.4-2.2C63.5,36.4,62.8,36,62,36 z M36,46c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-3.1,3.1-5,7.2-5.2,11.6c0,0.4,0,0.8,0,1.2c0,4.8,1.9,9.3,5.3,12.7 C16.7,90.1,21.2,92,26,92s9.3-1.9,12.7-5.3l10-10C52.1,73.3,54,68.8,54,64c0-2.7-0.6-5.4-1.8-7.8l-3.1,3.1 c0.5,1.5,0.8,3.1,0.8,4.7c0,3.7-1.5,7.3-4.1,9.9l-10,10C33.3,86.5,29.7,88,26,88s-7.3-1.5-9.9-4.1S12,77.7,12,74 c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1c1.6,0,3.2,0.3,4.7,0.8l3.1-3.1C41.4,46.6,38.7,46,36,46L36,46z"></path></svg></span></h4></div><div><p>Example of this above image resized to 100 pixels wide:</p></div><div><pre class="language-md" tabindex="0"><code class="language-md is-loaded"><span class="token url"><span class="token operator">!</span>[<span class="token content">Engelbart|100</span>](<span class="token url">https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg</span>)</span>
-</code></pre></div><div><p><img width="100" alt="Engelbart" src="./Format your notes - Obsidian Help_files/Engelbart.jpg" referrerpolicy="no-referrer"></p></div><div><hr></div><div><h3 data-heading="Links" class="publish-article-heading"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg viewBox="0 0 100 100" class="right-triangle" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div>Links <span class="clickable-icon" aria-label="Copy link"><svg viewBox="0 0 100 100" class="link" width="20" height="20"><path fill="currentColor" stroke="currentColor" d="M74,8c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-2.9,2.9-4.7,6.6-5.1,10.6C46,34.6,46,35.3,46,36c0,2.7,0.6,5.4,1.8,7.8l3.1-3.1 C50.3,39.2,50,37.6,50,36c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1s7.3,1.5,9.9,4.1c2.6,2.6,4.1,6.2,4.1,9.9 s-1.5,7.3-4.1,9.9l-10,10C71.3,48.5,67.7,50,64,50c-1.6,0-3.2-0.3-4.7-0.8l-3.1,3.1c2.4,1.1,5,1.8,7.8,1.8c4.8,0,9.3-1.9,12.7-5.3 l10-10C90.1,35.3,92,30.8,92,26s-1.9-9.3-5.3-12.7C83.3,9.9,78.8,8,74,8L74,8z M62,36c-0.5,0-1,0.2-1.4,0.6l-24,24 c-0.5,0.5-0.7,1.2-0.6,1.9c0.2,0.7,0.7,1.2,1.4,1.4c0.7,0.2,1.4,0,1.9-0.6l24-24c0.6-0.6,0.8-1.5,0.4-2.2C63.5,36.4,62.8,36,62,36 z M36,46c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-3.1,3.1-5,7.2-5.2,11.6c0,0.4,0,0.8,0,1.2c0,4.8,1.9,9.3,5.3,12.7 C16.7,90.1,21.2,92,26,92s9.3-1.9,12.7-5.3l10-10C52.1,73.3,54,68.8,54,64c0-2.7-0.6-5.4-1.8-7.8l-3.1,3.1 c0.5,1.5,0.8,3.1,0.8,4.7c0,3.7-1.5,7.3-4.1,9.9l-10,10C33.3,86.5,29.7,88,26,88s-7.3-1.5-9.9-4.1S12,77.7,12,74 c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1c1.6,0,3.2,0.3,4.7,0.8l3.1-3.1C41.4,46.6,38.7,46,36,46L36,46z"></path></svg></span></h3></div><div><h4 data-heading="External links" class="publish-article-heading"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg viewBox="0 0 100 100" class="right-triangle" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div>External links <span class="clickable-icon" aria-label="Copy link"><svg viewBox="0 0 100 100" class="link" width="20" height="20"><path fill="currentColor" stroke="currentColor" d="M74,8c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-2.9,2.9-4.7,6.6-5.1,10.6C46,34.6,46,35.3,46,36c0,2.7,0.6,5.4,1.8,7.8l3.1-3.1 C50.3,39.2,50,37.6,50,36c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1s7.3,1.5,9.9,4.1c2.6,2.6,4.1,6.2,4.1,9.9 s-1.5,7.3-4.1,9.9l-10,10C71.3,48.5,67.7,50,64,50c-1.6,0-3.2-0.3-4.7-0.8l-3.1,3.1c2.4,1.1,5,1.8,7.8,1.8c4.8,0,9.3-1.9,12.7-5.3 l10-10C90.1,35.3,92,30.8,92,26s-1.9-9.3-5.3-12.7C83.3,9.9,78.8,8,74,8L74,8z M62,36c-0.5,0-1,0.2-1.4,0.6l-24,24 c-0.5,0.5-0.7,1.2-0.6,1.9c0.2,0.7,0.7,1.2,1.4,1.4c0.7,0.2,1.4,0,1.9-0.6l24-24c0.6-0.6,0.8-1.5,0.4-2.2C63.5,36.4,62.8,36,62,36 z M36,46c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-3.1,3.1-5,7.2-5.2,11.6c0,0.4,0,0.8,0,1.2c0,4.8,1.9,9.3,5.3,12.7 C16.7,90.1,21.2,92,26,92s9.3-1.9,12.7-5.3l10-10C52.1,73.3,54,68.8,54,64c0-2.7-0.6-5.4-1.8-7.8l-3.1,3.1 c0.5,1.5,0.8,3.1,0.8,4.7c0,3.7-1.5,7.3-4.1,9.9l-10,10C33.3,86.5,29.7,88,26,88s-7.3-1.5-9.9-4.1S12,77.7,12,74 c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1c1.6,0,3.2,0.3,4.7,0.8l3.1-3.1C41.4,46.6,38.7,46,36,46L36,46z"></path></svg></span></h4></div><div><p>Markdown style links can be used to refer to either external objects, such as web pages, or an internal page or image.</p></div><div><pre class="language-md" tabindex="0"><code class="language-md is-loaded">http://obsidian.md - automatic!
-<span class="token url">[<span class="token content">Obsidian</span>](<span class="token url">http://obsidian.md</span>)</span>
-</code></pre></div><div><p><a rel="noopener" class="external-link" href="http://obsidian.md/" target="_blank">http://obsidian.md</a> - automatic!<br>
-<a aria-label-position="top" aria-label="http://obsidian.md" rel="noopener" class="external-link" href="http://obsidian.md/" target="_blank">Obsidian</a></p></div><div><h4 data-heading="Obsidian URI links" class="publish-article-heading"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg viewBox="0 0 100 100" class="right-triangle" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div>Obsidian URI links <span class="clickable-icon" aria-label="Copy link"><svg viewBox="0 0 100 100" class="link" width="20" height="20"><path fill="currentColor" stroke="currentColor" d="M74,8c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-2.9,2.9-4.7,6.6-5.1,10.6C46,34.6,46,35.3,46,36c0,2.7,0.6,5.4,1.8,7.8l3.1-3.1 C50.3,39.2,50,37.6,50,36c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1s7.3,1.5,9.9,4.1c2.6,2.6,4.1,6.2,4.1,9.9 s-1.5,7.3-4.1,9.9l-10,10C71.3,48.5,67.7,50,64,50c-1.6,0-3.2-0.3-4.7-0.8l-3.1,3.1c2.4,1.1,5,1.8,7.8,1.8c4.8,0,9.3-1.9,12.7-5.3 l10-10C90.1,35.3,92,30.8,92,26s-1.9-9.3-5.3-12.7C83.3,9.9,78.8,8,74,8L74,8z M62,36c-0.5,0-1,0.2-1.4,0.6l-24,24 c-0.5,0.5-0.7,1.2-0.6,1.9c0.2,0.7,0.7,1.2,1.4,1.4c0.7,0.2,1.4,0,1.9-0.6l24-24c0.6-0.6,0.8-1.5,0.4-2.2C63.5,36.4,62.8,36,62,36 z M36,46c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-3.1,3.1-5,7.2-5.2,11.6c0,0.4,0,0.8,0,1.2c0,4.8,1.9,9.3,5.3,12.7 C16.7,90.1,21.2,92,26,92s9.3-1.9,12.7-5.3l10-10C52.1,73.3,54,68.8,54,64c0-2.7-0.6-5.4-1.8-7.8l-3.1,3.1 c0.5,1.5,0.8,3.1,0.8,4.7c0,3.7-1.5,7.3-4.1,9.9l-10,10C33.3,86.5,29.7,88,26,88s-7.3-1.5-9.9-4.1S12,77.7,12,74 c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1c1.6,0,3.2,0.3,4.7,0.8l3.1-3.1C41.4,46.6,38.7,46,36,46L36,46z"></path></svg></span></h4></div><div><p><a aria-label-position="top" aria-label="Using obsidian URI" data-href="Using obsidian URI" href="https://help.obsidian.md/Advanced+topics/Using+obsidian+URI" class="internal-link" target="_blank" rel="noopener">Obsidian URI</a> links can be used to open notes in Obsidian either from another Obsidian vault or another program.</p></div><div><p>For example, you can link to a file in a vault like so (please note the <a aria-label-position="top" aria-label="Using obsidian URI &gt; Encoding" data-href="Using obsidian URI#Encoding" href="https://help.obsidian.md/Advanced+topics/Using+obsidian+URI#Encoding" class="internal-link" target="_blank" rel="noopener">required encoding</a>):</p></div><div><pre class="language-md" tabindex="0"><code class="language-md is-loaded"><span class="token url">[<span class="token content">Link to note</span>](<span class="token url">obsidian://open?path=D:%2Fpath%2Fto%2Ffile.md</span>)</span>
-</code></pre></div><div><p><a aria-label-position="top" aria-label="obsidian://open?path=D:%2Fpath%2Fto%2Ffile.md" rel="noopener" class="external-link" href="obsidian://open?path=D:%2Fpath%2Fto%2Ffile.md" target="_blank">Link to note</a></p></div><div><p>You can link to a note by its vault name and file name instead of path as well:</p></div><div><pre class="language-md" tabindex="0"><code class="language-md is-loaded"><span class="token url">[<span class="token content">Link to note</span>](<span class="token url">obsidian://open?vault=MainVault&amp;file=MyNote.md</span>)</span>
-</code></pre></div><div><p><a aria-label-position="top" aria-label="obsidian://open?vault=MainVault&amp;file=MyNote.md" rel="noopener" class="external-link" href="obsidian://open?vault=MainVault&amp;file=MyNote.md" target="_blank">Link to note</a></p></div><div><h4 data-heading="Escaping" class="publish-article-heading"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg viewBox="0 0 100 100" class="right-triangle" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div>Escaping <span class="clickable-icon" aria-label="Copy link"><svg viewBox="0 0 100 100" class="link" width="20" height="20"><path fill="currentColor" stroke="currentColor" d="M74,8c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-2.9,2.9-4.7,6.6-5.1,10.6C46,34.6,46,35.3,46,36c0,2.7,0.6,5.4,1.8,7.8l3.1-3.1 C50.3,39.2,50,37.6,50,36c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1s7.3,1.5,9.9,4.1c2.6,2.6,4.1,6.2,4.1,9.9 s-1.5,7.3-4.1,9.9l-10,10C71.3,48.5,67.7,50,64,50c-1.6,0-3.2-0.3-4.7-0.8l-3.1,3.1c2.4,1.1,5,1.8,7.8,1.8c4.8,0,9.3-1.9,12.7-5.3 l10-10C90.1,35.3,92,30.8,92,26s-1.9-9.3-5.3-12.7C83.3,9.9,78.8,8,74,8L74,8z M62,36c-0.5,0-1,0.2-1.4,0.6l-24,24 c-0.5,0.5-0.7,1.2-0.6,1.9c0.2,0.7,0.7,1.2,1.4,1.4c0.7,0.2,1.4,0,1.9-0.6l24-24c0.6-0.6,0.8-1.5,0.4-2.2C63.5,36.4,62.8,36,62,36 z M36,46c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-3.1,3.1-5,7.2-5.2,11.6c0,0.4,0,0.8,0,1.2c0,4.8,1.9,9.3,5.3,12.7 C16.7,90.1,21.2,92,26,92s9.3-1.9,12.7-5.3l10-10C52.1,73.3,54,68.8,54,64c0-2.7-0.6-5.4-1.8-7.8l-3.1,3.1 c0.5,1.5,0.8,3.1,0.8,4.7c0,3.7-1.5,7.3-4.1,9.9l-10,10C33.3,86.5,29.7,88,26,88s-7.3-1.5-9.9-4.1S12,77.7,12,74 c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1c1.6,0,3.2,0.3,4.7,0.8l3.1-3.1C41.4,46.6,38.7,46,36,46L36,46z"></path></svg></span></h4></div><div><p>If there are spaces in the url, they can be escaped by either using <code>%20</code> as a space, such as:</p></div><div><pre class="language-md" tabindex="0"><code class="language-md is-loaded"><span class="token url">[<span class="token content">Export options</span>](<span class="token url">Pasted%20image</span>)</span>
-</code></pre></div><div><p><a class="internal-link is-unresolved" data-href="Pasted image" href="https://help.obsidian.md/Pasted+image" target="_blank" rel="noopener">Export options</a></p></div><div><p>Or you can enclose the target in <code>&lt;&gt;</code>, such as:</p></div><div><pre class="language-md" tabindex="0"><code class="language-md is-loaded">[Slides Demo](<span class="token tag"><span class="token tag"><span class="token punctuation">&lt;</span>Slides</span> <span class="token attr-name">Demo</span><span class="token punctuation">&gt;</span></span>)
-</code></pre></div><div><p><a class="internal-link" data-href="Slides Demo" href="https://help.obsidian.md/Attachments/Slides+demo" target="_blank" rel="noopener">Slides Demo</a></p></div><div><hr></div><div><h3 data-heading="Blockquotes" class="publish-article-heading"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg viewBox="0 0 100 100" class="right-triangle" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div>Blockquotes <span class="clickable-icon" aria-label="Copy link"><svg viewBox="0 0 100 100" class="link" width="20" height="20"><path fill="currentColor" stroke="currentColor" d="M74,8c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-2.9,2.9-4.7,6.6-5.1,10.6C46,34.6,46,35.3,46,36c0,2.7,0.6,5.4,1.8,7.8l3.1-3.1 C50.3,39.2,50,37.6,50,36c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1s7.3,1.5,9.9,4.1c2.6,2.6,4.1,6.2,4.1,9.9 s-1.5,7.3-4.1,9.9l-10,10C71.3,48.5,67.7,50,64,50c-1.6,0-3.2-0.3-4.7-0.8l-3.1,3.1c2.4,1.1,5,1.8,7.8,1.8c4.8,0,9.3-1.9,12.7-5.3 l10-10C90.1,35.3,92,30.8,92,26s-1.9-9.3-5.3-12.7C83.3,9.9,78.8,8,74,8L74,8z M62,36c-0.5,0-1,0.2-1.4,0.6l-24,24 c-0.5,0.5-0.7,1.2-0.6,1.9c0.2,0.7,0.7,1.2,1.4,1.4c0.7,0.2,1.4,0,1.9-0.6l24-24c0.6-0.6,0.8-1.5,0.4-2.2C63.5,36.4,62.8,36,62,36 z M36,46c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-3.1,3.1-5,7.2-5.2,11.6c0,0.4,0,0.8,0,1.2c0,4.8,1.9,9.3,5.3,12.7 C16.7,90.1,21.2,92,26,92s9.3-1.9,12.7-5.3l10-10C52.1,73.3,54,68.8,54,64c0-2.7-0.6-5.4-1.8-7.8l-3.1,3.1 c0.5,1.5,0.8,3.1,0.8,4.7c0,3.7-1.5,7.3-4.1,9.9l-10,10C33.3,86.5,29.7,88,26,88s-7.3-1.5-9.9-4.1S12,77.7,12,74 c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1c1.6,0,3.2,0.3,4.7,0.8l3.1-3.1C41.4,46.6,38.7,46,36,46L36,46z"></path></svg></span></h3></div><div><pre class="language-md" tabindex="0"><code class="language-md is-loaded"><span class="token blockquote punctuation">&gt;</span> Human beings face ever more complex and urgent problems, and their effectiveness in dealing with these problems is a matter that is critical to the stability and continued progress of society.
+## Shortcuts
+==Cmd + E== toggle between edit and preview mode
+==Cmd + Enter== to toggle a checkbox
+==Cmd + Shift + F== to search in all files
+==Cmd + ] or [== : to change the indentation
+
+Tag: #essential/format
+## Source
+[Obsidian format notes](https://help.obsidian.md/How+to/Format+your+notes)
+### Embeds
+
+Embed another file (read more about [Embed files](https://help.obsidian.md/How+to/Embed+files)). Here's an embedded section:
+
+```markdown
+![[Obsidian#What is Obsidian]]
+```
+
+## What is Obsidian
+
+Obsidian is a both a Markdown editor and a knowledge base app.
+
+Used in the most basic way, you can edit and preview Markdown files. But its true power lies in managing densely networked knowledge base.
+
+How do we start creating a network, you ask? Let's first start making some [internal links](https://help.obsidian.md/How+to/Internal+link)!
+
+### Headers
+
+```markdown
+# This is a heading 1
+## This is a heading 2
+### This is a heading 3 
+#### This is a heading 4
+##### This is a heading 5
+###### This is a heading 6
+```
+
+# This is a heading 1
+
+## This is a heading 2
+
+### This is a heading 3
+
+#### This is a heading 4
+
+##### This is a heading 5
+
+###### This is a heading 6
+
+
+### Emphasis
+
+```markdown
+*This text will be italic*
+_This will also be italic_
+```
+
+*This text will be italic*
+
+_This will also be italic_
+
+```markdown
+**This text will be bold**
+__This will also be bold__
+```
+
+**This text will be bold**  
+**This will also be bold**
+
+```markdown
+_You **can** combine them_
+```
+
+_You **can** combine them_
+
+### Lists
+
+```markdown
+- Item 1
+- Item 2
+  - Item 2a
+  - Item 2b
+
+1. Item 1
+1. Item 2
+1. Item 3
+   1. Item 3a
+   1. Item 3b
+```
+
+-   Item 1
+-   Item 2
+    -   Item 2a
+    -   Item 2b
+
+1.  Item 1
+2.  Item 2
+3.  Item 3
+    1.  Item 3a
+    2.  Item 3b
+
+### Images
+
+```
+![Engelbart](https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg)
+```
+
+![Engelbart](https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg)
+
+#### Resizing images
+
+Example of this above image resized to 100 pixels wide:
+
+```
+![Engelbart|100](https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg)
+```
+
+![Engelbart|100](https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg)
+
+### Links
+ Link to a specific heading in the note [[Format your notes - Obsidian Help#Links]]
+#### External links
+
+Markdown style links can be used to refer to either external objects, such as web pages, or an internal page or image.
+
+```markdown
+http://obsidian.md - automatic!
+[Obsidian](http://obsidian.md)
+```
+http://obsidian.md - automatic!
+[Obsidian](http://obsidian.md)
+#### Obsidian URI links
+
+[Obsidian URI](https://help.obsidian.md/Advanced+topics/Using+obsidian+URI) links can be used to open notes in Obsidian either from another Obsidian vault or another program.
+
+For example, you can link to a file in a vault like so (please note the [required encoding](https://help.obsidian.md/Advanced+topics/Using+obsidian+URI#Encoding)):
+
+```markdown
+[Link to note](obsidian://open?path=D:%2Fpath%2Fto%2Ffile.md)
+```
+
+You can link to a note by its vault name and file name instead of path as well:
+
+```markdown
+[Link to note](obsidian://open?vault=MainVault&file=MyNote.md)
+```
+[Link to note](obsidian://open?vault=MainVault&file=MyNote.md)
+#### Escaping
+
+If there are spaces in the url, they can be escaped by either using `%20` as a space, such as:
+
+```markdown
+[Export options](Pasted%20image)
+```
+
+Or you can enclose the target in `<>`, such as:
+
+```markdown
+[Slides Demo](<Slides Demo>)
+```
+
+### Blockquotes
+
+```markdown
+> Human beings face ever more complex and urgent problems, and their effectiveness in dealing with these problems is a matter that is critical to the stability and continued progress of society.
 
 \- Doug Engelbart, 1961
-</code></pre></div><div><blockquote>
-<p>Human beings face ever more complex and urgent problems, and their effectiveness in dealing with these problems is a matter that is critical to the stability and continued progress of society.</p>
-</blockquote></div><div><p>- Doug Engelbart, 1961</p></div><div><hr></div><div><h3 data-heading="Inline code" class="publish-article-heading"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg viewBox="0 0 100 100" class="right-triangle" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div>Inline code <span class="clickable-icon" aria-label="Copy link"><svg viewBox="0 0 100 100" class="link" width="20" height="20"><path fill="currentColor" stroke="currentColor" d="M74,8c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-2.9,2.9-4.7,6.6-5.1,10.6C46,34.6,46,35.3,46,36c0,2.7,0.6,5.4,1.8,7.8l3.1-3.1 C50.3,39.2,50,37.6,50,36c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1s7.3,1.5,9.9,4.1c2.6,2.6,4.1,6.2,4.1,9.9 s-1.5,7.3-4.1,9.9l-10,10C71.3,48.5,67.7,50,64,50c-1.6,0-3.2-0.3-4.7-0.8l-3.1,3.1c2.4,1.1,5,1.8,7.8,1.8c4.8,0,9.3-1.9,12.7-5.3 l10-10C90.1,35.3,92,30.8,92,26s-1.9-9.3-5.3-12.7C83.3,9.9,78.8,8,74,8L74,8z M62,36c-0.5,0-1,0.2-1.4,0.6l-24,24 c-0.5,0.5-0.7,1.2-0.6,1.9c0.2,0.7,0.7,1.2,1.4,1.4c0.7,0.2,1.4,0,1.9-0.6l24-24c0.6-0.6,0.8-1.5,0.4-2.2C63.5,36.4,62.8,36,62,36 z M36,46c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-3.1,3.1-5,7.2-5.2,11.6c0,0.4,0,0.8,0,1.2c0,4.8,1.9,9.3,5.3,12.7 C16.7,90.1,21.2,92,26,92s9.3-1.9,12.7-5.3l10-10C52.1,73.3,54,68.8,54,64c0-2.7-0.6-5.4-1.8-7.8l-3.1,3.1 c0.5,1.5,0.8,3.1,0.8,4.7c0,3.7-1.5,7.3-4.1,9.9l-10,10C33.3,86.5,29.7,88,26,88s-7.3-1.5-9.9-4.1S12,77.7,12,74 c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1c1.6,0,3.2,0.3,4.7,0.8l3.1-3.1C41.4,46.6,38.7,46,36,46L36,46z"></path></svg></span></h3></div><div><pre class="language-md" tabindex="0"><code class="language-md is-loaded">Text inside <span class="token code-snippet code keyword">`backticks`</span> on a line will be formatted like code.
-</code></pre></div><div><p>Text inside <code>backticks</code> on a line will be formatted like code. </p></div><div><hr></div><div><h3 data-heading="Code blocks" class="publish-article-heading"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg viewBox="0 0 100 100" class="right-triangle" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div>Code blocks <span class="clickable-icon" aria-label="Copy link"><svg viewBox="0 0 100 100" class="link" width="20" height="20"><path fill="currentColor" stroke="currentColor" d="M74,8c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-2.9,2.9-4.7,6.6-5.1,10.6C46,34.6,46,35.3,46,36c0,2.7,0.6,5.4,1.8,7.8l3.1-3.1 C50.3,39.2,50,37.6,50,36c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1s7.3,1.5,9.9,4.1c2.6,2.6,4.1,6.2,4.1,9.9 s-1.5,7.3-4.1,9.9l-10,10C71.3,48.5,67.7,50,64,50c-1.6,0-3.2-0.3-4.7-0.8l-3.1,3.1c2.4,1.1,5,1.8,7.8,1.8c4.8,0,9.3-1.9,12.7-5.3 l10-10C90.1,35.3,92,30.8,92,26s-1.9-9.3-5.3-12.7C83.3,9.9,78.8,8,74,8L74,8z M62,36c-0.5,0-1,0.2-1.4,0.6l-24,24 c-0.5,0.5-0.7,1.2-0.6,1.9c0.2,0.7,0.7,1.2,1.4,1.4c0.7,0.2,1.4,0,1.9-0.6l24-24c0.6-0.6,0.8-1.5,0.4-2.2C63.5,36.4,62.8,36,62,36 z M36,46c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-3.1,3.1-5,7.2-5.2,11.6c0,0.4,0,0.8,0,1.2c0,4.8,1.9,9.3,5.3,12.7 C16.7,90.1,21.2,92,26,92s9.3-1.9,12.7-5.3l10-10C52.1,73.3,54,68.8,54,64c0-2.7-0.6-5.4-1.8-7.8l-3.1,3.1 c0.5,1.5,0.8,3.1,0.8,4.7c0,3.7-1.5,7.3-4.1,9.9l-10,10C33.3,86.5,29.7,88,26,88s-7.3-1.5-9.9-4.1S12,77.7,12,74 c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1c1.6,0,3.2,0.3,4.7,0.8l3.1-3.1C41.4,46.6,38.7,46,36,46L36,46z"></path></svg></span></h3></div><div><p>Syntax highlight is supported with the language specified after the first set of backticks. We use prismjs for syntax highlighting, a list of supported languages can be found <a aria-label-position="top" aria-label="https://prismjs.com/#supported-languages" rel="noopener" class="external-link" href="https://prismjs.com/#supported-languages" target="_blank">at their site</a></p></div><div><pre><code>```js
+```
+
+> Human beings face ever more complex and urgent problems, and their effectiveness in dealing with these problems is a matter that is critical to the stability and continued progress of society.
+
+\- Doug Engelbart, 1961
+
+### Inline code
+
+```markdown
+Text inside `backticks` on a line will be formatted like code.
+```
+
+Text inside `backticks` on a line will be formatted like code.
+
+### Code blocks
+
+Syntax highlight is supported with the language specified after the first set of backticks. We use prismjs for syntax highlighting, a list of supported languages can be found [at their site](https://prismjs.com/#supported-languages)
+
+```js
 function fancyAlert(arg) {
   if(arg) {
     $.facebox({div:'#foo'})
   }
 }
-```</code></pre></div><div><pre class="language-js" tabindex="0"><code class="language-js is-loaded"><span class="token keyword">function</span> <span class="token function">fancyAlert</span><span class="token punctuation">(</span><span class="token parameter">arg</span><span class="token punctuation">)</span> <span class="token punctuation">{</span>
-  <span class="token keyword control-flow">if</span><span class="token punctuation">(</span>arg<span class="token punctuation">)</span> <span class="token punctuation">{</span>
-    $<span class="token punctuation">.</span><span class="token method function property-access">facebox</span><span class="token punctuation">(</span><span class="token punctuation">{</span><span class="token literal-property property">div</span><span class="token operator">:</span><span class="token string">'#foo'</span><span class="token punctuation">}</span><span class="token punctuation">)</span>
-  <span class="token punctuation">}</span>
-<span class="token punctuation">}</span>
-</code></pre></div><div><pre class="language-md" tabindex="0"><code class="language-md is-loaded">    Text indented with a tab is formatted like this, and will also look like a code block in preview. 
-</code></pre></div><div><pre><code>Text indented with a tab is formatted like this, and will also look like a code block in preview. 
-</code></pre></div><div><hr></div><div><h3 data-heading="Task list" class="publish-article-heading"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg viewBox="0 0 100 100" class="right-triangle" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div>Task list <span class="clickable-icon" aria-label="Copy link"><svg viewBox="0 0 100 100" class="link" width="20" height="20"><path fill="currentColor" stroke="currentColor" d="M74,8c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-2.9,2.9-4.7,6.6-5.1,10.6C46,34.6,46,35.3,46,36c0,2.7,0.6,5.4,1.8,7.8l3.1-3.1 C50.3,39.2,50,37.6,50,36c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1s7.3,1.5,9.9,4.1c2.6,2.6,4.1,6.2,4.1,9.9 s-1.5,7.3-4.1,9.9l-10,10C71.3,48.5,67.7,50,64,50c-1.6,0-3.2-0.3-4.7-0.8l-3.1,3.1c2.4,1.1,5,1.8,7.8,1.8c4.8,0,9.3-1.9,12.7-5.3 l10-10C90.1,35.3,92,30.8,92,26s-1.9-9.3-5.3-12.7C83.3,9.9,78.8,8,74,8L74,8z M62,36c-0.5,0-1,0.2-1.4,0.6l-24,24 c-0.5,0.5-0.7,1.2-0.6,1.9c0.2,0.7,0.7,1.2,1.4,1.4c0.7,0.2,1.4,0,1.9-0.6l24-24c0.6-0.6,0.8-1.5,0.4-2.2C63.5,36.4,62.8,36,62,36 z M36,46c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-3.1,3.1-5,7.2-5.2,11.6c0,0.4,0,0.8,0,1.2c0,4.8,1.9,9.3,5.3,12.7 C16.7,90.1,21.2,92,26,92s9.3-1.9,12.7-5.3l10-10C52.1,73.3,54,68.8,54,64c0-2.7-0.6-5.4-1.8-7.8l-3.1,3.1 c0.5,1.5,0.8,3.1,0.8,4.7c0,3.7-1.5,7.3-4.1,9.9l-10,10C33.3,86.5,29.7,88,26,88s-7.3-1.5-9.9-4.1S12,77.7,12,74 c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1c1.6,0,3.2,0.3,4.7,0.8l3.1-3.1C41.4,46.6,38.7,46,36,46L36,46z"></path></svg></span></h3></div><div><pre class="language-md" tabindex="0"><code class="language-md is-loaded"><span class="token list punctuation">-</span> [x] #tags, [links](), <span class="token bold"><span class="token punctuation">**</span><span class="token content">formatting</span><span class="token punctuation">**</span></span> supported
-<span class="token list punctuation">-</span> [x] list syntax required (any unordered or ordered list supported)
-<span class="token list punctuation">-</span> [x] this is a complete item
-<span class="token list punctuation">-</span> [?] this is also a complete item (works with every character)
-<span class="token list punctuation">-</span> [ ] this is an incomplete item
-<span class="token list punctuation">-</span> [ ] tasks can be clicked in Preview to be checked off
-</code></pre></div><div><ul class="contains-task-list">
-<li data-line="0" data-task="x" class="task-list-item is-checked"><input data-line="0" checked="" type="checkbox" class="task-list-item-checkbox"><a href="https://publish.obsidian.md/#tags" class="tag" target="_blank" rel="noopener">#tags</a>, <a aria-label-position="top" aria-label="" rel="noopener" class="external-link" href="https://publish.obsidian.md/" target="_blank">links</a>, <strong>formatting</strong> supported</li>
-<li data-line="1" data-task="x" class="task-list-item is-checked"><input data-line="1" checked="" type="checkbox" class="task-list-item-checkbox">list syntax required (any unordered or ordered list supported)</li>
-<li data-line="2" data-task="x" class="task-list-item is-checked"><input data-line="2" checked="" type="checkbox" class="task-list-item-checkbox">this is a complete item</li>
-<li data-line="3" data-task="?" class="task-list-item is-checked"><input data-line="3" checked="" type="checkbox" class="task-list-item-checkbox">this is also a complete item (works with every character)</li>
-<li data-line="4" data-task="" class="task-list-item"><input data-line="4" type="checkbox" class="task-list-item-checkbox">this is an incomplete item</li>
-<li data-line="5" data-task="" class="task-list-item"><input data-line="5" type="checkbox" class="task-list-item-checkbox">tasks can be clicked in Preview to be checked off</li>
-</ul></div><div><hr></div><div><h3 data-heading="Tables" class="publish-article-heading"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg viewBox="0 0 100 100" class="right-triangle" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div>Tables <span class="clickable-icon" aria-label="Copy link"><svg viewBox="0 0 100 100" class="link" width="20" height="20"><path fill="currentColor" stroke="currentColor" d="M74,8c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-2.9,2.9-4.7,6.6-5.1,10.6C46,34.6,46,35.3,46,36c0,2.7,0.6,5.4,1.8,7.8l3.1-3.1 C50.3,39.2,50,37.6,50,36c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1s7.3,1.5,9.9,4.1c2.6,2.6,4.1,6.2,4.1,9.9 s-1.5,7.3-4.1,9.9l-10,10C71.3,48.5,67.7,50,64,50c-1.6,0-3.2-0.3-4.7-0.8l-3.1,3.1c2.4,1.1,5,1.8,7.8,1.8c4.8,0,9.3-1.9,12.7-5.3 l10-10C90.1,35.3,92,30.8,92,26s-1.9-9.3-5.3-12.7C83.3,9.9,78.8,8,74,8L74,8z M62,36c-0.5,0-1,0.2-1.4,0.6l-24,24 c-0.5,0.5-0.7,1.2-0.6,1.9c0.2,0.7,0.7,1.2,1.4,1.4c0.7,0.2,1.4,0,1.9-0.6l24-24c0.6-0.6,0.8-1.5,0.4-2.2C63.5,36.4,62.8,36,62,36 z M36,46c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-3.1,3.1-5,7.2-5.2,11.6c0,0.4,0,0.8,0,1.2c0,4.8,1.9,9.3,5.3,12.7 C16.7,90.1,21.2,92,26,92s9.3-1.9,12.7-5.3l10-10C52.1,73.3,54,68.8,54,64c0-2.7-0.6-5.4-1.8-7.8l-3.1,3.1 c0.5,1.5,0.8,3.1,0.8,4.7c0,3.7-1.5,7.3-4.1,9.9l-10,10C33.3,86.5,29.7,88,26,88s-7.3-1.5-9.9-4.1S12,77.7,12,74 c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1c1.6,0,3.2,0.3,4.7,0.8l3.1-3.1C41.4,46.6,38.7,46,36,46L36,46z"></path></svg></span></h3></div><div><p>You can create tables by assembling a list of words and dividing them with hyphens <code>-</code> (for the first row), and then separating each column with a pipe <code>|</code>:</p></div><div><pre class="language-md" tabindex="0"><code class="language-md is-loaded"><span class="token table"><span class="token table-header-row"><span class="token table-header important">First Header </span><span class="token punctuation">|</span><span class="token table-header important"> Second Header</span>
-</span><span class="token table-line"><span class="token punctuation">------------</span> <span class="token punctuation">|</span> <span class="token punctuation">------------</span>
-</span><span class="token table-data-rows"><span class="token table-data">Content from cell 1 </span><span class="token punctuation">|</span><span class="token table-data"> Content from cell 2</span>
-<span class="token table-data">Content in the first column </span><span class="token punctuation">|</span><span class="token table-data"> Content in the second column</span>
-</span></span></code></pre></div><div><table>
-<thead>
-<tr>
-<th>First Header</th>
-<th>Second Header</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Content from cell 1</td>
-<td>Content from cell 2</td>
-</tr>
-<tr>
-<td>Content in the first column</td>
-<td>Content in the second column</td>
-</tr>
-</tbody>
-</table></div><div><hr></div><div><pre class="language-md" tabindex="0"><code class="language-md is-loaded"><span class="token table"><span class="token table-header-row"><span class="token table-header important">Tables can be justified with a colon </span><span class="token punctuation">|</span><span class="token table-header important"> Another example with a long title</span>
-</span><span class="token table-line"><span class="token punctuation">:----------------</span><span class="token punctuation">|</span><span class="token punctuation">-------------:</span>
-</span><span class="token table-data-rows"><span class="token table-data">because of the <span class="token code-snippet code keyword">`:`</span> </span><span class="token punctuation">|</span><span class="token table-data"> these will be justified</span>
-</span></span></code></pre></div><div><table>
-<thead>
-<tr>
-<th align="left">Tables can be justified with a colon</th>
-<th align="right">Another example with a long title</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left">because of the <code>:</code></td>
-<td align="right">these will be justified</td>
-</tr>
-</tbody>
-</table></div><div><p>If you put links in tables, they will work, but if you use Piped Links, the pipe must be escaped with a <code>\</code> to prevent it being read as a table element.</p></div><div><pre class="language-md" tabindex="0"><code class="language-md is-loaded"><span class="token table"><span class="token table-header-row"><span class="token table-header important">First Header </span><span class="token punctuation">|</span><span class="token table-header important"> Second Header</span>
-</span><span class="token table-line"><span class="token punctuation">------------</span> <span class="token punctuation">|</span> <span class="token punctuation">------------</span>
-</span><span class="token table-data-rows"><span class="token table-data">[[Format your notes\|Formatting]]	</span><span class="token punctuation">|</span><span class="token table-data">  [[Keyboard shortcuts\|hotkeys]]</span>
-</span></span></code></pre></div><div><table>
-<thead>
-<tr>
-<th>First Header</th>
-<th>Second Header</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a aria-label-position="top" aria-label="Format your notes" data-href="Format your notes" href="https://help.obsidian.md/How+to/Format+your+notes" class="internal-link" target="_blank" rel="noopener">Formatting</a></td>
-<td><a aria-label-position="top" aria-label="Use hotkeys" data-href="Use hotkeys" href="https://help.obsidian.md/How+to/Use+hotkeys" class="internal-link" target="_blank" rel="noopener">hotkeys</a></td>
-</tr>
-</tbody>
-</table></div><div><hr></div><div><h3 data-heading="Strikethrough" class="publish-article-heading"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg viewBox="0 0 100 100" class="right-triangle" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div>Strikethrough <span class="clickable-icon" aria-label="Copy link"><svg viewBox="0 0 100 100" class="link" width="20" height="20"><path fill="currentColor" stroke="currentColor" d="M74,8c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-2.9,2.9-4.7,6.6-5.1,10.6C46,34.6,46,35.3,46,36c0,2.7,0.6,5.4,1.8,7.8l3.1-3.1 C50.3,39.2,50,37.6,50,36c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1s7.3,1.5,9.9,4.1c2.6,2.6,4.1,6.2,4.1,9.9 s-1.5,7.3-4.1,9.9l-10,10C71.3,48.5,67.7,50,64,50c-1.6,0-3.2-0.3-4.7-0.8l-3.1,3.1c2.4,1.1,5,1.8,7.8,1.8c4.8,0,9.3-1.9,12.7-5.3 l10-10C90.1,35.3,92,30.8,92,26s-1.9-9.3-5.3-12.7C83.3,9.9,78.8,8,74,8L74,8z M62,36c-0.5,0-1,0.2-1.4,0.6l-24,24 c-0.5,0.5-0.7,1.2-0.6,1.9c0.2,0.7,0.7,1.2,1.4,1.4c0.7,0.2,1.4,0,1.9-0.6l24-24c0.6-0.6,0.8-1.5,0.4-2.2C63.5,36.4,62.8,36,62,36 z M36,46c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-3.1,3.1-5,7.2-5.2,11.6c0,0.4,0,0.8,0,1.2c0,4.8,1.9,9.3,5.3,12.7 C16.7,90.1,21.2,92,26,92s9.3-1.9,12.7-5.3l10-10C52.1,73.3,54,68.8,54,64c0-2.7-0.6-5.4-1.8-7.8l-3.1,3.1 c0.5,1.5,0.8,3.1,0.8,4.7c0,3.7-1.5,7.3-4.1,9.9l-10,10C33.3,86.5,29.7,88,26,88s-7.3-1.5-9.9-4.1S12,77.7,12,74 c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1c1.6,0,3.2,0.3,4.7,0.8l3.1-3.1C41.4,46.6,38.7,46,36,46L36,46z"></path></svg></span></h3></div><div><pre class="language-md" tabindex="0"><code class="language-md is-loaded">Any word wrapped with two tildes (like <span class="token strike"><span class="token punctuation">~~</span><span class="token content">this</span><span class="token punctuation">~~</span></span>) will appear crossed out.
-</code></pre></div><div><p>Any word wrapped with two tildes (like <del>this</del>) will appear crossed out.</p></div><div><hr></div><div><h3 data-heading="Highlighting" class="publish-article-heading"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg viewBox="0 0 100 100" class="right-triangle" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div>Highlighting <span class="clickable-icon" aria-label="Copy link"><svg viewBox="0 0 100 100" class="link" width="20" height="20"><path fill="currentColor" stroke="currentColor" d="M74,8c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-2.9,2.9-4.7,6.6-5.1,10.6C46,34.6,46,35.3,46,36c0,2.7,0.6,5.4,1.8,7.8l3.1-3.1 C50.3,39.2,50,37.6,50,36c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1s7.3,1.5,9.9,4.1c2.6,2.6,4.1,6.2,4.1,9.9 s-1.5,7.3-4.1,9.9l-10,10C71.3,48.5,67.7,50,64,50c-1.6,0-3.2-0.3-4.7-0.8l-3.1,3.1c2.4,1.1,5,1.8,7.8,1.8c4.8,0,9.3-1.9,12.7-5.3 l10-10C90.1,35.3,92,30.8,92,26s-1.9-9.3-5.3-12.7C83.3,9.9,78.8,8,74,8L74,8z M62,36c-0.5,0-1,0.2-1.4,0.6l-24,24 c-0.5,0.5-0.7,1.2-0.6,1.9c0.2,0.7,0.7,1.2,1.4,1.4c0.7,0.2,1.4,0,1.9-0.6l24-24c0.6-0.6,0.8-1.5,0.4-2.2C63.5,36.4,62.8,36,62,36 z M36,46c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-3.1,3.1-5,7.2-5.2,11.6c0,0.4,0,0.8,0,1.2c0,4.8,1.9,9.3,5.3,12.7 C16.7,90.1,21.2,92,26,92s9.3-1.9,12.7-5.3l10-10C52.1,73.3,54,68.8,54,64c0-2.7-0.6-5.4-1.8-7.8l-3.1,3.1 c0.5,1.5,0.8,3.1,0.8,4.7c0,3.7-1.5,7.3-4.1,9.9l-10,10C33.3,86.5,29.7,88,26,88s-7.3-1.5-9.9-4.1S12,77.7,12,74 c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1c1.6,0,3.2,0.3,4.7,0.8l3.1-3.1C41.4,46.6,38.7,46,36,46L36,46z"></path></svg></span></h3></div><div><pre class="language-md" tabindex="0"><code class="language-md is-loaded">Use two equal signs to ==highlight text==.
-</code></pre></div><div><p>Use two equal signs to <mark>highlight text</mark>.</p></div><div><hr></div><div><h3 data-heading="Horizontal Bar" class="publish-article-heading"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg viewBox="0 0 100 100" class="right-triangle" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div>Horizontal Bar <span class="clickable-icon" aria-label="Copy link"><svg viewBox="0 0 100 100" class="link" width="20" height="20"><path fill="currentColor" stroke="currentColor" d="M74,8c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-2.9,2.9-4.7,6.6-5.1,10.6C46,34.6,46,35.3,46,36c0,2.7,0.6,5.4,1.8,7.8l3.1-3.1 C50.3,39.2,50,37.6,50,36c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1s7.3,1.5,9.9,4.1c2.6,2.6,4.1,6.2,4.1,9.9 s-1.5,7.3-4.1,9.9l-10,10C71.3,48.5,67.7,50,64,50c-1.6,0-3.2-0.3-4.7-0.8l-3.1,3.1c2.4,1.1,5,1.8,7.8,1.8c4.8,0,9.3-1.9,12.7-5.3 l10-10C90.1,35.3,92,30.8,92,26s-1.9-9.3-5.3-12.7C83.3,9.9,78.8,8,74,8L74,8z M62,36c-0.5,0-1,0.2-1.4,0.6l-24,24 c-0.5,0.5-0.7,1.2-0.6,1.9c0.2,0.7,0.7,1.2,1.4,1.4c0.7,0.2,1.4,0,1.9-0.6l24-24c0.6-0.6,0.8-1.5,0.4-2.2C63.5,36.4,62.8,36,62,36 z M36,46c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-3.1,3.1-5,7.2-5.2,11.6c0,0.4,0,0.8,0,1.2c0,4.8,1.9,9.3,5.3,12.7 C16.7,90.1,21.2,92,26,92s9.3-1.9,12.7-5.3l10-10C52.1,73.3,54,68.8,54,64c0-2.7-0.6-5.4-1.8-7.8l-3.1,3.1 c0.5,1.5,0.8,3.1,0.8,4.7c0,3.7-1.5,7.3-4.1,9.9l-10,10C33.3,86.5,29.7,88,26,88s-7.3-1.5-9.9-4.1S12,77.7,12,74 c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1c1.6,0,3.2,0.3,4.7,0.8l3.1-3.1C41.4,46.6,38.7,46,36,46L36,46z"></path></svg></span></h3></div><div><pre class="language-md" tabindex="0"><code class="language-md is-loaded">Use three stars ***, minuses ---, or underscores ___ in a new line to produce an horizontal bar.
+```
 
-</code></pre></div><div><hr></div><div><hr></div><div><h3 data-heading="Footnotes" class="publish-article-heading"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg viewBox="0 0 100 100" class="right-triangle" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div>Footnotes <span class="clickable-icon" aria-label="Copy link"><svg viewBox="0 0 100 100" class="link" width="20" height="20"><path fill="currentColor" stroke="currentColor" d="M74,8c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-2.9,2.9-4.7,6.6-5.1,10.6C46,34.6,46,35.3,46,36c0,2.7,0.6,5.4,1.8,7.8l3.1-3.1 C50.3,39.2,50,37.6,50,36c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1s7.3,1.5,9.9,4.1c2.6,2.6,4.1,6.2,4.1,9.9 s-1.5,7.3-4.1,9.9l-10,10C71.3,48.5,67.7,50,64,50c-1.6,0-3.2-0.3-4.7-0.8l-3.1,3.1c2.4,1.1,5,1.8,7.8,1.8c4.8,0,9.3-1.9,12.7-5.3 l10-10C90.1,35.3,92,30.8,92,26s-1.9-9.3-5.3-12.7C83.3,9.9,78.8,8,74,8L74,8z M62,36c-0.5,0-1,0.2-1.4,0.6l-24,24 c-0.5,0.5-0.7,1.2-0.6,1.9c0.2,0.7,0.7,1.2,1.4,1.4c0.7,0.2,1.4,0,1.9-0.6l24-24c0.6-0.6,0.8-1.5,0.4-2.2C63.5,36.4,62.8,36,62,36 z M36,46c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-3.1,3.1-5,7.2-5.2,11.6c0,0.4,0,0.8,0,1.2c0,4.8,1.9,9.3,5.3,12.7 C16.7,90.1,21.2,92,26,92s9.3-1.9,12.7-5.3l10-10C52.1,73.3,54,68.8,54,64c0-2.7-0.6-5.4-1.8-7.8l-3.1,3.1 c0.5,1.5,0.8,3.1,0.8,4.7c0,3.7-1.5,7.3-4.1,9.9l-10,10C33.3,86.5,29.7,88,26,88s-7.3-1.5-9.9-4.1S12,77.7,12,74 c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1c1.6,0,3.2,0.3,4.7,0.8l3.1-3.1C41.4,46.6,38.7,46,36,46L36,46z"></path></svg></span></h3></div><div><pre class="language-md" tabindex="0"><code class="language-md is-loaded">Here's a simple footnote,[^1] and here's a longer one.[^bignote]
+```python
+import numpy as np
+import pandas as pd
 
-<span class="token url-reference url"><span class="token punctuation">[</span><span class="token variable">^1</span><span class="token punctuation">]</span><span class="token punctuation">:</span> meaningful!</span>
+```
 
-<span class="token url-reference url"><span class="token punctuation">[</span><span class="token variable">^bignote</span><span class="token punctuation">]</span><span class="token punctuation">:</span> Here's</span> one with multiple paragraphs and code.
+```markdown
+	Text indented with a tab is formatted like this, and will also look like a code block in preview. 
+```
 
-<span class="token code keyword">    Indent paragraphs to include them in the footnote.</span>
+```
+Text indented with a tab is formatted like this, and will also look like a code block in preview. 
+```
 
-<span class="token code keyword">    `{ my code }`</span>
+### Task list
 
-<span class="token code keyword">    Add as many paragraphs as you like.</span>
-</code></pre></div><div><p>Here's a simple footnote,<sup data-footnote-id="fnref-1-900130cba1b6f875" class="footnote-ref" id="fnref-1-900130cba1b6f875"><a href="https://publish.obsidian.md/#fn-1-900130cba1b6f875" class="footnote-link" target="_blank" rel="noopener">[1]</a></sup> and here's a longer one.<sup data-footnote-id="fnref-2-900130cba1b6f875" class="footnote-ref" id="fnref-2-900130cba1b6f875"><a href="https://publish.obsidian.md/#fn-2-900130cba1b6f875" class="footnote-link" target="_blank" rel="noopener">[2]</a></sup></p></div><div></div><div></div><div><pre class="language-md" tabindex="0"><code class="language-md is-loaded">You can also use inline footnotes. ^[notice that the carat goes outside of the brackets on this one.]
-</code></pre></div><div><p>You can also use inline footnotes. <sup data-footnote-id="fnref-3-900130cba1b6f875" class="footnote-ref" id="fnref-3-900130cba1b6f875"><a href="https://publish.obsidian.md/#fn-3-900130cba1b6f875" class="footnote-link" target="_blank" rel="noopener">[3]</a></sup></p></div><div><h3 data-heading="Math" class="publish-article-heading"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg viewBox="0 0 100 100" class="right-triangle" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div>Math <span class="clickable-icon" aria-label="Copy link"><svg viewBox="0 0 100 100" class="link" width="20" height="20"><path fill="currentColor" stroke="currentColor" d="M74,8c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-2.9,2.9-4.7,6.6-5.1,10.6C46,34.6,46,35.3,46,36c0,2.7,0.6,5.4,1.8,7.8l3.1-3.1 C50.3,39.2,50,37.6,50,36c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1s7.3,1.5,9.9,4.1c2.6,2.6,4.1,6.2,4.1,9.9 s-1.5,7.3-4.1,9.9l-10,10C71.3,48.5,67.7,50,64,50c-1.6,0-3.2-0.3-4.7-0.8l-3.1,3.1c2.4,1.1,5,1.8,7.8,1.8c4.8,0,9.3-1.9,12.7-5.3 l10-10C90.1,35.3,92,30.8,92,26s-1.9-9.3-5.3-12.7C83.3,9.9,78.8,8,74,8L74,8z M62,36c-0.5,0-1,0.2-1.4,0.6l-24,24 c-0.5,0.5-0.7,1.2-0.6,1.9c0.2,0.7,0.7,1.2,1.4,1.4c0.7,0.2,1.4,0,1.9-0.6l24-24c0.6-0.6,0.8-1.5,0.4-2.2C63.5,36.4,62.8,36,62,36 z M36,46c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-3.1,3.1-5,7.2-5.2,11.6c0,0.4,0,0.8,0,1.2c0,4.8,1.9,9.3,5.3,12.7 C16.7,90.1,21.2,92,26,92s9.3-1.9,12.7-5.3l10-10C52.1,73.3,54,68.8,54,64c0-2.7-0.6-5.4-1.8-7.8l-3.1,3.1 c0.5,1.5,0.8,3.1,0.8,4.7c0,3.7-1.5,7.3-4.1,9.9l-10,10C33.3,86.5,29.7,88,26,88s-7.3-1.5-9.9-4.1S12,77.7,12,74 c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1c1.6,0,3.2,0.3,4.7,0.8l3.1-3.1C41.4,46.6,38.7,46,36,46L36,46z"></path></svg></span></h3></div><div><pre class="language-md" tabindex="0"><code class="language-md is-loaded">$$\begin{vmatrix}a &amp; b\\
-c &amp; d
+```
+- [x] #tags, [links](), **formatting** supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [?] this is also a complete item (works with every character)
+- [ ] this is an incomplete item
+- [ ] tasks can be clicked in Preview to be checked off
+```
+
+- [x] #tags, [links](), **formatting** supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is also a complete item (works with every character)
+- [ ] this is an incomplete item
+- [ ] tasks can be clicked in Preview to be checked off
+
+### Tables
+
+You can create tables by assembling a list of words and dividing them with hyphens `-` (for the first row), and then separating each column with a pipe `|`:
+
+```
+First Header | Second Header
+------------ | ------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+```
+
+| First Header | Second Header |
+| --- | --- |
+| Content from cell 1 | Content from cell 2 |
+| Content in the first column | Content in the second column |
+
+```
+Tables can be justified with a colon | Another example with a long title
+:----------------|-------------:
+because of the `:` | these will be justified
+```
+
+| Tables can be justified with a colon | Another example with a long title |
+| --- | --- |
+| because of the `:` | these will be justified |
+
+If you put links in tables, they will work, but if you use Piped Links, the pipe must be escaped with a `\` to prevent it being read as a table element.
+
+```markdown
+First Header | Second Header
+------------ | ------------
+[[Format your notes\|Formatting]]|  [[Keyboard shortcuts\|hotkeys]]
+```
+
+### Strikethrough
+
+```markdown
+Any word wrapped with two tildes (like ~~this~~) will appear crossed out.
+```
+
+Any word wrapped with two tildes (like ~~this~~) will appear crossed out.
+
+### Highlighting
+
+```markdown
+Use two equal signs to ==highlight text==.
+```
+
+Use two equal signs to ==highlight text==.
+
+### Horizontal Bar
+
+```markdown
+Use three stars ***, minuses ---, or underscores ___ in a new line to produce an horizontal bar.
+
+```
+***
+---
+___
+### Footnotes
+
+```markdown
+Here's a simple footnote,[^1] and here's a longer one.[^bignote]
+
+[^1]: meaningful!
+
+[^bignote]: Here's one with multiple paragraphs and code.
+
+    Indent paragraphs to include them in the footnote.
+
+    `{ my code }`
+
+    Add as many paragraphs as you like.
+```
+
+Here's a simple footnote[^1] 
+
+[^1]:  the Simple note
+
+and here's a longer one.[^bignote] 
+
+[^bignote]: Here's one with multiple paragraphs and code. Indent paragraphs to include them in the footnote. `{ my code }` Add as many paragraphs as you like.
+
+```markdown
+You can also use inline footnotes. ^[notice that the carat goes outside of the brackets on this one.]
+```
+
+You can also use inline footnotes.^[notice that the carat goes outside of the brackets on this one.]
+
+### Math
+
+```markdown
+$$\begin{vmatrix}a & b\\
+c & d
 \end{vmatrix}=ad-bc$$
-</code></pre></div><div><div class="math math-block is-loaded"><mjx-container class="MathJax" jax="CHTML" display="true" style="position: relative;"><mjx-math display="true" class="MJX-TEX" aria-hidden="true" style="margin-left: 0px; margin-right: 0px;"><mjx-mrow><mjx-mo class="mjx-n"><mjx-stretchy-v class="mjx-c7C" style="height: 2.4em; vertical-align: -0.95em;"><mjx-ext><mjx-c></mjx-c></mjx-ext><mjx-mark></mjx-mark></mjx-stretchy-v></mjx-mo><mjx-mtable style="min-width: 2.049em;"><mjx-table><mjx-itable><mjx-mtr><mjx-mtd style="padding-right: 0.5em; padding-bottom: 0.2em;"><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D44E TEX-I"></mjx-c></mjx-mi><mjx-tstrut></mjx-tstrut></mjx-mtd><mjx-mtd style="padding-left: 0.5em; padding-bottom: 0.2em;"><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D44F TEX-I"></mjx-c></mjx-mi><mjx-tstrut></mjx-tstrut></mjx-mtd></mjx-mtr><mjx-mtr><mjx-mtd style="padding-right: 0.5em; padding-top: 0.2em;"><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D450 TEX-I"></mjx-c></mjx-mi><mjx-tstrut></mjx-tstrut></mjx-mtd><mjx-mtd style="padding-left: 0.5em; padding-top: 0.2em;"><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D451 TEX-I"></mjx-c></mjx-mi><mjx-tstrut></mjx-tstrut></mjx-mtd></mjx-mtr></mjx-itable></mjx-table></mjx-mtable><mjx-mo class="mjx-n"><mjx-stretchy-v class="mjx-c7C" style="height: 2.4em; vertical-align: -0.95em;"><mjx-ext><mjx-c></mjx-c></mjx-ext><mjx-mark></mjx-mark></mjx-stretchy-v></mjx-mo></mjx-mrow><mjx-mo class="mjx-n" space="4"><mjx-c class="mjx-c3D"></mjx-c></mjx-mo><mjx-mi class="mjx-i" space="4"><mjx-c class="mjx-c1D44E TEX-I"></mjx-c></mjx-mi><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D451 TEX-I"></mjx-c></mjx-mi><mjx-mo class="mjx-n" space="3"><mjx-c class="mjx-c2212"></mjx-c></mjx-mo><mjx-mi class="mjx-i" space="3"><mjx-c class="mjx-c1D44F TEX-I"></mjx-c></mjx-mi><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D450 TEX-I"></mjx-c></mjx-mi></mjx-math><mjx-assistive-mml unselectable="on" display="block"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">|</mo><mtable columnspacing="1em" rowspacing="4pt"><mtr><mtd><mi>a</mi></mtd><mtd><mi>b</mi></mtd></mtr><mtr><mtd><mi>c</mi></mtd><mtd><mi>d</mi></mtd></mtr></mtable><mo data-mjx-texclass="CLOSE">|</mo></mrow><mo>=</mo><mi>a</mi><mi>d</mi><mo>−</mo><mi>b</mi><mi>c</mi></math></mjx-assistive-mml></mjx-container></div></div><div><p>You can also do inline math like <span class="math math-inline is-loaded"><mjx-container class="MathJax" jax="CHTML" style="position: relative;"><mjx-math class="MJX-TEX" aria-hidden="true"><mjx-msup><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D452 TEX-I"></mjx-c></mjx-mi><mjx-script style="vertical-align: 0.363em;"><mjx-texatom size="s" texclass="ORD"><mjx-mn class="mjx-n"><mjx-c class="mjx-c32"></mjx-c></mjx-mn><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D456 TEX-I"></mjx-c></mjx-mi><mjx-mi class="mjx-i"><mjx-c class="mjx-c1D70B TEX-I"></mjx-c></mjx-mi></mjx-texatom></mjx-script></mjx-msup><mjx-mo class="mjx-n" space="4"><mjx-c class="mjx-c3D"></mjx-c></mjx-mo><mjx-mn class="mjx-n" space="4"><mjx-c class="mjx-c31"></mjx-c></mjx-mn></mjx-math><mjx-assistive-mml unselectable="on" display="inline"><math xmlns="http://www.w3.org/1998/Math/MathML"><msup><mi>e</mi><mrow data-mjx-texclass="ORD"><mn>2</mn><mi>i</mi><mi>π</mi></mrow></msup><mo>=</mo><mn>1</mn></math></mjx-assistive-mml></mjx-container></span> .</p></div><div><p>Obsidian uses <a aria-label-position="top" aria-label="http://docs.mathjax.org/en/latest/basic/mathjax.html" rel="noopener" class="external-link" href="http://docs.mathjax.org/en/latest/basic/mathjax.html" target="_blank">Mathjax</a>. You can check which packages are supported in Mathjax <a aria-label-position="top" aria-label="http://docs.mathjax.org/en/latest/input/tex/extensions/index.html" rel="noopener" class="external-link" href="http://docs.mathjax.org/en/latest/input/tex/extensions/index.html" target="_blank">here</a>.</p></div><div><h3 data-heading="Comments" class="publish-article-heading"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg viewBox="0 0 100 100" class="right-triangle" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div>Comments <span class="clickable-icon" aria-label="Copy link"><svg viewBox="0 0 100 100" class="link" width="20" height="20"><path fill="currentColor" stroke="currentColor" d="M74,8c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-2.9,2.9-4.7,6.6-5.1,10.6C46,34.6,46,35.3,46,36c0,2.7,0.6,5.4,1.8,7.8l3.1-3.1 C50.3,39.2,50,37.6,50,36c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1s7.3,1.5,9.9,4.1c2.6,2.6,4.1,6.2,4.1,9.9 s-1.5,7.3-4.1,9.9l-10,10C71.3,48.5,67.7,50,64,50c-1.6,0-3.2-0.3-4.7-0.8l-3.1,3.1c2.4,1.1,5,1.8,7.8,1.8c4.8,0,9.3-1.9,12.7-5.3 l10-10C90.1,35.3,92,30.8,92,26s-1.9-9.3-5.3-12.7C83.3,9.9,78.8,8,74,8L74,8z M62,36c-0.5,0-1,0.2-1.4,0.6l-24,24 c-0.5,0.5-0.7,1.2-0.6,1.9c0.2,0.7,0.7,1.2,1.4,1.4c0.7,0.2,1.4,0,1.9-0.6l24-24c0.6-0.6,0.8-1.5,0.4-2.2C63.5,36.4,62.8,36,62,36 z M36,46c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-3.1,3.1-5,7.2-5.2,11.6c0,0.4,0,0.8,0,1.2c0,4.8,1.9,9.3,5.3,12.7 C16.7,90.1,21.2,92,26,92s9.3-1.9,12.7-5.3l10-10C52.1,73.3,54,68.8,54,64c0-2.7-0.6-5.4-1.8-7.8l-3.1,3.1 c0.5,1.5,0.8,3.1,0.8,4.7c0,3.7-1.5,7.3-4.1,9.9l-10,10C33.3,86.5,29.7,88,26,88s-7.3-1.5-9.9-4.1S12,77.7,12,74 c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1c1.6,0,3.2,0.3,4.7,0.8l3.1-3.1C41.4,46.6,38.7,46,36,46L36,46z"></path></svg></span></h3></div><div><p>Use <code>%%</code> to enclose comments, which will be parsed as Markdown, but will not show up in the preview.</p></div><div><pre class="language-md" tabindex="0"><code class="language-md is-loaded">Here is some inline comments: %%You can't see this text%% (Can't see it)
+```
+$$\begin{vmatrix}a & b\\
+c & d
+\end{vmatrix}=ad-bc$$
+
+You can also do inline math like ${x^y}^z$ or $\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$
+
+Obsidian uses [Mathjax](http://docs.mathjax.org/en/latest/basic/mathjax.html). You can check which packages are supported in Mathjax [here](http://docs.mathjax.org/en/latest/input/tex/extensions/index.html).
+
+### Comments
+
+Use `%%` to enclose comments, which will be parsed as Markdown, but will not show up in the preview.
+
+```markdown
+Here is some inline comments: %% Ahmad, You can't see this text%% (Can't see it)
 
 Here is a block comment:
 %%
 It can span
 multiple lines
 %%
-</code></pre></div><div><p>Here is some inline comments:  (can't see it in preview)</p></div><div><p>Here is a block comment: (can't see it in preview either)</p></div><div></div><div><h2 data-heading="Callouts" class="publish-article-heading"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg viewBox="0 0 100 100" class="right-triangle" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div>Callouts <span class="clickable-icon" aria-label="Copy link"><svg viewBox="0 0 100 100" class="link" width="20" height="20"><path fill="currentColor" stroke="currentColor" d="M74,8c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-2.9,2.9-4.7,6.6-5.1,10.6C46,34.6,46,35.3,46,36c0,2.7,0.6,5.4,1.8,7.8l3.1-3.1 C50.3,39.2,50,37.6,50,36c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1s7.3,1.5,9.9,4.1c2.6,2.6,4.1,6.2,4.1,9.9 s-1.5,7.3-4.1,9.9l-10,10C71.3,48.5,67.7,50,64,50c-1.6,0-3.2-0.3-4.7-0.8l-3.1,3.1c2.4,1.1,5,1.8,7.8,1.8c4.8,0,9.3-1.9,12.7-5.3 l10-10C90.1,35.3,92,30.8,92,26s-1.9-9.3-5.3-12.7C83.3,9.9,78.8,8,74,8L74,8z M62,36c-0.5,0-1,0.2-1.4,0.6l-24,24 c-0.5,0.5-0.7,1.2-0.6,1.9c0.2,0.7,0.7,1.2,1.4,1.4c0.7,0.2,1.4,0,1.9-0.6l24-24c0.6-0.6,0.8-1.5,0.4-2.2C63.5,36.4,62.8,36,62,36 z M36,46c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-3.1,3.1-5,7.2-5.2,11.6c0,0.4,0,0.8,0,1.2c0,4.8,1.9,9.3,5.3,12.7 C16.7,90.1,21.2,92,26,92s9.3-1.9,12.7-5.3l10-10C52.1,73.3,54,68.8,54,64c0-2.7-0.6-5.4-1.8-7.8l-3.1,3.1 c0.5,1.5,0.8,3.1,0.8,4.7c0,3.7-1.5,7.3-4.1,9.9l-10,10C33.3,86.5,29.7,88,26,88s-7.3-1.5-9.9-4.1S12,77.7,12,74 c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1c1.6,0,3.2,0.3,4.7,0.8l3.1-3.1C41.4,46.6,38.7,46,36,46L36,46z"></path></svg></span></h2></div><div><p>Use the following syntax to denote a callout block: <code>&gt; [!INFO]</code>.</p></div><div><p>Learn more about callouts <a aria-label-position="top" aria-label="Use callouts" data-href="Use callouts" href="https://help.obsidian.md/How+to/Use+callouts" class="internal-link" target="_blank" rel="noopener">here</a>.</p></div><div><pre class="language-markdown" tabindex="0"><code class="language-markdown is-loaded"><span class="token blockquote punctuation">&gt;</span> [!INFO]
-<span class="token blockquote punctuation">&gt;</span> Here's a callout block.
-<span class="token blockquote punctuation">&gt;</span> It supports <span class="token bold"><span class="token punctuation">**</span><span class="token content">markdown</span><span class="token punctuation">**</span></span> and [[Internal link|wikilinks]].
-</code></pre></div><div><div data-callout-metadata="" data-callout-fold="" data-callout="info" class="callout"><div class="callout-title"><div class="callout-icon"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-info"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="16" x2="12" y2="12"></line><line x1="12" y1="8" x2="12.01" y2="8"></line></svg></div><div class="callout-title-inner">Info</div></div><div class="callout-content">
-<p>Here's a callout block.<br>
-It supports <strong>markdown</strong> and <a aria-label-position="top" aria-label="Internal link" data-href="Internal link" href="https://help.obsidian.md/How+to/Internal+link" class="internal-link" target="_blank" rel="noopener">wikilinks</a>.</p>
-</div></div></div><div><h3 data-heading="Diagram" class="publish-article-heading"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg viewBox="0 0 100 100" class="right-triangle" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div>Diagram <span class="clickable-icon" aria-label="Copy link"><svg viewBox="0 0 100 100" class="link" width="20" height="20"><path fill="currentColor" stroke="currentColor" d="M74,8c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-2.9,2.9-4.7,6.6-5.1,10.6C46,34.6,46,35.3,46,36c0,2.7,0.6,5.4,1.8,7.8l3.1-3.1 C50.3,39.2,50,37.6,50,36c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1s7.3,1.5,9.9,4.1c2.6,2.6,4.1,6.2,4.1,9.9 s-1.5,7.3-4.1,9.9l-10,10C71.3,48.5,67.7,50,64,50c-1.6,0-3.2-0.3-4.7-0.8l-3.1,3.1c2.4,1.1,5,1.8,7.8,1.8c4.8,0,9.3-1.9,12.7-5.3 l10-10C90.1,35.3,92,30.8,92,26s-1.9-9.3-5.3-12.7C83.3,9.9,78.8,8,74,8L74,8z M62,36c-0.5,0-1,0.2-1.4,0.6l-24,24 c-0.5,0.5-0.7,1.2-0.6,1.9c0.2,0.7,0.7,1.2,1.4,1.4c0.7,0.2,1.4,0,1.9-0.6l24-24c0.6-0.6,0.8-1.5,0.4-2.2C63.5,36.4,62.8,36,62,36 z M36,46c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-3.1,3.1-5,7.2-5.2,11.6c0,0.4,0,0.8,0,1.2c0,4.8,1.9,9.3,5.3,12.7 C16.7,90.1,21.2,92,26,92s9.3-1.9,12.7-5.3l10-10C52.1,73.3,54,68.8,54,64c0-2.7-0.6-5.4-1.8-7.8l-3.1,3.1 c0.5,1.5,0.8,3.1,0.8,4.7c0,3.7-1.5,7.3-4.1,9.9l-10,10C33.3,86.5,29.7,88,26,88s-7.3-1.5-9.9-4.1S12,77.7,12,74 c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1c1.6,0,3.2,0.3,4.7,0.8l3.1-3.1C41.4,46.6,38.7,46,36,46L36,46z"></path></svg></span></h3></div><div><p>Obsidian uses <a aria-label-position="top" aria-label="https://mermaid-js.github.io/" rel="noopener" class="external-link" href="https://mermaid-js.github.io/" target="_blank">Mermaid</a> to render diagrams and charts. Mermaid also provides <a aria-label-position="top" aria-label="https://mermaid-js.github.io/mermaid-live-editor" rel="noopener" class="external-link" href="https://mermaid-js.github.io/mermaid-live-editor" target="_blank">a helpful live editor</a>.</p></div><div><pre><code>```mermaid
+```
+
+Here is some inline comments: %%Ahmad, You can't see this text%%  
+
+Here is a block comment: 
+%% Hello Ahmad, 
+It can span multiple lines 
+%%
+
+## Callouts
+
+Use the following syntax to denote a callout block: `> [!INFO]`.
+
+Learn more about callouts [here](https://help.obsidian.md/How+to/Use+callouts).
+
+```
+> [!INFO]
+> Here's a callout block.
+> It supports **markdown** and [[Internal link|wikilinks]].
+```
+
+Here's a callout block.  
+It supports **markdown** and [wikilinks](https://help.obsidian.md/How+to/Internal+link).
+
+### Diagram
+
+````
+```mermaid
 sequenceDiagram
-    Alice-&gt;&gt;+John: Hello John, how are you?
-    Alice-&gt;&gt;+John: John, can you hear me?
-    John--&gt;&gt;-Alice: Hi Alice, I can hear you!
-    John--&gt;&gt;-Alice: I feel great!
-```</code></pre></div><div><div class="mermaid"><svg id="m2b6872866f89b184" width="500" xmlns="http://www.w3.org/2000/svg" height="363" viewBox="-50 -10 500 363"><style>#m2b6872866f89b184 {font-family:var(--font-mermaid);font-size:16px;fill:var(--text-normal);}#m2b6872866f89b184 .error-icon{fill:var(--background-primary);}#m2b6872866f89b184 .error-text{fill:var(--text-error);stroke:var(--text-error);}#m2b6872866f89b184 .edge-thickness-normal{stroke-width:2px;}#m2b6872866f89b184 .edge-thickness-thick{stroke-width:3.5px;}#m2b6872866f89b184 .edge-pattern-solid{stroke-dasharray:0;}#m2b6872866f89b184 .edge-pattern-dashed{stroke-dasharray:3;}#m2b6872866f89b184 .edge-pattern-dotted{stroke-dasharray:2;}#m2b6872866f89b184 .marker{fill:var(--text-normal);stroke:var(--text-normal);}#m2b6872866f89b184 .marker.cross{stroke:var(--text-normal);}#m2b6872866f89b184 svg{font-family:var(--font-mermaid);font-size:16px;}#m2b6872866f89b184 .actor{stroke:var(--background-modifier-border);fill:var(--background-primary);}#m2b6872866f89b184 text.actor>tspan{fill:var(--text-normal);stroke:none;}#m2b6872866f89b184 .actor-line{stroke:grey;}#m2b6872866f89b184 .messageLine0{stroke-width:1.5;stroke-dasharray:none;stroke:var(--text-normal);}#m2b6872866f89b184 .messageLine1{stroke-width:1.5;stroke-dasharray:2,2;stroke:var(--text-normal);}#m2b6872866f89b184 #arrowhead path{fill:var(--text-normal);stroke:var(--text-normal);}#m2b6872866f89b184 .sequenceNumber{fill:var(--text-muted);}#m2b6872866f89b184 #sequencenumber{fill:var(--text-normal);}#m2b6872866f89b184 #crosshead path{fill:var(--text-normal);stroke:var(--text-normal);}#m2b6872866f89b184 .messageText{fill:var(--text-normal);stroke:var(--text-normal);}#m2b6872866f89b184 .labelBox{stroke:var(--background-modifier-border);fill:var(--background-primary);}#m2b6872866f89b184 .labelText,#m2b6872866f89b184 .labelText>tspan{fill:var(--text-normal);stroke:none;}#m2b6872866f89b184 .loopText,#m2b6872866f89b184 .loopText>tspan{fill:var(--text-normal);stroke:none;}#m2b6872866f89b184 .loopLine{stroke-width:2px;stroke-dasharray:2,2;stroke:var(--background-modifier-border);fill:var(--background-modifier-border);}#m2b6872866f89b184 .note{stroke:var(--background-modifier-border);fill:var(--background-primary-alt);}#m2b6872866f89b184 .noteText,#m2b6872866f89b184 .noteText>tspan{fill:var(--text-normal);stroke:none;}#m2b6872866f89b184 .activation0{fill:var(--background-secondary);stroke:var(--background-modifier-border);}#m2b6872866f89b184 .activation1{fill:var(--background-secondary);stroke:var(--background-modifier-border);}#m2b6872866f89b184 .activation2{fill:var(--background-secondary);stroke:var(--background-modifier-border);}#m2b6872866f89b184 .actorPopupMenu{position:absolute;}#m2b6872866f89b184 .actorPopupMenuPanel{position:absolute;fill:var(--background-primary);box-shadow:0px 8px 16px 0px rgba(0,0,0,0.2);filter:drop-shadow(3px 5px 2px rgb(0 0 0 / 0.4));}#m2b6872866f89b184 .actor-man line{stroke:var(--background-modifier-border);fill:var(--background-primary);}#m2b6872866f89b184 .actor-man circle,#m2b6872866f89b184 line{stroke:var(--background-modifier-border);fill:var(--background-primary);stroke-width:2px;}#m2b6872866f89b184 foreignObject{overflow:visible;}#m2b6872866f89b184 #arrowhead,#m2b6872866f89b184 #sequencenumber,#m2b6872866f89b184 .cluster text,#m2b6872866f89b184 .label text,#m2b6872866f89b184 text,#m2b6872866f89b184 text.actor{fill:var(--text-normal);}#m2b6872866f89b184 line{stroke:var(--text-normal);}#m2b6872866f89b184 g>g>circle,#m2b6872866f89b184 g>g>path{stroke:var(--background-accent);color:var(--text-normal);}#m2b6872866f89b184 .label rect{display:none;}#m2b6872866f89b184 .cluster rect{stroke-width:1px;}#m2b6872866f89b184 .node circle,#m2b6872866f89b184 .node ellipse,#m2b6872866f89b184 .node path,#m2b6872866f89b184 .node polygon,#m2b6872866f89b184 .node rect{fill:var(--background-secondary-alt);stroke:var(--background-modifier-border);stroke-width:1px;}#m2b6872866f89b184 .node .label{text-align:center;}#m2b6872866f89b184 .node.clickable{cursor:pointer;}#m2b6872866f89b184 .arrowheadPath{fill:var(--text-muted);}#m2b6872866f89b184 .edgePath .path{stroke:var(--text-muted);stroke-width:1.5px;}#m2b6872866f89b184 .edgeLabel{background-color:var(--background-primary);text-align:center;}#m2b6872866f89b184 .cluster rect{fill:var(--background-primary-alt);stroke:var(--background-modifier-border);}#m2b6872866f89b184 div.mermaidTooltip{position:absolute;text-align:center;max-width:200px;padding:2px;font-size:12px;background:var(--background-secondary);border:1px solid var(--interactive-accent);border-radius:2px;pointer-events:none;z-index:100;}#m2b6872866f89b184 .actor{stroke:var(--background-modifier-border);fill:var(--background-secondary-alt);font-family:inherit!important;}#m2b6872866f89b184 text.actor{stroke:none;}#m2b6872866f89b184 .actor-line{stroke:var(--text-muted);}#m2b6872866f89b184 .messageLine0,#m2b6872866f89b184 .messageLine1{stroke-width:1.5;stroke-dasharray:'2 2';stroke:var(--text-normal);}#m2b6872866f89b184 .sequenceNumber{fill:#fff;}#m2b6872866f89b184 #crosshead path{fill:var(--text-normal)!important;stroke:var(--text-normal)!important;}#m2b6872866f89b184 .messageText{fill:var(--text-normal);stroke:none;font-family:inherit!important;}#m2b6872866f89b184 .labelBox{stroke:var(--background-modifier-border);fill:var(--background-secondary-alt);}#m2b6872866f89b184 .labelText,#m2b6872866f89b184 .loopText{fill:var(--text-normal);stroke:none;}#m2b6872866f89b184 .loopLine{stroke-width:2;stroke-dasharray:'2 2';stroke:var(--background-modifier-border);}#m2b6872866f89b184 .note{stroke:#645c10;fill:#f3edb3;}#m2b6872866f89b184 .noteText{fill:#000;stroke:none;font-size:14px;}#m2b6872866f89b184 .activation0,#m2b6872866f89b184 .activation1,#m2b6872866f89b184 .activation2{fill:var(--background-secondary) stroke:var(--text-muted);}#m2b6872866f89b184 .section{stroke:none;opacity:.2;}#m2b6872866f89b184 .section0,#m2b6872866f89b184 .section2{fill:var(--text-accent);}#m2b6872866f89b184 .section1,#m2b6872866f89b184 .section3{fill:#fff;opacity:.2;}#m2b6872866f89b184 .sectionTitle0,#m2b6872866f89b184 .sectionTitle1,#m2b6872866f89b184 .sectionTitle2,#m2b6872866f89b184 .sectionTitle3{fill:var(--text-normal);}#m2b6872866f89b184 .sectionTitle{text-anchor:start;font-size:11px;text-height:14px;}#m2b6872866f89b184 .grid .tick{stroke:var(--background-primary-alt);opacity:.8;shape-rendering:crispEdges;}#m2b6872866f89b184 .grid path{stroke-width:0;}#m2b6872866f89b184 .today{fill:none;stroke:#d42;stroke-width:2px;}#m2b6872866f89b184 .task{stroke-width:2;}#m2b6872866f89b184 .taskText{text-anchor:middle;}#m2b6872866f89b184 .taskText:not([font-size]){font-size:11px;}#m2b6872866f89b184 .taskTextOutsideRight{fill:var(--text-normal);text-anchor:start;font-size:11px;}#m2b6872866f89b184 .taskTextOutsideLeft{fill:var(--text-normal);text-anchor:end;font-size:11px;}#m2b6872866f89b184 .task.clickable,#m2b6872866f89b184 g.clickable{cursor:pointer;}#m2b6872866f89b184 .taskText.clickable,#m2b6872866f89b184 .taskTextOutsideLeft.clickable,#m2b6872866f89b184 .taskTextOutsideRight.clickable{cursor:pointer;fill:#003163!important;font-weight:700;}#m2b6872866f89b184 .taskText0,#m2b6872866f89b184 .taskText1,#m2b6872866f89b184 .taskText2,#m2b6872866f89b184 .taskText3{fill:#fff;}#m2b6872866f89b184 .task0,#m2b6872866f89b184 .task1,#m2b6872866f89b184 .task2,#m2b6872866f89b184 .task3{fill:var(--interactive-accent);stroke:var(--interactive-accent);}#m2b6872866f89b184 .taskTextOutside0,#m2b6872866f89b184 .taskTextOutside1,#m2b6872866f89b184 .taskTextOutside2,#m2b6872866f89b184 .taskTextOutside3{fill:var(--text-normal);}#m2b6872866f89b184 .active0,#m2b6872866f89b184 .active1,#m2b6872866f89b184 .active2,#m2b6872866f89b184 .active3,#m2b6872866f89b184 g.classGroup rect,#m2b6872866f89b184 g.stateGroup rect{fill:var(--background-primary-alt);stroke:var(--background-modifier-border);}#m2b6872866f89b184 g.classGroup rect,#m2b6872866f89b184 g.stateGroup rect{stroke:var(--background-modifier-border);}#m2b6872866f89b184 .activeText0,#m2b6872866f89b184 .activeText1,#m2b6872866f89b184 .activeText2,#m2b6872866f89b184 .activeText3{fill:var(--text-normal)!important;}#m2b6872866f89b184 .done0,#m2b6872866f89b184 .done1,#m2b6872866f89b184 .done2,#m2b6872866f89b184 .done3{stroke:var(--text-muted);fill:#bbb;stroke-width:2;}#m2b6872866f89b184 .doneText0,#m2b6872866f89b184 .doneText1,#m2b6872866f89b184 .doneText2,#m2b6872866f89b184 .doneText3{fill:var(--text-normal)!important;}#m2b6872866f89b184 .crit0,#m2b6872866f89b184 .crit1,#m2b6872866f89b184 .crit2,#m2b6872866f89b184 .crit3{stroke:#b1361b;fill:#d42;stroke-width:2;}#m2b6872866f89b184 .activeCrit0,#m2b6872866f89b184 .activeCrit1,#m2b6872866f89b184 .activeCrit2,#m2b6872866f89b184 .activeCrit3,#m2b6872866f89b184 .classLabel .box{stroke:#b1361b;fill:var(--background-secondary-alt);stroke-width:2;}#m2b6872866f89b184 .classLabel .box{stroke:none;stroke-width:0;opacity:.5;}#m2b6872866f89b184 .doneCrit0,#m2b6872866f89b184 .doneCrit1,#m2b6872866f89b184 .doneCrit2,#m2b6872866f89b184 .doneCrit3{stroke:#b1361b;fill:#bbb;stroke-width:2;cursor:pointer;shape-rendering:crispEdges;}#m2b6872866f89b184 .milestone{transform:rotate(45deg) scale(.8,.8);}#m2b6872866f89b184 .milestoneText{font-style:italic;}#m2b6872866f89b184 .activeCritText0,#m2b6872866f89b184 .activeCritText1,#m2b6872866f89b184 .activeCritText2,#m2b6872866f89b184 .activeCritText3,#m2b6872866f89b184 .doneCritText0,#m2b6872866f89b184 .doneCritText1,#m2b6872866f89b184 .doneCritText2,#m2b6872866f89b184 .doneCritText3{fill:var(--text-normal)!important;}#m2b6872866f89b184 .titleText{text-anchor:middle;font-size:18px;fill:var(--text-normal);}#m2b6872866f89b184 g.classGroup text{fill:var(--text-normal);stroke:none;font-size:11px;}#m2b6872866f89b184 g.classGroup text .title{font-weight:bolder;}#m2b6872866f89b184 #aggregationEnd,#m2b6872866f89b184 #aggregationStart,#m2b6872866f89b184 #compositionEnd,#m2b6872866f89b184 #compositionStart,#m2b6872866f89b184 .relation,#m2b6872866f89b184 g.classGroup line,#m2b6872866f89b184 g.stateGroup line{stroke:var(--background-modifier-border);stroke-width:1;}#m2b6872866f89b184 .classLabel .label{font-size:11px;}#m2b6872866f89b184 .relation{fill:none;}#m2b6872866f89b184 .dashed-line{stroke-dasharray:3;}#m2b6872866f89b184 #compositionEnd,#m2b6872866f89b184 #compositionStart{fill:var(--background-modifier-border);}#m2b6872866f89b184 #aggregationEnd,#m2b6872866f89b184 #aggregationStart{fill:var(--background-secondary-alt);}#m2b6872866f89b184 #dependencyEnd,#m2b6872866f89b184 #dependencyStart,#m2b6872866f89b184 #extensionEnd,#m2b6872866f89b184 #extensionStart{fill:var(--background-modifier-border);stroke:var(--background-modifier-border);stroke-width:1;}#m2b6872866f89b184 .branch-label,#m2b6872866f89b184 .commit-id,#m2b6872866f89b184 .commit-msg{fill:#d3d3d3;color:#d3d3d3;}#m2b6872866f89b184 .pieTitleText{text-anchor:middle;font-size:25px;fill:var(--text-normal);}#m2b6872866f89b184 .state-note text,#m2b6872866f89b184 g.stateGroup text{stroke:none;font-size:10px;}#m2b6872866f89b184 g.stateGroup .state-title{font-weight:bolder;fill:var(--text-normal);}#m2b6872866f89b184 .transition{stroke:var(--background-modifier-border);stroke-width:1;fill:none;}#m2b6872866f89b184 .stateGroup .composit{fill:#fff;border-bottom:1px;}#m2b6872866f89b184 .stateGroup .alt-composit{fill:#e0e0e0;border-bottom:1px;}#m2b6872866f89b184 .state-note{stroke:#645c10;fill:#f3edb3;}#m2b6872866f89b184 .state-note text{fill:#000;}#m2b6872866f89b184 .stateLabel .box{stroke:none;stroke-width:0;fill:var(--background-secondary-alt);opacity:.5;}#m2b6872866f89b184 .stateLabel text{fill:var(--text-normal);font-size:10px;font-weight:700;}#m2b6872866f89b184 .node circle.state-start{fill:var(--text-normal);stroke:var(--text-normal);}#m2b6872866f89b184 .node circle.state-end{stroke:var(--background-primary);stroke-width:2;}#m2b6872866f89b184 #statediagram-barbEnd,#m2b6872866f89b184 g.stateGroup text{fill:var(--background-modifier-border);}#m2b6872866f89b184 .statediagram-cluster rect{stroke-width:1px;}#m2b6872866f89b184 .statediagram-cluster rect,#m2b6872866f89b184 .statediagram-state .divider{stroke:var(--background-modifier-border);}#m2b6872866f89b184 .statediagram-cluster rect,#m2b6872866f89b184 .statediagram-cluster.statediagram-cluster .inner{fill:var(--background-secondary-alt);}#m2b6872866f89b184 .statediagram-cluster.statediagram-cluster-alt .inner{fill:var(--background-secondary);}#m2b6872866f89b184 .cluster-label text,#m2b6872866f89b184 .node circle.state-end{fill:var(--text-normal);}#m2b6872866f89b184 .statediagram-state rect.divider{stroke-dasharray:10,10;fill:var(--background-secondary);}#m2b6872866f89b184 .note-edge{stroke-dasharray:5;}#m2b6872866f89b184 .statediagram-note rect{fill:#f3edb3;stroke:#645c10;stroke-width:1px;}#m2b6872866f89b184 .error-icon{fill:var(--background-modifier-error);}#m2b6872866f89b184 .error-text{fill:var(--text-error);stroke:var(--text-error);}#m2b6872866f89b184 :root{--mermaid-font-family:"trebuchet ms",verdana,arial,sans-serif;}</style><g></g><defs><symbol id="computer" width="24" height="24"><path transform="scale(.5)" d="M2 2v13h20v-13h-20zm18 11h-16v-9h16v9zm-10.228 6l.466-1h3.524l.467 1h-4.457zm14.228 3h-24l2-6h2.104l-1.33 4h18.45l-1.297-4h2.073l2 6zm-5-10h-14v-7h14v7z"></path></symbol></defs><defs><symbol id="database" fill-rule="evenodd" clip-rule="evenodd"><path transform="scale(.5)" d="M12.258.001l.256.004.255.005.253.008.251.01.249.012.247.015.246.016.242.019.241.02.239.023.236.024.233.027.231.028.229.031.225.032.223.034.22.036.217.038.214.04.211.041.208.043.205.045.201.046.198.048.194.05.191.051.187.053.183.054.18.056.175.057.172.059.168.06.163.061.16.063.155.064.15.066.074.033.073.033.071.034.07.034.069.035.068.035.067.035.066.035.064.036.064.036.062.036.06.036.06.037.058.037.058.037.055.038.055.038.053.038.052.038.051.039.05.039.048.039.047.039.045.04.044.04.043.04.041.04.04.041.039.041.037.041.036.041.034.041.033.042.032.042.03.042.029.042.027.042.026.043.024.043.023.043.021.043.02.043.018.044.017.043.015.044.013.044.012.044.011.045.009.044.007.045.006.045.004.045.002.045.001.045v17l-.001.045-.002.045-.004.045-.006.045-.007.045-.009.044-.011.045-.012.044-.013.044-.015.044-.017.043-.018.044-.02.043-.021.043-.023.043-.024.043-.026.043-.027.042-.029.042-.03.042-.032.042-.033.042-.034.041-.036.041-.037.041-.039.041-.04.041-.041.04-.043.04-.044.04-.045.04-.047.039-.048.039-.05.039-.051.039-.052.038-.053.038-.055.038-.055.038-.058.037-.058.037-.06.037-.06.036-.062.036-.064.036-.064.036-.066.035-.067.035-.068.035-.069.035-.07.034-.071.034-.073.033-.074.033-.15.066-.155.064-.16.063-.163.061-.168.06-.172.059-.175.057-.18.056-.183.054-.187.053-.191.051-.194.05-.198.048-.201.046-.205.045-.208.043-.211.041-.214.04-.217.038-.22.036-.223.034-.225.032-.229.031-.231.028-.233.027-.236.024-.239.023-.241.02-.242.019-.246.016-.247.015-.249.012-.251.01-.253.008-.255.005-.256.004-.258.001-.258-.001-.256-.004-.255-.005-.253-.008-.251-.01-.249-.012-.247-.015-.245-.016-.243-.019-.241-.02-.238-.023-.236-.024-.234-.027-.231-.028-.228-.031-.226-.032-.223-.034-.22-.036-.217-.038-.214-.04-.211-.041-.208-.043-.204-.045-.201-.046-.198-.048-.195-.05-.19-.051-.187-.053-.184-.054-.179-.056-.176-.057-.172-.059-.167-.06-.164-.061-.159-.063-.155-.064-.151-.066-.074-.033-.072-.033-.072-.034-.07-.034-.069-.035-.068-.035-.067-.035-.066-.035-.064-.036-.063-.036-.062-.036-.061-.036-.06-.037-.058-.037-.057-.037-.056-.038-.055-.038-.053-.038-.052-.038-.051-.039-.049-.039-.049-.039-.046-.039-.046-.04-.044-.04-.043-.04-.041-.04-.04-.041-.039-.041-.037-.041-.036-.041-.034-.041-.033-.042-.032-.042-.03-.042-.029-.042-.027-.042-.026-.043-.024-.043-.023-.043-.021-.043-.02-.043-.018-.044-.017-.043-.015-.044-.013-.044-.012-.044-.011-.045-.009-.044-.007-.045-.006-.045-.004-.045-.002-.045-.001-.045v-17l.001-.045.002-.045.004-.045.006-.045.007-.045.009-.044.011-.045.012-.044.013-.044.015-.044.017-.043.018-.044.02-.043.021-.043.023-.043.024-.043.026-.043.027-.042.029-.042.03-.042.032-.042.033-.042.034-.041.036-.041.037-.041.039-.041.04-.041.041-.04.043-.04.044-.04.046-.04.046-.039.049-.039.049-.039.051-.039.052-.038.053-.038.055-.038.056-.038.057-.037.058-.037.06-.037.061-.036.062-.036.063-.036.064-.036.066-.035.067-.035.068-.035.069-.035.07-.034.072-.034.072-.033.074-.033.151-.066.155-.064.159-.063.164-.061.167-.06.172-.059.176-.057.179-.056.184-.054.187-.053.19-.051.195-.05.198-.048.201-.046.204-.045.208-.043.211-.041.214-.04.217-.038.22-.036.223-.034.226-.032.228-.031.231-.028.234-.027.236-.024.238-.023.241-.02.243-.019.245-.016.247-.015.249-.012.251-.01.253-.008.255-.005.256-.004.258-.001.258.001zm-9.258 20.499v.01l.001.021.003.021.004.022.005.021.006.022.007.022.009.023.01.022.011.023.012.023.013.023.015.023.016.024.017.023.018.024.019.024.021.024.022.025.023.024.024.025.052.049.056.05.061.051.066.051.07.051.075.051.079.052.084.052.088.052.092.052.097.052.102.051.105.052.11.052.114.051.119.051.123.051.127.05.131.05.135.05.139.048.144.049.147.047.152.047.155.047.16.045.163.045.167.043.171.043.176.041.178.041.183.039.187.039.19.037.194.035.197.035.202.033.204.031.209.03.212.029.216.027.219.025.222.024.226.021.23.02.233.018.236.016.24.015.243.012.246.01.249.008.253.005.256.004.259.001.26-.001.257-.004.254-.005.25-.008.247-.011.244-.012.241-.014.237-.016.233-.018.231-.021.226-.021.224-.024.22-.026.216-.027.212-.028.21-.031.205-.031.202-.034.198-.034.194-.036.191-.037.187-.039.183-.04.179-.04.175-.042.172-.043.168-.044.163-.045.16-.046.155-.046.152-.047.148-.048.143-.049.139-.049.136-.05.131-.05.126-.05.123-.051.118-.052.114-.051.11-.052.106-.052.101-.052.096-.052.092-.052.088-.053.083-.051.079-.052.074-.052.07-.051.065-.051.06-.051.056-.05.051-.05.023-.024.023-.025.021-.024.02-.024.019-.024.018-.024.017-.024.015-.023.014-.024.013-.023.012-.023.01-.023.01-.022.008-.022.006-.022.006-.022.004-.022.004-.021.001-.021.001-.021v-4.127l-.077.055-.08.053-.083.054-.085.053-.087.052-.09.052-.093.051-.095.05-.097.05-.1.049-.102.049-.105.048-.106.047-.109.047-.111.046-.114.045-.115.045-.118.044-.12.043-.122.042-.124.042-.126.041-.128.04-.13.04-.132.038-.134.038-.135.037-.138.037-.139.035-.142.035-.143.034-.144.033-.147.032-.148.031-.15.03-.151.03-.153.029-.154.027-.156.027-.158.026-.159.025-.161.024-.162.023-.163.022-.165.021-.166.02-.167.019-.169.018-.169.017-.171.016-.173.015-.173.014-.175.013-.175.012-.177.011-.178.01-.179.008-.179.008-.181.006-.182.005-.182.004-.184.003-.184.002h-.37l-.184-.002-.184-.003-.182-.004-.182-.005-.181-.006-.179-.008-.179-.008-.178-.01-.176-.011-.176-.012-.175-.013-.173-.014-.172-.015-.171-.016-.17-.017-.169-.018-.167-.019-.166-.02-.165-.021-.163-.022-.162-.023-.161-.024-.159-.025-.157-.026-.156-.027-.155-.027-.153-.029-.151-.03-.15-.03-.148-.031-.146-.032-.145-.033-.143-.034-.141-.035-.14-.035-.137-.037-.136-.037-.134-.038-.132-.038-.13-.04-.128-.04-.126-.041-.124-.042-.122-.042-.12-.044-.117-.043-.116-.045-.113-.045-.112-.046-.109-.047-.106-.047-.105-.048-.102-.049-.1-.049-.097-.05-.095-.05-.093-.052-.09-.051-.087-.052-.085-.053-.083-.054-.08-.054-.077-.054v4.127zm0-5.654v.011l.001.021.003.021.004.021.005.022.006.022.007.022.009.022.01.022.011.023.012.023.013.023.015.024.016.023.017.024.018.024.019.024.021.024.022.024.023.025.024.024.052.05.056.05.061.05.066.051.07.051.075.052.079.051.084.052.088.052.092.052.097.052.102.052.105.052.11.051.114.051.119.052.123.05.127.051.131.05.135.049.139.049.144.048.147.048.152.047.155.046.16.045.163.045.167.044.171.042.176.042.178.04.183.04.187.038.19.037.194.036.197.034.202.033.204.032.209.03.212.028.216.027.219.025.222.024.226.022.23.02.233.018.236.016.24.014.243.012.246.01.249.008.253.006.256.003.259.001.26-.001.257-.003.254-.006.25-.008.247-.01.244-.012.241-.015.237-.016.233-.018.231-.02.226-.022.224-.024.22-.025.216-.027.212-.029.21-.03.205-.032.202-.033.198-.035.194-.036.191-.037.187-.039.183-.039.179-.041.175-.042.172-.043.168-.044.163-.045.16-.045.155-.047.152-.047.148-.048.143-.048.139-.05.136-.049.131-.05.126-.051.123-.051.118-.051.114-.052.11-.052.106-.052.101-.052.096-.052.092-.052.088-.052.083-.052.079-.052.074-.051.07-.052.065-.051.06-.05.056-.051.051-.049.023-.025.023-.024.021-.025.02-.024.019-.024.018-.024.017-.024.015-.023.014-.023.013-.024.012-.022.01-.023.01-.023.008-.022.006-.022.006-.022.004-.021.004-.022.001-.021.001-.021v-4.139l-.077.054-.08.054-.083.054-.085.052-.087.053-.09.051-.093.051-.095.051-.097.05-.1.049-.102.049-.105.048-.106.047-.109.047-.111.046-.114.045-.115.044-.118.044-.12.044-.122.042-.124.042-.126.041-.128.04-.13.039-.132.039-.134.038-.135.037-.138.036-.139.036-.142.035-.143.033-.144.033-.147.033-.148.031-.15.03-.151.03-.153.028-.154.028-.156.027-.158.026-.159.025-.161.024-.162.023-.163.022-.165.021-.166.02-.167.019-.169.018-.169.017-.171.016-.173.015-.173.014-.175.013-.175.012-.177.011-.178.009-.179.009-.179.007-.181.007-.182.005-.182.004-.184.003-.184.002h-.37l-.184-.002-.184-.003-.182-.004-.182-.005-.181-.007-.179-.007-.179-.009-.178-.009-.176-.011-.176-.012-.175-.013-.173-.014-.172-.015-.171-.016-.17-.017-.169-.018-.167-.019-.166-.02-.165-.021-.163-.022-.162-.023-.161-.024-.159-.025-.157-.026-.156-.027-.155-.028-.153-.028-.151-.03-.15-.03-.148-.031-.146-.033-.145-.033-.143-.033-.141-.035-.14-.036-.137-.036-.136-.037-.134-.038-.132-.039-.13-.039-.128-.04-.126-.041-.124-.042-.122-.043-.12-.043-.117-.044-.116-.044-.113-.046-.112-.046-.109-.046-.106-.047-.105-.048-.102-.049-.1-.049-.097-.05-.095-.051-.093-.051-.09-.051-.087-.053-.085-.052-.083-.054-.08-.054-.077-.054v4.139zm0-5.666v.011l.001.02.003.022.004.021.005.022.006.021.007.022.009.023.01.022.011.023.012.023.013.023.015.023.016.024.017.024.018.023.019.024.021.025.022.024.023.024.024.025.052.05.056.05.061.05.066.051.07.051.075.052.079.051.084.052.088.052.092.052.097.052.102.052.105.051.11.052.114.051.119.051.123.051.127.05.131.05.135.05.139.049.144.048.147.048.152.047.155.046.16.045.163.045.167.043.171.043.176.042.178.04.183.04.187.038.19.037.194.036.197.034.202.033.204.032.209.03.212.028.216.027.219.025.222.024.226.021.23.02.233.018.236.017.24.014.243.012.246.01.249.008.253.006.256.003.259.001.26-.001.257-.003.254-.006.25-.008.247-.01.244-.013.241-.014.237-.016.233-.018.231-.02.226-.022.224-.024.22-.025.216-.027.212-.029.21-.03.205-.032.202-.033.198-.035.194-.036.191-.037.187-.039.183-.039.179-.041.175-.042.172-.043.168-.044.163-.045.16-.045.155-.047.152-.047.148-.048.143-.049.139-.049.136-.049.131-.051.126-.05.123-.051.118-.052.114-.051.11-.052.106-.052.101-.052.096-.052.092-.052.088-.052.083-.052.079-.052.074-.052.07-.051.065-.051.06-.051.056-.05.051-.049.023-.025.023-.025.021-.024.02-.024.019-.024.018-.024.017-.024.015-.023.014-.024.013-.023.012-.023.01-.022.01-.023.008-.022.006-.022.006-.022.004-.022.004-.021.001-.021.001-.021v-4.153l-.077.054-.08.054-.083.053-.085.053-.087.053-.09.051-.093.051-.095.051-.097.05-.1.049-.102.048-.105.048-.106.048-.109.046-.111.046-.114.046-.115.044-.118.044-.12.043-.122.043-.124.042-.126.041-.128.04-.13.039-.132.039-.134.038-.135.037-.138.036-.139.036-.142.034-.143.034-.144.033-.147.032-.148.032-.15.03-.151.03-.153.028-.154.028-.156.027-.158.026-.159.024-.161.024-.162.023-.163.023-.165.021-.166.02-.167.019-.169.018-.169.017-.171.016-.173.015-.173.014-.175.013-.175.012-.177.01-.178.01-.179.009-.179.007-.181.006-.182.006-.182.004-.184.003-.184.001-.185.001-.185-.001-.184-.001-.184-.003-.182-.004-.182-.006-.181-.006-.179-.007-.179-.009-.178-.01-.176-.01-.176-.012-.175-.013-.173-.014-.172-.015-.171-.016-.17-.017-.169-.018-.167-.019-.166-.02-.165-.021-.163-.023-.162-.023-.161-.024-.159-.024-.157-.026-.156-.027-.155-.028-.153-.028-.151-.03-.15-.03-.148-.032-.146-.032-.145-.033-.143-.034-.141-.034-.14-.036-.137-.036-.136-.037-.134-.038-.132-.039-.13-.039-.128-.041-.126-.041-.124-.041-.122-.043-.12-.043-.117-.044-.116-.044-.113-.046-.112-.046-.109-.046-.106-.048-.105-.048-.102-.048-.1-.05-.097-.049-.095-.051-.093-.051-.09-.052-.087-.052-.085-.053-.083-.053-.08-.054-.077-.054v4.153zm8.74-8.179l-.257.004-.254.005-.25.008-.247.011-.244.012-.241.014-.237.016-.233.018-.231.021-.226.022-.224.023-.22.026-.216.027-.212.028-.21.031-.205.032-.202.033-.198.034-.194.036-.191.038-.187.038-.183.04-.179.041-.175.042-.172.043-.168.043-.163.045-.16.046-.155.046-.152.048-.148.048-.143.048-.139.049-.136.05-.131.05-.126.051-.123.051-.118.051-.114.052-.11.052-.106.052-.101.052-.096.052-.092.052-.088.052-.083.052-.079.052-.074.051-.07.052-.065.051-.06.05-.056.05-.051.05-.023.025-.023.024-.021.024-.02.025-.019.024-.018.024-.017.023-.015.024-.014.023-.013.023-.012.023-.01.023-.01.022-.008.022-.006.023-.006.021-.004.022-.004.021-.001.021-.001.021.001.021.001.021.004.021.004.022.006.021.006.023.008.022.01.022.01.023.012.023.013.023.014.023.015.024.017.023.018.024.019.024.02.025.021.024.023.024.023.025.051.05.056.05.06.05.065.051.07.052.074.051.079.052.083.052.088.052.092.052.096.052.101.052.106.052.11.052.114.052.118.051.123.051.126.051.131.05.136.05.139.049.143.048.148.048.152.048.155.046.16.046.163.045.168.043.172.043.175.042.179.041.183.04.187.038.191.038.194.036.198.034.202.033.205.032.21.031.212.028.216.027.22.026.224.023.226.022.231.021.233.018.237.016.241.014.244.012.247.011.25.008.254.005.257.004.26.001.26-.001.257-.004.254-.005.25-.008.247-.011.244-.012.241-.014.237-.016.233-.018.231-.021.226-.022.224-.023.22-.026.216-.027.212-.028.21-.031.205-.032.202-.033.198-.034.194-.036.191-.038.187-.038.183-.04.179-.041.175-.042.172-.043.168-.043.163-.045.16-.046.155-.046.152-.048.148-.048.143-.048.139-.049.136-.05.131-.05.126-.051.123-.051.118-.051.114-.052.11-.052.106-.052.101-.052.096-.052.092-.052.088-.052.083-.052.079-.052.074-.051.07-.052.065-.051.06-.05.056-.05.051-.05.023-.025.023-.024.021-.024.02-.025.019-.024.018-.024.017-.023.015-.024.014-.023.013-.023.012-.023.01-.023.01-.022.008-.022.006-.023.006-.021.004-.022.004-.021.001-.021.001-.021-.001-.021-.001-.021-.004-.021-.004-.022-.006-.021-.006-.023-.008-.022-.01-.022-.01-.023-.012-.023-.013-.023-.014-.023-.015-.024-.017-.023-.018-.024-.019-.024-.02-.025-.021-.024-.023-.024-.023-.025-.051-.05-.056-.05-.06-.05-.065-.051-.07-.052-.074-.051-.079-.052-.083-.052-.088-.052-.092-.052-.096-.052-.101-.052-.106-.052-.11-.052-.114-.052-.118-.051-.123-.051-.126-.051-.131-.05-.136-.05-.139-.049-.143-.048-.148-.048-.152-.048-.155-.046-.16-.046-.163-.045-.168-.043-.172-.043-.175-.042-.179-.041-.183-.04-.187-.038-.191-.038-.194-.036-.198-.034-.202-.033-.205-.032-.21-.031-.212-.028-.216-.027-.22-.026-.224-.023-.226-.022-.231-.021-.233-.018-.237-.016-.241-.014-.244-.012-.247-.011-.25-.008-.254-.005-.257-.004-.26-.001-.26.001z"></path></symbol></defs><defs><symbol id="clock" width="24" height="24"><path transform="scale(.5)" d="M12 2c5.514 0 10 4.486 10 10s-4.486 10-10 10-10-4.486-10-10 4.486-10 10-10zm0-2c-6.627 0-12 5.373-12 12s5.373 12 12 12 12-5.373 12-12-5.373-12-12-12zm5.848 12.459c.202.038.202.333.001.372-1.907.361-6.045 1.111-6.547 1.111-.719 0-1.301-.582-1.301-1.301 0-.512.77-5.447 1.125-7.445.034-.192.312-.181.343.014l.985 6.238 5.394 1.011z"></path></symbol></defs><g><line id="actor2" x1="75" y1="5" x2="75" y2="297" class="200" stroke-width="0.5px" stroke="#999"></line><g id="root-2"><rect x="0" y="0" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="75" y="32.5" dominant-baseline="central" alignment-baseline="central" class="actor" style="text-anchor: middle; font-size: 14px; font-weight: 400; font-family: Open-Sans, &quot;sans-serif&quot;;"><tspan x="75" dy="0">Alice</tspan></text></g></g><g><line id="actor3" x1="325" y1="5" x2="325" y2="297" class="200" stroke-width="0.5px" stroke="#999"></line><g id="root-3"><rect x="250" y="0" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="325" y="32.5" dominant-baseline="central" alignment-baseline="central" class="actor" style="text-anchor: middle; font-size: 14px; font-weight: 400; font-family: Open-Sans, &quot;sans-serif&quot;;"><tspan x="325" dy="0">John</tspan></text></g></g><defs><marker id="arrowhead" refX="9" refY="5" markerUnits="userSpaceOnUse" markerWidth="12" markerHeight="12" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z"></path></marker></defs><defs><marker id="crosshead" markerWidth="15" markerHeight="8" orient="auto" refX="16" refY="4"><path fill="black" stroke="#000000" stroke-width="1px" d="M 9,2 V 6 L16,4 Z" style="stroke-dasharray: 0, 0;"></path><path fill="none" stroke="#000000" stroke-width="1px" d="M 0,1 L 6,7 M 6,1 L 0,7" style="stroke-dasharray: 0, 0;"></path></marker></defs><defs><marker id="filled-head" refX="18" refY="7" markerWidth="20" markerHeight="28" orient="auto"><path d="M 18,7 L9,13 L14,7 L9,1 Z"></path></marker></defs><defs><marker id="sequencenumber" refX="15" refY="15" markerWidth="60" markerHeight="40" orient="auto"><circle cx="15" cy="15" r="6"></circle></marker></defs><text x="200" y="80" text-anchor="middle" dominant-baseline="middle" alignment-baseline="middle" class="messageText" dy="1em" style="font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 16px; font-weight: 400;">Hello John, how are you?</text><line x1="75" y1="113" x2="325" y2="113" class="messageLine0" stroke-width="2" stroke="none" marker-end="url(#arrowhead)" style="fill: none;"></line><g><rect x="320" y="113" fill="#EDF2AE" stroke="#666" width="10" height="144" rx="0" ry="0" class="activation0"></rect></g><text x="198" y="128" text-anchor="middle" dominant-baseline="middle" alignment-baseline="middle" class="messageText" dy="1em" style="font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 16px; font-weight: 400;">John, can you hear me?</text><line x1="75" y1="161" x2="320" y2="161" class="messageLine0" stroke-width="2" stroke="none" marker-end="url(#arrowhead)" style="fill: none;"></line><g><rect x="325" y="163" fill="#EDF2AE" stroke="#666" width="10" height="46" rx="0" ry="0" class="activation1"></rect></g><text x="198" y="176" text-anchor="middle" dominant-baseline="middle" alignment-baseline="middle" class="messageText" dy="1em" style="font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 16px; font-weight: 400;">Hi Alice, I can hear you!</text><line x1="320" y1="209" x2="75" y2="209" class="messageLine1" stroke-width="2" stroke="none" marker-end="url(#arrowhead)" style="stroke-dasharray: 3, 3; fill: none;"></line><text x="198" y="224" text-anchor="middle" dominant-baseline="middle" alignment-baseline="middle" class="messageText" dy="1em" style="font-family: &quot;trebuchet ms&quot;, verdana, arial, sans-serif; font-size: 16px; font-weight: 400;">I feel great!</text><line x1="320" y1="257" x2="75" y2="257" class="messageLine1" stroke-width="2" stroke="none" marker-end="url(#arrowhead)" style="stroke-dasharray: 3, 3; fill: none;"></line><g><rect x="0" y="277" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="75" y="309.5" dominant-baseline="central" alignment-baseline="central" class="actor" style="text-anchor: middle; font-size: 14px; font-weight: 400; font-family: Open-Sans, &quot;sans-serif&quot;;"><tspan x="75" dy="0">Alice</tspan></text></g><g><rect x="250" y="277" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="325" y="309.5" dominant-baseline="central" alignment-baseline="central" class="actor" style="text-anchor: middle; font-size: 14px; font-weight: 400; font-family: Open-Sans, &quot;sans-serif&quot;;"><tspan x="325" dy="0">John</tspan></text></g></svg></div></div><div><p>Obsidian supports linking to notes in Mermaid:</p></div><div><pre><code>```mermaid
+    Alice->>+John: Hello John, how are you?
+    Alice->>+John: John, can you hear me?
+    John-->>-Alice: Hi Alice, I can hear you!
+    John-->>-Alice: I feel great!
+```
+````
+
+
+```mermaid
+sequenceDiagram
+    Alice->>+John: Hello John, how are you?
+    Alice->>+John: John, can you hear me?
+    John-->>-Alice: Hi Alice, I can hear you!
+    John-->>-Alice: I feel great!
+```
+
+
+Obsidian supports linking to notes in Mermaid:
+
+````
+```mermaid
 graph TD
 
-Biology --&gt; Chemistry
+Biology --> Chemistry
 
 class Biology,Chemistry internal-link;
-```</code></pre></div><div><p>An easier way to do it is the following: </p></div><div><pre><code>```mermaid
+```
+````
+
+An easier way to do it is the following:
+
+````
+```mermaid
 graph TD
 
 A[Biology]
 B[Chemistry]
 
-A --&gt; B
+A --> B
 
 class A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z internal-link;
-```</code></pre></div><div><p>This way, all the note names (at least until <code>Z[note name]</code>) are all automatically assigned the class <code>internal-link</code> when you use this snippet.</p></div><div><p>If you use special characters in your note names, you need to put the note name in double quotes.<br>
-<code>"⨳ special character"</code><br>
-It looks like this if you follow the <a aria-label-position="top" aria-label="Format your notes &gt; ^376b9d" data-href="Format your notes#^376b9d" href="https://help.obsidian.md/How+to/Format+your+notes#^376b9d" class="internal-link" target="_blank" rel="noopener">second option</a>:<br>
-<code>A["⨳ special character"]</code></p></div><div><h2 data-heading="Developer notes" class="publish-article-heading"><div class="heading-collapse-indicator collapse-indicator collapse-icon"><svg viewBox="0 0 100 100" class="right-triangle" width="8" height="8"><path fill="currentColor" stroke="currentColor" d="M94.9,20.8c-1.4-2.5-4.1-4.1-7.1-4.1H12.2c-3,0-5.7,1.6-7.1,4.1c-1.3,2.4-1.2,5.2,0.2,7.6L43.1,88c1.5,2.3,4,3.7,6.9,3.7 s5.4-1.4,6.9-3.7l37.8-59.6C96.1,26,96.2,23.2,94.9,20.8L94.9,20.8z"></path></svg></div>Developer notes <span class="clickable-icon" aria-label="Copy link"><svg viewBox="0 0 100 100" class="link" width="20" height="20"><path fill="currentColor" stroke="currentColor" d="M74,8c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-2.9,2.9-4.7,6.6-5.1,10.6C46,34.6,46,35.3,46,36c0,2.7,0.6,5.4,1.8,7.8l3.1-3.1 C50.3,39.2,50,37.6,50,36c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1s7.3,1.5,9.9,4.1c2.6,2.6,4.1,6.2,4.1,9.9 s-1.5,7.3-4.1,9.9l-10,10C71.3,48.5,67.7,50,64,50c-1.6,0-3.2-0.3-4.7-0.8l-3.1,3.1c2.4,1.1,5,1.8,7.8,1.8c4.8,0,9.3-1.9,12.7-5.3 l10-10C90.1,35.3,92,30.8,92,26s-1.9-9.3-5.3-12.7C83.3,9.9,78.8,8,74,8L74,8z M62,36c-0.5,0-1,0.2-1.4,0.6l-24,24 c-0.5,0.5-0.7,1.2-0.6,1.9c0.2,0.7,0.7,1.2,1.4,1.4c0.7,0.2,1.4,0,1.9-0.6l24-24c0.6-0.6,0.8-1.5,0.4-2.2C63.5,36.4,62.8,36,62,36 z M36,46c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-3.1,3.1-5,7.2-5.2,11.6c0,0.4,0,0.8,0,1.2c0,4.8,1.9,9.3,5.3,12.7 C16.7,90.1,21.2,92,26,92s9.3-1.9,12.7-5.3l10-10C52.1,73.3,54,68.8,54,64c0-2.7-0.6-5.4-1.8-7.8l-3.1,3.1 c0.5,1.5,0.8,3.1,0.8,4.7c0,3.7-1.5,7.3-4.1,9.9l-10,10C33.3,86.5,29.7,88,26,88s-7.3-1.5-9.9-4.1S12,77.7,12,74 c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1c1.6,0,3.2,0.3,4.7,0.8l3.1-3.1C41.4,46.6,38.7,46,36,46L36,46z"></path></svg></span></h2></div><div><p>We strive for maximum capability without breaking any existing formats, therefore we use a slightly unorthodox combination of flavors of markdown. It is broadly CommonMark, with the addition of some functionality from GitHub Flavored Markdown (GFM), some LaTeX support, and our chosen embed syntax, which you can read more about at <a data-href="Accepted file formats" href="https://help.obsidian.md/Advanced+topics/Accepted+file+formats" class="internal-link" target="_blank" rel="noopener">Accepted file formats</a>.</p></div><div><p>We intentionally do not support parsing markdown syntax and blank lines within HTML blocks. This is the result of an optimization to handle very large files and to support synchronization between editing and reading mode.</p></div><div>
-</div><div><section class="footnotes"><hr><ol>
-<li data-line="-122" data-footnote-id="fn-1-900130cba1b6f875" id="fn-1-900130cba1b6f875">
-<p>meaningful!<a href="https://publish.obsidian.md/#fnref-1-900130cba1b6f875" class="footnote-backref footnote-link" target="_blank" rel="noopener">↩︎</a></p>
-</li>
-<li data-line="-120" data-footnote-id="fn-2-900130cba1b6f875" id="fn-2-900130cba1b6f875">
-<p>Here's one with multiple paragraphs and code.</p>
-<p>Indent paragraphs to include them in the footnote.</p>
-<p><code>{ my code }</code></p>
-<p>Add as many paragraphs as you like.<a href="https://publish.obsidian.md/#fnref-2-900130cba1b6f875" class="footnote-backref footnote-link" target="_blank" rel="noopener">↩︎</a></p>
-</li>
-<li data-line="-108" data-footnote-id="fn-3-900130cba1b6f875" id="fn-3-900130cba1b6f875">
-notice that the carat goes outside of the brackets on this one.
-<a href="https://publish.obsidian.md/#fnref-3-900130cba1b6f875" class="footnote-backref footnote-link" target="_blank" rel="noopener">↩︎</a>
-</li>
-</ol></section></div><div><div class="backlinks"><div class="published-section-header"><span class="published-section-header-icon"><svg viewBox="0 0 100 100" class="link" width="16" height="16"><path fill="currentColor" stroke="currentColor" d="M74,8c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-2.9,2.9-4.7,6.6-5.1,10.6C46,34.6,46,35.3,46,36c0,2.7,0.6,5.4,1.8,7.8l3.1-3.1 C50.3,39.2,50,37.6,50,36c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1s7.3,1.5,9.9,4.1c2.6,2.6,4.1,6.2,4.1,9.9 s-1.5,7.3-4.1,9.9l-10,10C71.3,48.5,67.7,50,64,50c-1.6,0-3.2-0.3-4.7-0.8l-3.1,3.1c2.4,1.1,5,1.8,7.8,1.8c4.8,0,9.3-1.9,12.7-5.3 l10-10C90.1,35.3,92,30.8,92,26s-1.9-9.3-5.3-12.7C83.3,9.9,78.8,8,74,8L74,8z M62,36c-0.5,0-1,0.2-1.4,0.6l-24,24 c-0.5,0.5-0.7,1.2-0.6,1.9c0.2,0.7,0.7,1.2,1.4,1.4c0.7,0.2,1.4,0,1.9-0.6l24-24c0.6-0.6,0.8-1.5,0.4-2.2C63.5,36.4,62.8,36,62,36 z M36,46c-4.8,0-9.3,1.9-12.7,5.3l-10,10c-3.1,3.1-5,7.2-5.2,11.6c0,0.4,0,0.8,0,1.2c0,4.8,1.9,9.3,5.3,12.7 C16.7,90.1,21.2,92,26,92s9.3-1.9,12.7-5.3l10-10C52.1,73.3,54,68.8,54,64c0-2.7-0.6-5.4-1.8-7.8l-3.1,3.1 c0.5,1.5,0.8,3.1,0.8,4.7c0,3.7-1.5,7.3-4.1,9.9l-10,10C33.3,86.5,29.7,88,26,88s-7.3-1.5-9.9-4.1S12,77.7,12,74 c0-3.7,1.5-7.3,4.1-9.9l10-10c2.6-2.6,6.2-4.1,9.9-4.1c1.6,0,3.2,0.3,4.7,0.8l3.1-3.1C41.4,46.6,38.7,46,36,46L36,46z"></path></svg></span><span>Links to this page</span></div><div class="backlink-items-container"><div class="backlink-item"><a class="internal-link" data-href="How to/Basic note taking.md" href="https://help.obsidian.md/How+to/Basic+note+taking">Basic note taking</a></div><div class="backlink-item"><a class="internal-link" data-href="Getting started/Create your first note.md" href="https://help.obsidian.md/Getting+started/Create+your+first+note">Create your first note</a></div><div class="backlink-item"><a class="internal-link" data-href="Obsidian/Index.md" href="https://help.obsidian.md/Obsidian/Index">Index</a></div><div class="backlink-item"><a class="internal-link" data-href="Plugins/Markdown format converter.md" href="https://help.obsidian.md/Plugins/Markdown+format+converter">Markdown format converter</a></div><div class="backlink-item"><a class="internal-link" data-href="Plugins/Search.md" href="https://help.obsidian.md/Plugins/Search">Search</a></div><div class="backlink-item"><a class="internal-link" data-href="Start here.md" href="https://help.obsidian.md/Start+here">Start here</a></div></div></div></div></div></div><div class="extra-title"><span class="extra-title-text">Format your notes</span><span aria-label="Close page"><svg viewBox="0 0 100 100" class="cross" width="14" height="14"><path fill="currentColor" stroke="currentColor" d="M15.4,12.6l-2.9,2.9L47.1,50L12.6,84.6l2.9,2.9L50,52.9l34.6,34.6l2.9-2.9L52.9,50l34.6-34.6l-2.9-2.9L50,47.1L15.4,12.6z "></path></svg></span></div></div></div><div class="not-found-container" style="display: none;"><div class="not-found-image"></div><div class="not-found-title">File not found</div><div class="not-found-description">Oops, this file does not exist. Try look for something else.</div></div></div><div class="site-footer"><a href="https://publish.obsidian.md/">Powered by Obsidian Publish</a></div></div><div class="site-body-right-column"><div class="graph-view-outer"><div class="list-item published-section-header"><span class="published-section-header-icon"><svg viewBox="0 0 100 100" class="dot-network" width="16" height="16"><path fill="currentColor" stroke="currentColor" d="M12,0C5.4,0,0,5.4,0,12s5.4,12,12,12c2.6,0,5-0.8,6.9-2.2l15.6,15.6C31.7,40.8,30,45.2,30,50c0,4,1.2,7.6,3.2,10.7 L20.1,71.1c-2.1-1.9-5-3.1-8.1-3.1C5.4,68,0,73.4,0,80s5.4,12,12,12s12-5.4,12-12c0-2.1-0.5-4-1.5-5.8l13.2-10.4 C39.3,67.6,44.4,70,50,70c2.7,0,5.2-0.5,7.5-1.4l5.3,9.9C59.9,80.7,58,84.1,58,88c0,6.6,5.4,12,12,12s12-5.4,12-12s-5.4-12-12-12 c-1.3,0-2.6,0.2-3.8,0.6L61,66.7c3.8-2.5,6.7-6.2,8.1-10.6l6.9,1.4c0,0.2,0,0.3,0,0.5c0,6.6,5.4,12,12,12s12-5.4,12-12 c0-6.6-5.4-12-12-12c-5.1,0-9.4,3.2-11.2,7.6l-6.9-1.5c0.1-0.7,0.1-1.4,0.1-2.1c0-7.9-4.6-14.7-11.3-17.9l3.1-8.2 c0.7,0.1,1.5,0.2,2.2,0.2c6.6,0,12-5.4,12-12S70.6,0,64,0S52,5.4,52,12c0,4.4,2.5,8.3,6.1,10.4L55,30.7c-1.6-0.4-3.3-0.7-5-0.7 c-4.8,0-9.2,1.7-12.6,4.5L21.8,18.9c1.4-2,2.2-4.4,2.2-6.9C24,5.4,18.6,0,12,0L12,0z M12,4c4.4,0,8,3.6,8,8s-3.6,8-8,8s-8-3.6-8-8 S7.6,4,12,4z M64,4c4.4,0,8,3.6,8,8s-3.6,8-8,8s-8-3.6-8-8S59.6,4,64,4z M50,34c8.9,0,16,7.1,16,16c0,8.9-7.1,16-16,16 c-8.9,0-16-7.1-16-16c0-4.3,1.7-8.2,4.4-11.1c0.2-0.1,0.3-0.3,0.4-0.4C41.8,35.7,45.7,34,50,34z M88,50c4.4,0,8,3.6,8,8 s-3.6,8-8,8s-8-3.6-8-8S83.6,50,88,50z M12,72c4.4,0,8,3.6,8,8s-3.6,8-8,8s-8-3.6-8-8S7.6,72,12,72z M70,80c4.4,0,8,3.6,8,8 s-3.6,8-8,8c-4.4,0-8-3.6-8-8c0-3,1.7-5.6,4.1-7c0.1,0,0.1,0,0.2-0.1c0,0,0,0,0.1-0.1c0,0,0.1,0,0.1-0.1C67.6,80.3,68.7,80,70,80z "></path></svg></span><span>Interactive graph</span></div><div class="graph-view-container"><div class="graph-view" style="padding: 0px; overflow: hidden; position: relative;"><canvas style="position: absolute; left: 0px; top: 0px; margin: 0px; padding: 0px; border: 0px; width: 100%; height: 100%; overflow: hidden; touch-action: none; cursor: inherit;" width="291" height="291"></canvas><canvas style="margin: 0px; padding: 0px; border: 0px; width: 291px; height: 291px; overflow: hidden;" width="320" height="320"></canvas></div><div class="graph-icon graph-expand" aria-label="Expand" aria-label-position="top"><svg viewBox="0 0 100 100" class="popup-open" width="16" height="16"><path fill="currentColor" stroke="currentColor" d="M21.5,8.3c-3.7,0-6.6,2.9-6.6,6.6v65.8l4.4-4.4V14.9c0-1.3,0.9-2.2,2.2-2.2h57c1.3,0,2.2,0.9,2.2,2.2v70.2 c0,1.3-0.9,2.2-2.2,2.2H30.3l-4.4,4.4h52.6c3.7,0,6.6-2.9,6.6-6.6V14.9c0-3.7-2.9-6.6-6.6-6.6H21.5z M30.3,50v4.4h18.9l-34,34 l3.1,3.1l34-34v18.9h4.4V50H30.3z"></path></svg></div><div class="graph-icon graph-global" aria-label="Global Graph" aria-label-position="top"><svg viewBox="0 0 100 100" class="dot-network" width="16" height="16"><path fill="currentColor" stroke="currentColor" d="M12,0C5.4,0,0,5.4,0,12s5.4,12,12,12c2.6,0,5-0.8,6.9-2.2l15.6,15.6C31.7,40.8,30,45.2,30,50c0,4,1.2,7.6,3.2,10.7 L20.1,71.1c-2.1-1.9-5-3.1-8.1-3.1C5.4,68,0,73.4,0,80s5.4,12,12,12s12-5.4,12-12c0-2.1-0.5-4-1.5-5.8l13.2-10.4 C39.3,67.6,44.4,70,50,70c2.7,0,5.2-0.5,7.5-1.4l5.3,9.9C59.9,80.7,58,84.1,58,88c0,6.6,5.4,12,12,12s12-5.4,12-12s-5.4-12-12-12 c-1.3,0-2.6,0.2-3.8,0.6L61,66.7c3.8-2.5,6.7-6.2,8.1-10.6l6.9,1.4c0,0.2,0,0.3,0,0.5c0,6.6,5.4,12,12,12s12-5.4,12-12 c0-6.6-5.4-12-12-12c-5.1,0-9.4,3.2-11.2,7.6l-6.9-1.5c0.1-0.7,0.1-1.4,0.1-2.1c0-7.9-4.6-14.7-11.3-17.9l3.1-8.2 c0.7,0.1,1.5,0.2,2.2,0.2c6.6,0,12-5.4,12-12S70.6,0,64,0S52,5.4,52,12c0,4.4,2.5,8.3,6.1,10.4L55,30.7c-1.6-0.4-3.3-0.7-5-0.7 c-4.8,0-9.2,1.7-12.6,4.5L21.8,18.9c1.4-2,2.2-4.4,2.2-6.9C24,5.4,18.6,0,12,0L12,0z M12,4c4.4,0,8,3.6,8,8s-3.6,8-8,8s-8-3.6-8-8 S7.6,4,12,4z M64,4c4.4,0,8,3.6,8,8s-3.6,8-8,8s-8-3.6-8-8S59.6,4,64,4z M50,34c8.9,0,16,7.1,16,16c0,8.9-7.1,16-16,16 c-8.9,0-16-7.1-16-16c0-4.3,1.7-8.2,4.4-11.1c0.2-0.1,0.3-0.3,0.4-0.4C41.8,35.7,45.7,34,50,34z M88,50c4.4,0,8,3.6,8,8 s-3.6,8-8,8s-8-3.6-8-8S83.6,50,88,50z M12,72c4.4,0,8,3.6,8,8s-3.6,8-8,8s-8-3.6-8-8S7.6,72,12,72z M70,80c4.4,0,8,3.6,8,8 s-3.6,8-8,8c-4.4,0-8-3.6-8-8c0-3,1.7-5.6,4.1-7c0.1,0,0.1,0,0.2-0.1c0,0,0,0,0.1-0.1c0,0,0.1,0,0.1-0.1C67.6,80.3,68.7,80,70,80z "></path></svg></div></div></div><div class="outline-view-outer"><div class="list-item published-section-header"><span class="published-section-header-icon"><svg viewBox="0 0 100 100" class="bullet-list" width="18" height="18"><path fill="currentColor" stroke="currentColor" d="M16.4,16.4c-3.5,0-6.4,2.9-6.4,6.4s2.9,6.4,6.4,6.4s6.4-2.9,6.4-6.4S19.9,16.4,16.4,16.4z M16.4,19.6 c1.8,0,3.2,1.4,3.2,3.2c0,1.8-1.4,3.2-3.2,3.2s-3.2-1.4-3.2-3.2C13.2,21,14.6,19.6,16.4,19.6z M29.2,21.2v3.2H90v-3.2H29.2z M16.4,43.6c-3.5,0-6.4,2.9-6.4,6.4s2.9,6.4,6.4,6.4s6.4-2.9,6.4-6.4S19.9,43.6,16.4,43.6z M16.4,46.8c1.8,0,3.2,1.4,3.2,3.2 s-1.4,3.2-3.2,3.2s-3.2-1.4-3.2-3.2S14.6,46.8,16.4,46.8z M29.2,48.4v3.2H90v-3.2H29.2z M16.4,70.8c-3.5,0-6.4,2.9-6.4,6.4 c0,3.5,2.9,6.4,6.4,6.4s6.4-2.9,6.4-6.4C22.8,73.7,19.9,70.8,16.4,70.8z M16.4,74c1.8,0,3.2,1.4,3.2,3.2c0,1.8-1.4,3.2-3.2,3.2 s-3.2-1.4-3.2-3.2C13.2,75.4,14.6,74,16.4,74z M29.2,75.6v3.2H90v-3.2H29.2z"></path></svg></span><span>Table of contents</span></div><div class="outline-view"><div class="tree-item"><div class="tree-item-self is-clickable"><div class="tree-item-inner">Internal linking</div></div><div class="tree-item-children"></div></div><div class="tree-item"><div class="tree-item-self is-clickable"><div class="tree-item-inner">Embeds</div></div><div class="tree-item-children"></div></div><div class="tree-item"><div class="tree-item-self is-clickable"><div class="tree-item-inner">Headers</div></div><div class="tree-item-children"></div></div><div class="tree-item"><div class="tree-item-self is-clickable"><div class="tree-item-inner">This is a heading 1</div></div><div class="tree-item-children"><div class="tree-item"><div class="tree-item-self is-clickable"><div class="tree-item-inner">This is a heading 2</div></div><div class="tree-item-children"><div class="tree-item"><div class="tree-item-self is-clickable"><div class="tree-item-inner">This is a heading 3</div></div><div class="tree-item-children"><div class="tree-item"><div class="tree-item-self is-clickable"><div class="tree-item-inner">This is a heading 4</div></div><div class="tree-item-children"><div class="tree-item"><div class="tree-item-self is-clickable"><div class="tree-item-inner">This is a heading 5</div></div><div class="tree-item-children"><div class="tree-item"><div class="tree-item-self is-clickable"><div class="tree-item-inner">This is a heading 6</div></div><div class="tree-item-children"></div></div></div></div></div></div></div></div><div class="tree-item"><div class="tree-item-self is-clickable"><div class="tree-item-inner">Emphasis</div></div><div class="tree-item-children"></div></div><div class="tree-item"><div class="tree-item-self is-clickable"><div class="tree-item-inner">Lists</div></div><div class="tree-item-children"></div></div><div class="tree-item"><div class="tree-item-self is-clickable"><div class="tree-item-inner">Images</div></div><div class="tree-item-children"><div class="tree-item"><div class="tree-item-self is-clickable"><div class="tree-item-inner">Resizing images</div></div><div class="tree-item-children"></div></div></div></div><div class="tree-item"><div class="tree-item-self is-clickable"><div class="tree-item-inner">Links</div></div><div class="tree-item-children"><div class="tree-item"><div class="tree-item-self is-clickable"><div class="tree-item-inner">External links</div></div><div class="tree-item-children"></div></div><div class="tree-item"><div class="tree-item-self is-clickable"><div class="tree-item-inner">Obsidian URI links</div></div><div class="tree-item-children"></div></div><div class="tree-item"><div class="tree-item-self is-clickable"><div class="tree-item-inner">Escaping</div></div><div class="tree-item-children"></div></div></div></div><div class="tree-item"><div class="tree-item-self is-clickable"><div class="tree-item-inner">Blockquotes</div></div><div class="tree-item-children"></div></div><div class="tree-item"><div class="tree-item-self is-clickable"><div class="tree-item-inner">Inline code</div></div><div class="tree-item-children"></div></div><div class="tree-item"><div class="tree-item-self is-clickable"><div class="tree-item-inner">Code blocks</div></div><div class="tree-item-children"></div></div><div class="tree-item"><div class="tree-item-self is-clickable"><div class="tree-item-inner">Task list</div></div><div class="tree-item-children"></div></div><div class="tree-item"><div class="tree-item-self is-clickable"><div class="tree-item-inner">Tables</div></div><div class="tree-item-children"></div></div><div class="tree-item"><div class="tree-item-self is-clickable"><div class="tree-item-inner">Strikethrough</div></div><div class="tree-item-children"></div></div><div class="tree-item"><div class="tree-item-self is-clickable"><div class="tree-item-inner">Highlighting</div></div><div class="tree-item-children"></div></div><div class="tree-item"><div class="tree-item-self is-clickable"><div class="tree-item-inner">Horizontal Bar</div></div><div class="tree-item-children"></div></div><div class="tree-item"><div class="tree-item-self is-clickable"><div class="tree-item-inner">Footnotes</div></div><div class="tree-item-children"></div></div><div class="tree-item"><div class="tree-item-self is-clickable"><div class="tree-item-inner">Math</div></div><div class="tree-item-children"></div></div><div class="tree-item"><div class="tree-item-self is-clickable"><div class="tree-item-inner">Comments</div></div><div class="tree-item-children"></div></div></div></div><div class="tree-item"><div class="tree-item-self is-clickable"><div class="tree-item-inner">Callouts</div></div><div class="tree-item-children"><div class="tree-item"><div class="tree-item-self is-clickable"><div class="tree-item-inner">Diagram</div></div><div class="tree-item-children"></div></div></div></div><div class="tree-item"><div class="tree-item-self is-clickable"><div class="tree-item-inner">Developer notes</div></div><div class="tree-item-children"></div></div></div></div></div></div></div></div><div class="nav-backdrop"></div></div><script type="text/javascript" src="./Format your notes - Obsidian Help_files/pixi.min.js.download"></script><script type="text/javascript" src="./Format your notes - Obsidian Help_files/prism.min.js.download"></script><script type="text/javascript" src="./Format your notes - Obsidian Help_files/tex-chtml-full.js.download"></script><script type="text/javascript" src="./Format your notes - Obsidian Help_files/mermaid.min.js.download"></script></body></html>
+```
+````
+
+This way, all the note names (at least until `Z[note name]`) are all automatically assigned the class `internal-link` when you use this snippet.
+
+If you use special characters in your note names, you need to put the note name in double quotes.  
+`"⨳ special character"`  
+It looks like this if you follow the [second option](https://help.obsidian.md/How+to/Format+your+notes#^376b9d):  
+`A["⨳ special character"]`
+
+
