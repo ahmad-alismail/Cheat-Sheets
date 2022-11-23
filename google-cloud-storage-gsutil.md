@@ -12,6 +12,7 @@ GCP: Google Cloud Platform
 ## Before you begin
 * Make sure that billing is enabled for your Cloud project. Check out this [link](https://cloud.google.com/storage/docs/discover-object-storage-gsutil?cloudshell=true) for more information.
 * To set your Cloud Platform project in terminal use: `gcloud confg set project [PROJECT_ID]`
+* or create a Google Cloud project: `gcloud projects create [PROJECT_ID]`
 ## General Commands
 
 `gsutil ls`: lists all your buckets
