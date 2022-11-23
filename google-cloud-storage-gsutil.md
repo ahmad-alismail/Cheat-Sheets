@@ -39,14 +39,16 @@ GCP: Google Cloud Platform
 
 ## Permission
 `gsutil iam ch allUsers:objectViewer gs://my-awesome-bucket`: grant all users permission to read the files stored in your bucket
+
 `gsutil iam ch -d allUsers:objectViewer gs://my-awesome-bucket`: remove this access
 
 `gsutil iam ch user:jane@gmail.com:objectCreator,objectViewer gs://my-awesome-bucket`: give someone access to your bucket
+
 `gsutil iam ch -d user:jane@gmail.com:objectCreator,objectViewer gs://my-awesome-bucket`: remove this permission
 
 
 ## Footnotes
-1: The bucket name has to be unique across GCP.
-2: Note the trailing ‘/’ slash after < directory > to tell gsutil that the target is a directory and not a file
+1. The bucket name has to be unique across GCP.
+2. Note the trailing ‘/’ slash after < directory > to tell gsutil that the target is a directory and not a file
 
 [Reference page](https://cloud.google.com/storage/docs/gsutil/commands/acl) for `gsutil` Commands
